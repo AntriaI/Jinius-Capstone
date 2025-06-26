@@ -7066,12 +7066,6 @@
         "product_group_id": 3403.0
       },
       {
-        "color": NaN,
-        "size": "42",
-        "image": "https://jinius-prod.mirakl.net/mmp/media/product-media/33926/3026518-002-1.jpg",
-        "product_group_id": NaN
-      },
-      {
         "color": "White-navy",
         "size": "43",
         "image": "https://cdn.shopify.com/s/files/1/0109/8016/3643/files/340f1861d193008196c70ff7c17438d5.jpg?v=1717637027",
@@ -26650,11 +26644,6 @@
         "merchant": "unknown",
         "product_sku": "",
         "product_group_id": 3403.0
-      },
-      {
-        "merchant": "unknown",
-        "product_sku": "",
-        "product_group_id": NaN
       },
       {
         "merchant": "unknown",
