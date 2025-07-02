@@ -43,11 +43,6 @@
         "product_id": "5ac4222f-fc65-448f-a46b-ad7001b9bf68",
         "name": "Puma women's x-ray 3 sd",
         "image": "https://s3.gy.digital/famousports/uploads/asset/data/374691/399668-04_6.jpg"
-      },
-      {
-        "product_id": "3b45d664-c878-42a6-9dde-69709f2b54f8",
-        "name": "Puma women's x-ray 3 sd",
-        "image": "https://s3.gy.digital/famousports/uploads/asset/data/374691/399668-04_6.jpg"
       }
     ]
   },
@@ -435,20 +430,6 @@
   "group_27": {
     "-1": [
       {
-        "product_id": "2204940d-26b9-4166-82b7-faacb5f3ad20",
-        "name": "Cloud x 4 ad",
-        "image": "https://privesports.com.cy/product_catalog/groups/196403/3wf10173290-beige.jpg"
-      },
-      {
-        "product_id": "904d9114-5a95-44e9-9217-dd26d2aa3255",
-        "name": "Cloud x 4 ad",
-        "image": "https://privesports.com.cy/product_catalog/groups/196403/3wf10173290-beige.jpg"
-      }
-    ]
-  },
-  "group_28": {
-    "-1": [
-      {
         "product_id": "527b956a-8e3d-446a-aeaa-f94832f4520f",
         "name": "Puma women softride divine metal",
         "image": "https://powersoft365customers.blob.core.windows.net/he880244-a-katsouris-family-enterprises-ltd/Models/310167-04.jpg?updated=20250430202325"
@@ -460,7 +441,7 @@
       }
     ]
   },
-  "group_29": {
+  "group_28": {
     "-1": [
       {
         "product_id": "230ba4bf-eeb3-4b52-bc35-9ac207933575",
@@ -474,7 +455,7 @@
       }
     ]
   },
-  "group_30": {
+  "group_29": {
     "-1": [
       {
         "product_id": "7229f0ca-9502-417a-bfd3-2f59439f40b2",
@@ -488,7 +469,7 @@
       }
     ]
   },
-  "group_31": {
+  "group_30": {
     "-1": [
       {
         "product_id": "745e5a40-cf05-49fb-ba04-5be7bed49d32",
@@ -507,7 +488,7 @@
       }
     ]
   },
-  "group_32": {
+  "group_31": {
     "-1": [
       {
         "product_id": "25254eeb-e46f-4e6d-a899-e5c19fbfaf57",
@@ -521,21 +502,7 @@
       }
     ]
   },
-  "group_33": {
-    "-1": [
-      {
-        "product_id": "2030ddb2-66d7-4281-a039-a47c6001a16f",
-        "name": "Skechers current muse",
-        "image": "https://powersoft365customers.blob.core.windows.net/he132515a-d-e-natiotis-limited/Models/117497-TPE.jpg?updated=20241030123625"
-      },
-      {
-        "product_id": "9e674fbd-c380-4274-b50d-920fb3cdbfda",
-        "name": "Skechers current muse",
-        "image": "https://powersoft365customers.blob.core.windows.net/he132515a-d-e-natiotis-limited/Models/117497-TPE.jpg?updated=20241030123625"
-      }
-    ]
-  },
-  "group_34": {
+  "group_32": {
     "-1": [
       {
         "product_id": "38f852ee-3cfb-419a-9493-9d3bdc7abe2a",
@@ -549,7 +516,7 @@
       }
     ]
   },
-  "group_35": {
+  "group_33": {
     "-1": [
       {
         "product_id": "73d6b397-f5a7-430e-a251-006932b081df",
@@ -563,7 +530,7 @@
       }
     ]
   },
-  "group_36": {
+  "group_34": {
     "-1": [
       {
         "product_id": "c1153968-d950-4c4a-9a13-0c9912282448",
@@ -577,7 +544,7 @@
       }
     ]
   },
-  "group_37": {
+  "group_35": {
     "-1": [
       {
         "product_id": "0fd49c73-4007-418b-b373-5bc0dfbd1164",
@@ -591,7 +558,7 @@
       }
     ]
   },
-  "group_38": {
+  "group_36": {
     "-1": [
       {
         "product_id": "0acc6f60-c61a-4ee0-ab3c-6bb42b85060c",
@@ -605,7 +572,7 @@
       }
     ]
   },
-  "group_39": {
+  "group_37": {
     "-1": [
       {
         "product_id": "96162b0d-47be-4cdb-bbc9-4d4a3b5c8e6a",
@@ -619,7 +586,7 @@
       }
     ]
   },
-  "group_40": {
+  "group_38": {
     "-1": [
       {
         "product_id": "f567a5c4-7ceb-4caf-9df9-69b5b7941c05",
@@ -638,7 +605,7 @@
       }
     ]
   },
-  "group_41": {
+  "group_39": {
     "-1": [
       {
         "product_id": "f31d1fe9-1140-43b1-b5b7-2b439cc1e197",
@@ -652,7 +619,7 @@
       }
     ]
   },
-  "group_42": {
+  "group_40": {
     "-1": [
       {
         "product_id": "3e60fb3e-a450-4cbc-a40e-d32edcad91fa",
@@ -676,7 +643,7 @@
       }
     ]
   },
-  "group_43": {
+  "group_41": {
     "-1": [
       {
         "product_id": "5be694b7-8156-44e5-9084-78939341ab42",
@@ -700,7 +667,7 @@
       }
     ]
   },
-  "group_44": {
+  "group_42": {
     "-1": [
       {
         "product_id": "44c56117-9ae2-4a6e-8d07-d567884d56ae",
@@ -714,7 +681,7 @@
       }
     ]
   },
-  "group_45": {
+  "group_43": {
     "-1": [
       {
         "product_id": "912ecd25-64e9-47da-addd-98683fb052ab",
@@ -728,7 +695,7 @@
       }
     ]
   },
-  "group_46": {
+  "group_44": {
     "-1": [
       {
         "product_id": "a55a334e-3808-4202-8af6-c027d00d034a",
@@ -742,7 +709,7 @@
       }
     ]
   },
-  "group_47": {
+  "group_45": {
     "-1": [
       {
         "product_id": "9650de27-e88a-4793-a81b-061c6979d9a1",
@@ -756,7 +723,7 @@
       }
     ]
   },
-  "group_48": {
+  "group_46": {
     "-1": [
       {
         "product_id": "61a0a16d-4984-4e98-8974-41548b3967a7",
@@ -770,7 +737,7 @@
       }
     ]
   },
-  "group_49": {
+  "group_47": {
     "-1": [
       {
         "product_id": "a7ff47ff-fa0c-4a6f-a8de-d5f182176f10",
@@ -784,7 +751,7 @@
       }
     ]
   },
-  "group_50": {
+  "group_48": {
     "-1": [
       {
         "product_id": "ac7280c3-cec6-41fe-8828-da5f3e2ebb4e",
@@ -798,7 +765,7 @@
       }
     ]
   },
-  "group_51": {
+  "group_49": {
     "-1": [
       {
         "product_id": "359a5c70-0a54-4cd2-9df7-0b840c131e11",
@@ -812,7 +779,7 @@
       }
     ]
   },
-  "group_52": {
+  "group_50": {
     "-1": [
       {
         "product_id": "5317b679-4244-46c6-985a-97ad94e04b24",
@@ -841,7 +808,7 @@
       }
     ]
   },
-  "group_53": {
+  "group_51": {
     "-1": [
       {
         "product_id": "afdcb1df-fe7e-485a-96c4-fec3d707f96d",
@@ -860,7 +827,7 @@
       }
     ]
   },
-  "group_54": {
+  "group_52": {
     "-1": [
       {
         "product_id": "80f84f6f-300d-4e38-9877-3ab0733d85ad",
@@ -879,7 +846,7 @@
       }
     ]
   },
-  "group_55": {
+  "group_53": {
     "-1": [
       {
         "product_id": "32bc0486-5c9a-48ec-ab06-f34e290bc6d6",
@@ -893,7 +860,7 @@
       }
     ]
   },
-  "group_56": {
+  "group_54": {
     "-1": [
       {
         "product_id": "b937af75-5518-4b6b-a0fa-badfa8303b2c",
@@ -907,7 +874,7 @@
       }
     ]
   },
-  "group_57": {
+  "group_55": {
     "-1": [
       {
         "product_id": "a78cdd53-4cec-4cd8-b220-047c46a1bc1e",
@@ -921,7 +888,7 @@
       }
     ]
   },
-  "group_58": {
+  "group_56": {
     "-1": [
       {
         "product_id": "fa8e6747-b536-41a3-96e5-3c74cf45fe04",
@@ -940,7 +907,7 @@
       }
     ]
   },
-  "group_59": {
+  "group_57": {
     "-1": [
       {
         "product_id": "09c753d2-d48e-41d1-9dd1-c572ac3e9153",
@@ -959,7 +926,7 @@
       }
     ]
   },
-  "group_60": {
+  "group_58": {
     "-1": [
       {
         "product_id": "787cd2d8-aff1-4c39-97f4-560b31f10ce0",
@@ -973,7 +940,7 @@
       }
     ]
   },
-  "group_61": {
+  "group_59": {
     "-1": [
       {
         "product_id": "ccc2f1c4-2424-4e9d-9358-8c5f5e3bc2a0",
@@ -997,7 +964,7 @@
       }
     ]
   },
-  "group_62": {
+  "group_60": {
     "-1": [
       {
         "product_id": "378f8e52-c7b4-417c-9397-13b29a82afdc",
@@ -1011,7 +978,7 @@
       }
     ]
   },
-  "group_63": {
+  "group_61": {
     "-1": [
       {
         "product_id": "2965f5e3-8f3d-4a2c-b232-1b7783f9fe64",
@@ -1035,7 +1002,7 @@
       }
     ]
   },
-  "group_64": {
+  "group_62": {
     "-1": [
       {
         "product_id": "ab2f008d-e40f-47ec-a809-922cbd2b306a",
@@ -1059,7 +1026,7 @@
       }
     ]
   },
-  "group_65": {
+  "group_63": {
     "-1": [
       {
         "product_id": "535033aa-d598-4744-8cf5-a2a117ac1feb",
@@ -1073,7 +1040,7 @@
       }
     ]
   },
-  "group_66": {
+  "group_64": {
     "-1": [
       {
         "product_id": "de7ac180-a230-41e5-bc5a-64b5b0233b70",
@@ -1097,7 +1064,7 @@
       }
     ]
   },
-  "group_67": {
+  "group_65": {
     "-1": [
       {
         "product_id": "e628ceae-bc0f-44e0-9469-7e3c1dfa8a5a",
@@ -1111,7 +1078,7 @@
       }
     ]
   },
-  "group_68": {
+  "group_66": {
     "-1": [
       {
         "product_id": "5eddbef1-72a2-4f35-8f8d-ef8bd2b7e513",
@@ -1125,7 +1092,7 @@
       }
     ]
   },
-  "group_69": {
+  "group_67": {
     "-1": [
       {
         "product_id": "3715eebe-5d4e-47c4-b6b1-d31ec326a75d",
@@ -1139,7 +1106,7 @@
       }
     ]
   },
-  "group_70": {
+  "group_68": {
     "-1": [
       {
         "product_id": "320dac06-ef10-4698-a3de-47722766f866",
@@ -1153,7 +1120,7 @@
       }
     ]
   },
-  "group_71": {
+  "group_69": {
     "-1": [
       {
         "product_id": "6d45be45-fb56-4663-8286-9af351d7fd24",
@@ -1167,7 +1134,7 @@
       }
     ]
   },
-  "group_72": {
+  "group_70": {
     "-1": [
       {
         "product_id": "dc013bfb-d73d-4bcf-adf4-5534840c1431",
@@ -1181,7 +1148,7 @@
       }
     ]
   },
-  "group_73": {
+  "group_71": {
     "-1": [
       {
         "product_id": "8cb617d6-1934-48c1-a27b-c2e69cb1080c",
@@ -1195,7 +1162,7 @@
       }
     ]
   },
-  "group_74": {
+  "group_72": {
     "-1": [
       {
         "product_id": "a55aade4-83ab-4d9e-b6e2-5895cb3fa7f1",
@@ -1209,7 +1176,7 @@
       }
     ]
   },
-  "group_75": {
+  "group_73": {
     "-1": [
       {
         "product_id": "346e78c6-c01d-4af8-93fb-2501a76b9653",
@@ -1223,7 +1190,7 @@
       }
     ]
   },
-  "group_76": {
+  "group_74": {
     "-1": [
       {
         "product_id": "d10f4e94-3eaf-4bb4-95eb-4e2e9736df3b",
@@ -1237,7 +1204,7 @@
       }
     ]
   },
-  "group_77": {
+  "group_75": {
     "-1": [
       {
         "product_id": "b2b0d8d9-ce36-4d91-8285-79fb5a7b2ff7",
@@ -1251,7 +1218,7 @@
       }
     ]
   },
-  "group_78": {
+  "group_76": {
     "-1": [
       {
         "product_id": "094a07a8-5e1d-438d-a836-4de7a8939659",
@@ -1265,7 +1232,7 @@
       }
     ]
   },
-  "group_79": {
+  "group_77": {
     "-1": [
       {
         "product_id": "9b6d556b-338c-4202-9869-d9d88cd0871d",
@@ -1279,7 +1246,7 @@
       }
     ]
   },
-  "group_80": {
+  "group_78": {
     "-1": [
       {
         "product_id": "da7f2923-915c-41ad-a31c-7c552cd9225c",
@@ -1298,7 +1265,7 @@
       }
     ]
   },
-  "group_81": {
+  "group_79": {
     "-1": [
       {
         "product_id": "dd0a89d7-14fc-4680-b4a7-b9b620c0fa5b",
@@ -1312,21 +1279,7 @@
       }
     ]
   },
-  "group_82": {
-    "-1": [
-      {
-        "product_id": "851165ea-c6b0-4e49-83f0-926e7b4d5796",
-        "name": "Sl 72 rs",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/190158/ji1282.jpg"
-      },
-      {
-        "product_id": "1353841d-f463-4f85-97cb-4c5031148ef3",
-        "name": "Sl 72 rs",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/190158/ji1282.jpg"
-      }
-    ]
-  },
-  "group_83": {
+  "group_80": {
     "-1": [
       {
         "product_id": "02f791ec-78b3-4e52-a3ec-9321ac44ed71",
@@ -1340,7 +1293,7 @@
       }
     ]
   },
-  "group_84": {
+  "group_81": {
     "-1": [
       {
         "product_id": "5fac1ac2-7ba9-4c36-b1ac-1f498886e1d2",
@@ -1354,7 +1307,7 @@
       }
     ]
   },
-  "group_85": {
+  "group_82": {
     "-1": [
       {
         "product_id": "f152932b-9de2-41a5-83fd-2ab370e1039f",
@@ -1368,7 +1321,7 @@
       }
     ]
   },
-  "group_86": {
+  "group_83": {
     "-1": [
       {
         "product_id": "b4896f53-5014-41f3-8972-8fb61969a269",
@@ -1382,7 +1335,7 @@
       }
     ]
   },
-  "group_87": {
+  "group_84": {
     "-1": [
       {
         "product_id": "8e634858-bc3d-44e2-956f-d6695a442aca",
@@ -1396,7 +1349,7 @@
       }
     ]
   },
-  "group_88": {
+  "group_85": {
     "-1": [
       {
         "product_id": "93b23231-a98e-4b6a-8970-6ffd22577ace",
@@ -1410,7 +1363,7 @@
       }
     ]
   },
-  "group_89": {
+  "group_86": {
     "-1": [
       {
         "product_id": "a384da56-e2b3-47af-8b2c-4d1147019f74",
@@ -1424,7 +1377,7 @@
       }
     ]
   },
-  "group_90": {
+  "group_87": {
     "-1": [
       {
         "product_id": "94938764-8960-4ebb-b6c8-12cb91a9dd11",
@@ -1438,7 +1391,7 @@
       }
     ]
   },
-  "group_91": {
+  "group_88": {
     "-1": [
       {
         "product_id": "5f13378d-1756-4c32-b793-962f5a106269",
@@ -1452,7 +1405,7 @@
       }
     ]
   },
-  "group_92": {
+  "group_89": {
     "-1": [
       {
         "product_id": "5719a48a-0df1-4d62-9d54-78cb86a9c02d",
@@ -1466,7 +1419,7 @@
       }
     ]
   },
-  "group_93": {
+  "group_90": {
     "-1": [
       {
         "product_id": "31b57df8-c826-4780-86b6-efcc4a8c38ec",
@@ -1480,7 +1433,7 @@
       }
     ]
   },
-  "group_94": {
+  "group_91": {
     "-1": [
       {
         "product_id": "7fc6f6e9-d041-4963-8009-ca575d694ed3",
@@ -1494,7 +1447,7 @@
       }
     ]
   },
-  "group_95": {
+  "group_92": {
     "-1": [
       {
         "product_id": "d097c7a1-c050-491c-bd84-681e2b0faa56",
@@ -1508,7 +1461,7 @@
       }
     ]
   },
-  "group_96": {
+  "group_93": {
     "-1": [
       {
         "product_id": "d8ed385e-570c-4a7b-aa61-2e90753aac68",
@@ -1522,7 +1475,7 @@
       }
     ]
   },
-  "group_97": {
+  "group_94": {
     "-1": [
       {
         "product_id": "29904ea5-c1d9-4694-9e5b-5ed1f47ca008",
@@ -1536,7 +1489,7 @@
       }
     ]
   },
-  "group_98": {
+  "group_95": {
     "-1": [
       {
         "product_id": "a4a9d1c1-176f-46fb-a7bc-51ab57ffe774",
@@ -1550,7 +1503,7 @@
       }
     ]
   },
-  "group_99": {
+  "group_96": {
     "-1": [
       {
         "product_id": "1f0ae216-605f-4ac9-871e-906eb806eb47",
@@ -1564,21 +1517,7 @@
       }
     ]
   },
-  "group_100": {
-    "-1": [
-      {
-        "product_id": "24b31f61-46ba-41df-8eed-c1f4c52d3bc5",
-        "name": "Chuck taylor all star lift women",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/61614/560250c.jpg"
-      },
-      {
-        "product_id": "de70f3fe-fec7-4f3e-b586-ddf0607a4cb2",
-        "name": "Chuck taylor all star lift women",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/61614/560250c.jpg"
-      }
-    ]
-  },
-  "group_101": {
+  "group_97": {
     "-1": [
       {
         "product_id": "5b5f0e3d-66a8-4968-ade4-9952cbd96cf4",
@@ -1592,7 +1531,7 @@
       }
     ]
   },
-  "group_102": {
+  "group_98": {
     "-1": [
       {
         "product_id": "ff58fc09-d41c-4aa3-b09d-69a3776c1481",
@@ -1606,7 +1545,7 @@
       }
     ]
   },
-  "group_103": {
+  "group_99": {
     "-1": [
       {
         "product_id": "89b59b27-df02-4ca8-a9fb-98e823c1a0eb",
@@ -1620,7 +1559,7 @@
       }
     ]
   },
-  "group_104": {
+  "group_100": {
     "-1": [
       {
         "product_id": "1f920a5d-a07d-44c1-8f6a-d824787cf723",
@@ -1644,7 +1583,7 @@
       }
     ]
   },
-  "group_105": {
+  "group_101": {
     "-1": [
       {
         "product_id": "8715e389-68b5-4445-b5ef-c96660e18d20",
@@ -1658,7 +1597,7 @@
       }
     ]
   },
-  "group_106": {
+  "group_102": {
     "-1": [
       {
         "product_id": "eff3e0b2-d232-49aa-b366-1cd12af11479",
@@ -1677,7 +1616,7 @@
       }
     ]
   },
-  "group_107": {
+  "group_103": {
     "-1": [
       {
         "product_id": "18583a1b-2234-4e18-86e6-5e0cb1d56b4f",
@@ -1691,7 +1630,7 @@
       }
     ]
   },
-  "group_108": {
+  "group_104": {
     "-1": [
       {
         "product_id": "0b6e202e-ceb0-48d5-acb1-b7f45db17099",
@@ -1705,7 +1644,7 @@
       }
     ]
   },
-  "group_109": {
+  "group_105": {
     "-1": [
       {
         "product_id": "772bed16-d096-40e4-a64d-4ed5aa97c170",
@@ -1719,7 +1658,7 @@
       }
     ]
   },
-  "group_110": {
+  "group_106": {
     "-1": [
       {
         "product_id": "3bbf0ce9-6199-40be-adbd-28915f789b8d",
@@ -1733,7 +1672,7 @@
       }
     ]
   },
-  "group_111": {
+  "group_107": {
     "-1": [
       {
         "product_id": "bcfa8636-0cf1-45ab-8c32-9d1d7bb3821d",
@@ -1747,7 +1686,7 @@
       }
     ]
   },
-  "group_112": {
+  "group_108": {
     "-1": [
       {
         "product_id": "c82bad3d-0cf6-4a95-b50d-68281cd0cdd2",
@@ -1761,7 +1700,7 @@
       }
     ]
   },
-  "group_113": {
+  "group_109": {
     "-1": [
       {
         "product_id": "d442ce7d-ebe0-449f-ad08-967075223cbd",
@@ -1775,7 +1714,7 @@
       }
     ]
   },
-  "group_114": {
+  "group_110": {
     "-1": [
       {
         "product_id": "de77662b-f5a7-4bfc-9897-e7d883f9928b",
@@ -1789,7 +1728,7 @@
       }
     ]
   },
-  "group_115": {
+  "group_111": {
     "-1": [
       {
         "product_id": "76054843-868a-408d-8fbb-4b1d597f643d",
@@ -1803,7 +1742,7 @@
       }
     ]
   },
-  "group_116": {
+  "group_112": {
     "-1": [
       {
         "product_id": "778adc2b-e01a-4c63-b059-c89480cc30c3",
@@ -1817,7 +1756,7 @@
       }
     ]
   },
-  "group_117": {
+  "group_113": {
     "-1": [
       {
         "product_id": "df8fa9b7-ec4a-4566-b048-3c18613ff31c",
@@ -1831,7 +1770,7 @@
       }
     ]
   },
-  "group_118": {
+  "group_114": {
     "-1": [
       {
         "product_id": "6dea6836-ab94-4fb2-bdf8-f1671aae1567",
@@ -1845,7 +1784,7 @@
       }
     ]
   },
-  "group_119": {
+  "group_115": {
     "-1": [
       {
         "product_id": "b1dc6601-3e2d-47d6-8398-c0f1b24ea22b",
@@ -1859,7 +1798,7 @@
       }
     ]
   },
-  "group_120": {
+  "group_116": {
     "-1": [
       {
         "product_id": "f12abe10-dd1a-491f-9acb-b3ec571e9b56",
@@ -1873,7 +1812,7 @@
       }
     ]
   },
-  "group_121": {
+  "group_117": {
     "-1": [
       {
         "product_id": "abdf4623-d4bf-45a6-97c8-53f7c27cc7fd",
@@ -1887,7 +1826,7 @@
       }
     ]
   },
-  "group_122": {
+  "group_118": {
     "-1": [
       {
         "product_id": "442fe85a-3196-402f-a78c-ce30d8c6b936",
@@ -1901,7 +1840,7 @@
       }
     ]
   },
-  "group_123": {
+  "group_119": {
     "-1": [
       {
         "product_id": "cca1c7ac-fdea-4117-b8ef-a4d33c7a2834",
@@ -1925,7 +1864,7 @@
       }
     ]
   },
-  "group_124": {
+  "group_120": {
     "-1": [
       {
         "product_id": "2c6dc415-e57e-47d4-b846-c06ca4d5cc31",
@@ -1939,7 +1878,7 @@
       }
     ]
   },
-  "group_125": {
+  "group_121": {
     "-1": [
       {
         "product_id": "34908a15-2ca3-40ec-9056-1c19b96c2f64",
@@ -1953,7 +1892,7 @@
       }
     ]
   },
-  "group_126": {
+  "group_122": {
     "-1": [
       {
         "product_id": "8dfa4f3e-ad82-4676-8f1c-f98618936a35",
@@ -1967,7 +1906,7 @@
       }
     ]
   },
-  "group_127": {
+  "group_123": {
     "-1": [
       {
         "product_id": "45d862c2-1ec5-4c29-a54c-95f409cf5a1a",
@@ -1981,7 +1920,7 @@
       }
     ]
   },
-  "group_128": {
+  "group_124": {
     "-1": [
       {
         "product_id": "9a0ec574-bfe8-4661-9732-ae0336e0e17d",
@@ -1995,7 +1934,7 @@
       }
     ]
   },
-  "group_129": {
+  "group_125": {
     "-1": [
       {
         "product_id": "bd786a3d-38e9-44be-8a8a-666648097790",
@@ -2009,7 +1948,7 @@
       }
     ]
   },
-  "group_130": {
+  "group_126": {
     "-1": [
       {
         "product_id": "acbb0993-9a5f-4300-854b-f90af0df2bde",
@@ -2023,7 +1962,7 @@
       }
     ]
   },
-  "group_131": {
+  "group_127": {
     "-1": [
       {
         "product_id": "dd770625-0042-4b3a-ac65-a029381f38b8",
@@ -2042,7 +1981,7 @@
       }
     ]
   },
-  "group_132": {
+  "group_128": {
     "-1": [
       {
         "product_id": "0692629f-30a0-4755-a6ca-2de3ae5e1d4d",
@@ -2056,7 +1995,7 @@
       }
     ]
   },
-  "group_133": {
+  "group_129": {
     "-1": [
       {
         "product_id": "5a7d3d38-b2ac-485c-a42b-1bc5bf8c7945",
@@ -2070,7 +2009,7 @@
       }
     ]
   },
-  "group_134": {
+  "group_130": {
     "-1": [
       {
         "product_id": "e8844cb4-ca9d-4c4d-ba5b-55bd0797975b",
@@ -2094,7 +2033,7 @@
       }
     ]
   },
-  "group_135": {
+  "group_131": {
     "-1": [
       {
         "product_id": "a7c07108-77b5-4fef-a249-66628ca3ead4",
@@ -2113,7 +2052,7 @@
       }
     ]
   },
-  "group_136": {
+  "group_132": {
     "-1": [
       {
         "product_id": "c0c3330b-d5ee-4bd6-b040-9fe6e8b17b88",
@@ -2127,7 +2066,7 @@
       }
     ]
   },
-  "group_137": {
+  "group_133": {
     "-1": [
       {
         "product_id": "2bac5106-ce2f-4b81-87e7-86fca2c17584",
@@ -2141,7 +2080,7 @@
       }
     ]
   },
-  "group_138": {
+  "group_134": {
     "-1": [
       {
         "product_id": "ceae774b-5d52-4a8b-a4f2-3eec28df4d10",
@@ -2155,7 +2094,7 @@
       }
     ]
   },
-  "group_139": {
+  "group_135": {
     "-1": [
       {
         "product_id": "ee734c5c-72ce-4bb8-8e97-acd43e859bb6",
@@ -2169,7 +2108,7 @@
       }
     ]
   },
-  "group_140": {
+  "group_136": {
     "-1": [
       {
         "product_id": "2bda174a-4e95-4a65-a9b3-5f6cecafaf1e",
@@ -2188,7 +2127,7 @@
       }
     ]
   },
-  "group_141": {
+  "group_137": {
     "-1": [
       {
         "product_id": "4b97b332-bc26-4d53-ab15-2e17ba06511e",
@@ -2202,7 +2141,7 @@
       }
     ]
   },
-  "group_142": {
+  "group_138": {
     "-1": [
       {
         "product_id": "aff01c4d-99b8-4c98-aade-da60f99ed2cb",
@@ -2216,7 +2155,7 @@
       }
     ]
   },
-  "group_143": {
+  "group_139": {
     "-1": [
       {
         "product_id": "525843c7-1d74-41bd-a8eb-841676df2f3a",
@@ -2230,7 +2169,7 @@
       }
     ]
   },
-  "group_144": {
+  "group_140": {
     "-1": [
       {
         "product_id": "66302fa0-5ecf-4f37-9040-0c2042a07579",
@@ -2249,7 +2188,7 @@
       }
     ]
   },
-  "group_145": {
+  "group_141": {
     "-1": [
       {
         "product_id": "4e847fe8-ff12-462e-b74c-d7848fd507d0",
@@ -2263,7 +2202,7 @@
       }
     ]
   },
-  "group_146": {
+  "group_142": {
     "-1": [
       {
         "product_id": "4aee825d-9ab9-4ac4-a11a-96229ce6f3ad",
@@ -2277,7 +2216,7 @@
       }
     ]
   },
-  "group_147": {
+  "group_143": {
     "-1": [
       {
         "product_id": "15f92094-f138-4558-b21f-bc73f5c240bd",
@@ -2291,21 +2230,7 @@
       }
     ]
   },
-  "group_148": {
-    "-1": [
-      {
-        "product_id": "beebb5fa-d15b-4fd0-83df-d04dd267b54c",
-        "name": "Classic black all-day comfort trainers",
-        "image": "https://powersoft365customers.blob.core.windows.net/he411267-elmangou-ltd/Models/561207-01-BLK.jpg?updated=20231120190810"
-      },
-      {
-        "product_id": "5167919b-22a4-4706-89ed-36a1088c71ea",
-        "name": "Classic black all-day comfort trainers",
-        "image": "https://powersoft365customers.blob.core.windows.net/he411267-elmangou-ltd/Models/561207-01-BLK.jpg?updated=20231120190810"
-      }
-    ]
-  },
-  "group_149": {
+  "group_144": {
     "-1": [
       {
         "product_id": "79834d68-77ec-42e2-b0d6-153c7db59200",
@@ -2319,7 +2244,7 @@
       }
     ]
   },
-  "group_150": {
+  "group_145": {
     "-1": [
       {
         "product_id": "16282c96-75a8-4409-8841-26afb5fd2031",
@@ -2338,7 +2263,7 @@
       }
     ]
   },
-  "group_151": {
+  "group_146": {
     "-1": [
       {
         "product_id": "2a9c8a52-0569-43f1-845e-37527b29463b",
@@ -2352,7 +2277,7 @@
       }
     ]
   },
-  "group_152": {
+  "group_147": {
     "-1": [
       {
         "product_id": "92515dc5-ee07-459c-8345-abbc119d1e7d",
@@ -2366,7 +2291,7 @@
       }
     ]
   },
-  "group_153": {
+  "group_148": {
     "-1": [
       {
         "product_id": "02048fb2-bd5f-4e78-b66a-f900c4f21878",
@@ -2380,7 +2305,7 @@
       }
     ]
   },
-  "group_154": {
+  "group_149": {
     "-1": [
       {
         "product_id": "bac1ca3c-dd8b-4182-98dd-021697f625b6",
@@ -2394,7 +2319,7 @@
       }
     ]
   },
-  "group_155": {
+  "group_150": {
     "-1": [
       {
         "product_id": "a741a826-1c2b-4d52-9687-b24811c16c51",
@@ -2408,21 +2333,7 @@
       }
     ]
   },
-  "group_156": {
-    "-1": [
-      {
-        "product_id": "9f3203bb-ad82-4e0b-a3e8-bdabba7e49b7",
-        "name": "Reverse chunky trainers in black",
-        "image": "https://powersoft365customers.blob.core.windows.net/he35078-christou-bros-trading-ltd/Models/2130704-BLK.jpg"
-      },
-      {
-        "product_id": "3c865c28-83fc-48d4-bd38-1ce2c0c8d139",
-        "name": "Reverse chunky trainers in black",
-        "image": "https://powersoft365customers.blob.core.windows.net/he35078-christou-bros-trading-ltd/Models/2130704-BLK.jpg"
-      }
-    ]
-  },
-  "group_157": {
+  "group_151": {
     "-1": [
       {
         "product_id": "431b59aa-f83a-4115-9712-76ad65082dc9",
@@ -2441,7 +2352,7 @@
       }
     ]
   },
-  "group_158": {
+  "group_152": {
     "-1": [
       {
         "product_id": "201d166d-5e74-4bc2-a371-190e2803180a",
@@ -2455,7 +2366,7 @@
       }
     ]
   },
-  "group_159": {
+  "group_153": {
     "-1": [
       {
         "product_id": "4df4b135-0a8b-4023-bb65-f85170eff0c3",
@@ -2474,7 +2385,7 @@
       }
     ]
   },
-  "group_160": {
+  "group_154": {
     "-1": [
       {
         "product_id": "bfc31bc2-f857-4029-aec8-b2936054719a",
@@ -2488,7 +2399,7 @@
       }
     ]
   },
-  "group_161": {
+  "group_155": {
     "-1": [
       {
         "product_id": "028f1876-9120-45b2-a7df-21e9fba2010b",
@@ -2502,7 +2413,7 @@
       }
     ]
   },
-  "group_162": {
+  "group_156": {
     "-1": [
       {
         "product_id": "96d8ac24-0958-41c7-957a-cf79ec68c3fe",
@@ -2516,7 +2427,7 @@
       }
     ]
   },
-  "group_163": {
+  "group_157": {
     "-1": [
       {
         "product_id": "1647193f-9f18-4006-a1f0-f3ca239681a9",
@@ -2530,7 +2441,7 @@
       }
     ]
   },
-  "group_164": {
+  "group_158": {
     "-1": [
       {
         "product_id": "01f8d272-5fbf-4bfe-a472-afe5ffdd43f2",
@@ -2544,7 +2455,7 @@
       }
     ]
   },
-  "group_165": {
+  "group_159": {
     "-1": [
       {
         "product_id": "40646dc1-ff85-4fef-9bde-21cbbd9f7cf2",
@@ -2563,7 +2474,7 @@
       }
     ]
   },
-  "group_166": {
+  "group_160": {
     "-1": [
       {
         "product_id": "865f7d33-9f1b-4d40-ac71-8a6e05e13663",
@@ -2577,7 +2488,7 @@
       }
     ]
   },
-  "group_167": {
+  "group_161": {
     "-1": [
       {
         "product_id": "28a15f24-8ac2-4173-8693-ef90e8e59139",
@@ -2591,7 +2502,7 @@
       }
     ]
   },
-  "group_168": {
+  "group_162": {
     "-1": [
       {
         "product_id": "8cf04c3b-929f-4e4f-b73a-a506a0fe755e",
@@ -2605,7 +2516,7 @@
       }
     ]
   },
-  "group_169": {
+  "group_163": {
     "-1": [
       {
         "product_id": "a6a9be12-ae70-4f88-8de8-1c7ffa7362b6",
@@ -2624,7 +2535,7 @@
       }
     ]
   },
-  "group_170": {
+  "group_164": {
     "-1": [
       {
         "product_id": "79d112cd-ea89-4a92-a42a-edad15ecfa6e",
@@ -2638,7 +2549,7 @@
       }
     ]
   },
-  "group_171": {
+  "group_165": {
     "-1": [
       {
         "product_id": "28738d69-87c5-4d0e-8fcc-da09abb2e7e6",
@@ -2652,7 +2563,7 @@
       }
     ]
   },
-  "group_172": {
+  "group_166": {
     "-1": [
       {
         "product_id": "08344da2-c4d2-4e73-aa34-d8fa812348f5",
@@ -2666,7 +2577,7 @@
       }
     ]
   },
-  "group_173": {
+  "group_167": {
     "-1": [
       {
         "product_id": "5017a8ef-bfc4-4860-a34f-1e10f445a63b",
@@ -2690,7 +2601,7 @@
       }
     ]
   },
-  "group_174": {
+  "group_168": {
     "-1": [
       {
         "product_id": "c8ee69bc-272c-476f-9511-60469447cbcf",
@@ -2704,7 +2615,7 @@
       }
     ]
   },
-  "group_175": {
+  "group_169": {
     "-1": [
       {
         "product_id": "e833b18d-90bd-4633-a7a5-906f9ddd77f2",
@@ -2718,7 +2629,7 @@
       }
     ]
   },
-  "group_176": {
+  "group_170": {
     "-1": [
       {
         "product_id": "a6bedea5-66ce-457c-937f-251dce011279",
@@ -2732,21 +2643,7 @@
       }
     ]
   },
-  "group_177": {
-    "-1": [
-      {
-        "product_id": "cc12e001-4f31-417b-a2bc-d8bc4d831f0c",
-        "name": "Skechers go walk flex",
-        "image": "https://powersoft365customers.blob.core.windows.net/he132515a-d-e-natiotis-limited/Models/124952-BBK.jpg?updated=20231017125946"
-      },
-      {
-        "product_id": "7d40dd31-56cf-4bbd-a80c-1a7aac97e072",
-        "name": "Skechers go walk flex",
-        "image": "https://powersoft365customers.blob.core.windows.net/he132515a-d-e-natiotis-limited/Models/124952-BBK.jpg?updated=20231017125946"
-      }
-    ]
-  },
-  "group_178": {
+  "group_171": {
     "-1": [
       {
         "product_id": "2171f230-b364-4b88-a57d-d5aa2b5e29e5",
@@ -2765,7 +2662,7 @@
       }
     ]
   },
-  "group_179": {
+  "group_172": {
     "-1": [
       {
         "product_id": "2de3dd01-a642-4b31-a21d-2bd0c35241dc",
@@ -2794,7 +2691,7 @@
       }
     ]
   },
-  "group_180": {
+  "group_173": {
     "-1": [
       {
         "product_id": "c378110a-95b4-4322-80d0-a198169126b6",
@@ -2808,21 +2705,7 @@
       }
     ]
   },
-  "group_181": {
-    "-1": [
-      {
-        "product_id": "0677305c-9bde-45b1-84f3-c5f11be60338",
-        "name": "Women's bobs squad chaos",
-        "image": "https://privesports.com.cy/product_catalog/groups/175385/117209-BBK-BLACK.jpg"
-      },
-      {
-        "product_id": "bf4a311d-1bb9-47ec-834a-a898a82f057e",
-        "name": "Women's bobs squad chaos",
-        "image": "https://privesports.com.cy/product_catalog/groups/175385/117209-BBK-BLACK.jpg"
-      }
-    ]
-  },
-  "group_182": {
+  "group_174": {
     "-1": [
       {
         "product_id": "c6718c51-91d0-4764-afec-bb08e148307a",
@@ -2836,7 +2719,7 @@
       }
     ]
   },
-  "group_183": {
+  "group_175": {
     "-1": [
       {
         "product_id": "fce5c2db-309d-48a6-a5d3-d9b43cf4dee5",
@@ -2850,7 +2733,7 @@
       }
     ]
   },
-  "group_184": {
+  "group_176": {
     "-1": [
       {
         "product_id": "2b143617-84d3-49ae-8244-4b401d42288d",
@@ -2864,7 +2747,7 @@
       }
     ]
   },
-  "group_185": {
+  "group_177": {
     "-1": [
       {
         "product_id": "c255afd7-a94d-444c-bc41-697ea86ed5b0",
@@ -2878,7 +2761,7 @@
       }
     ]
   },
-  "group_186": {
+  "group_178": {
     "-1": [
       {
         "product_id": "bc39b58a-62ab-4068-a420-d10e867997c3",
@@ -2892,7 +2775,7 @@
       }
     ]
   },
-  "group_187": {
+  "group_179": {
     "-1": [
       {
         "product_id": "5aa32604-fd61-4d4a-8dab-83cc76a61f85",
@@ -2906,7 +2789,7 @@
       }
     ]
   },
-  "group_188": {
+  "group_180": {
     "-1": [
       {
         "product_id": "8f36970b-226e-462d-b0d9-de197427d763",
@@ -2920,7 +2803,7 @@
       }
     ]
   },
-  "group_189": {
+  "group_181": {
     "-1": [
       {
         "product_id": "05b07c3c-dd2b-4b41-b19a-6d339c098a3c",
@@ -2934,7 +2817,7 @@
       }
     ]
   },
-  "group_190": {
+  "group_182": {
     "-1": [
       {
         "product_id": "ba0bc7e9-8f05-4964-bf9c-545ccb00141f",
@@ -2948,7 +2831,7 @@
       }
     ]
   },
-  "group_191": {
+  "group_183": {
     "-1": [
       {
         "product_id": "a71d481f-f8d9-4a05-b377-0b56983547af",
@@ -2962,7 +2845,7 @@
       }
     ]
   },
-  "group_192": {
+  "group_184": {
     "-1": [
       {
         "product_id": "8150da4b-4404-42a6-9d36-8b7c68dd9528",
@@ -2981,7 +2864,7 @@
       }
     ]
   },
-  "group_193": {
+  "group_185": {
     "-1": [
       {
         "product_id": "21f1a15f-bf1d-4bff-b7cf-849568c4c6ad",
@@ -3000,7 +2883,7 @@
       }
     ]
   },
-  "group_194": {
+  "group_186": {
     "-1": [
       {
         "product_id": "53a2f932-65a4-49b4-9b89-7410f0565074",
@@ -3014,7 +2897,7 @@
       }
     ]
   },
-  "group_195": {
+  "group_187": {
     "-1": [
       {
         "product_id": "6623ab94-758b-448e-bdc1-965276c29738",
@@ -3033,7 +2916,7 @@
       }
     ]
   },
-  "group_196": {
+  "group_188": {
     "-1": [
       {
         "product_id": "d985cd72-8e6b-4c4f-b65c-54f63413b3cb",
@@ -3047,7 +2930,7 @@
       }
     ]
   },
-  "group_197": {
+  "group_189": {
     "-1": [
       {
         "product_id": "d2ec28e1-13a5-449a-934f-db0d0c38d281",
@@ -3061,7 +2944,7 @@
       }
     ]
   },
-  "group_198": {
+  "group_190": {
     "-1": [
       {
         "product_id": "97eb9f1b-e1b9-4515-97c1-1a4cbe278f19",
@@ -3080,7 +2963,7 @@
       }
     ]
   },
-  "group_199": {
+  "group_191": {
     "-1": [
       {
         "product_id": "6f302b78-9a86-484e-894f-bb39220931a3",
@@ -3099,7 +2982,7 @@
       }
     ]
   },
-  "group_200": {
+  "group_192": {
     "-1": [
       {
         "product_id": "c78c33b6-756c-48ca-9ffb-c4ffb0cf9821",
@@ -3113,7 +2996,7 @@
       }
     ]
   },
-  "group_201": {
+  "group_193": {
     "-1": [
       {
         "product_id": "05777b43-7e66-4b02-9d34-558802b7d6b5",
@@ -3127,7 +3010,7 @@
       }
     ]
   },
-  "group_202": {
+  "group_194": {
     "-1": [
       {
         "product_id": "e6dccab3-374d-41b1-8a8b-1cd9d634c8e1",
@@ -3146,7 +3029,7 @@
       }
     ]
   },
-  "group_203": {
+  "group_195": {
     "-1": [
       {
         "product_id": "a3ec3c80-facb-4d7b-91cc-da49711a0ff3",
@@ -3160,7 +3043,7 @@
       }
     ]
   },
-  "group_204": {
+  "group_196": {
     "-1": [
       {
         "product_id": "b949b0fa-b16e-4d81-be5f-12a657161f7f",
@@ -3174,7 +3057,7 @@
       }
     ]
   },
-  "group_205": {
+  "group_197": {
     "-1": [
       {
         "product_id": "1d7a008c-e925-4df5-ac42-70b92b72f339",
@@ -3188,7 +3071,7 @@
       }
     ]
   },
-  "group_206": {
+  "group_198": {
     "-1": [
       {
         "product_id": "ec568cab-b47f-4ed4-a61d-547ca91700b8",
@@ -3202,7 +3085,7 @@
       }
     ]
   },
-  "group_207": {
+  "group_199": {
     "-1": [
       {
         "product_id": "8a29a0cb-5f9e-4e24-a1f9-4062fabf574b",
@@ -3216,7 +3099,7 @@
       }
     ]
   },
-  "group_208": {
+  "group_200": {
     "-1": [
       {
         "product_id": "dc8d75d8-64fb-424c-8144-4f62bf5d9166",
@@ -3240,7 +3123,7 @@
       }
     ]
   },
-  "group_209": {
+  "group_201": {
     "-1": [
       {
         "product_id": "629d9308-a7f8-49d6-b42a-7e6f031046d2",
@@ -3254,7 +3137,7 @@
       }
     ]
   },
-  "group_210": {
+  "group_202": {
     "-1": [
       {
         "product_id": "fd468b84-0e5c-45cb-8a9e-98c040f4b1b1",
@@ -3268,7 +3151,7 @@
       }
     ]
   },
-  "group_211": {
+  "group_203": {
     "-1": [
       {
         "product_id": "8429e072-bda3-4022-88d0-53f7a5fbd01c",
@@ -3292,7 +3175,7 @@
       }
     ]
   },
-  "group_212": {
+  "group_204": {
     "-1": [
       {
         "product_id": "693164b5-3236-4b53-9098-aedaf1b71080",
@@ -3306,7 +3189,7 @@
       }
     ]
   },
-  "group_213": {
+  "group_205": {
     "-1": [
       {
         "product_id": "ed9d3aa6-e43b-475b-8b4c-647ffdd76907",
@@ -3320,7 +3203,7 @@
       }
     ]
   },
-  "group_214": {
+  "group_206": {
     "-1": [
       {
         "product_id": "7e08fd40-219e-4d6a-ab7c-cfbcf4185d5e",
@@ -3334,7 +3217,7 @@
       }
     ]
   },
-  "group_215": {
+  "group_207": {
     "-1": [
       {
         "product_id": "48324b9e-f96a-4ada-8b6c-da56e11600e1",
@@ -3348,7 +3231,7 @@
       }
     ]
   },
-  "group_216": {
+  "group_208": {
     "-1": [
       {
         "product_id": "c674980f-c10e-44af-b071-23b3dbc4afc1",
@@ -3362,7 +3245,7 @@
       }
     ]
   },
-  "group_217": {
+  "group_209": {
     "-1": [
       {
         "product_id": "53df26fd-0c9e-415a-b295-cbd0aad31789",
@@ -3376,7 +3259,7 @@
       }
     ]
   },
-  "group_218": {
+  "group_210": {
     "-1": [
       {
         "product_id": "4b93483a-3d37-476b-9e28-d79341ecd705",
@@ -3390,7 +3273,7 @@
       }
     ]
   },
-  "group_219": {
+  "group_211": {
     "-1": [
       {
         "product_id": "a575232f-5424-4b79-8975-f9a284e283fd",
@@ -3404,7 +3287,7 @@
       }
     ]
   },
-  "group_220": {
+  "group_212": {
     "-1": [
       {
         "product_id": "cda6d740-9872-47f4-b56b-9413c1743ef3",
@@ -3418,7 +3301,7 @@
       }
     ]
   },
-  "group_221": {
+  "group_213": {
     "-1": [
       {
         "product_id": "390fa57d-7e9e-4a2a-9986-fa564559bb16",
@@ -3432,7 +3315,7 @@
       }
     ]
   },
-  "group_222": {
+  "group_214": {
     "-1": [
       {
         "product_id": "284f8f0b-2e55-4bae-8064-9a2bc6e1e559",
@@ -3446,7 +3329,7 @@
       }
     ]
   },
-  "group_223": {
+  "group_215": {
     "-1": [
       {
         "product_id": "1c71ebe1-0338-4375-8e99-7c4eac998b5d",
@@ -3465,7 +3348,7 @@
       }
     ]
   },
-  "group_224": {
+  "group_216": {
     "-1": [
       {
         "product_id": "b60a5a94-0a67-4658-994e-418a576a01e4",
@@ -3479,7 +3362,7 @@
       }
     ]
   },
-  "group_225": {
+  "group_217": {
     "-1": [
       {
         "product_id": "a30030b3-81f0-4fd5-9930-55cbb37b05a2",
@@ -3493,7 +3376,7 @@
       }
     ]
   },
-  "group_226": {
+  "group_218": {
     "-1": [
       {
         "product_id": "84ec0c35-ace9-408f-97d5-a92f4803963d",
@@ -3507,7 +3390,7 @@
       }
     ]
   },
-  "group_227": {
+  "group_219": {
     "-1": [
       {
         "product_id": "68a5b7c1-1564-4931-b7b6-fa4f61df90d9",
@@ -3521,7 +3404,7 @@
       }
     ]
   },
-  "group_228": {
+  "group_220": {
     "-1": [
       {
         "product_id": "4d9e4361-7f5c-4b6d-86d4-647e414aa0ce",
@@ -3540,7 +3423,7 @@
       }
     ]
   },
-  "group_229": {
+  "group_221": {
     "-1": [
       {
         "product_id": "78657eb6-86bb-471a-ab28-f83e1bbdc4a0",
@@ -3554,7 +3437,7 @@
       }
     ]
   },
-  "group_230": {
+  "group_222": {
     "-1": [
       {
         "product_id": "995d413b-c5db-474c-a084-eb16ecfbe841",
@@ -3568,7 +3451,7 @@
       }
     ]
   },
-  "group_231": {
+  "group_223": {
     "-1": [
       {
         "product_id": "a0bad461-ba70-463e-a21b-f5818fdb3a02",
@@ -3582,7 +3465,7 @@
       }
     ]
   },
-  "group_232": {
+  "group_224": {
     "-1": [
       {
         "product_id": "540af27d-09d0-427e-b858-3af0a63153cc",
@@ -3596,7 +3479,7 @@
       }
     ]
   },
-  "group_233": {
+  "group_225": {
     "-1": [
       {
         "product_id": "fd095e6e-f32b-4d99-81e3-39de9b77f2a4",
@@ -3610,7 +3493,7 @@
       }
     ]
   },
-  "group_234": {
+  "group_226": {
     "-1": [
       {
         "product_id": "81bd2b49-e19a-4c5e-9e63-739f33c19299",
@@ -3624,7 +3507,7 @@
       }
     ]
   },
-  "group_235": {
+  "group_227": {
     "-1": [
       {
         "product_id": "9d7132d3-a60f-4793-ad19-08ccfa6c9d8c",
@@ -3643,7 +3526,7 @@
       }
     ]
   },
-  "group_236": {
+  "group_228": {
     "-1": [
       {
         "product_id": "eda14330-22cd-4b40-b96d-931332fffe39",
@@ -3657,7 +3540,7 @@
       }
     ]
   },
-  "group_237": {
+  "group_229": {
     "-1": [
       {
         "product_id": "3e1bae3e-0fce-49e5-a80f-d55207455b45",
@@ -3668,15 +3551,10 @@
         "product_id": "472a1b23-d6d9-4f83-8eef-e2c317ea6e22",
         "name": "X_plrpath",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/185573/id0485.jpg"
-      },
-      {
-        "product_id": "e1a5546e-b4dc-486c-bc3a-fdf728cc55a4",
-        "name": "X_plrpath",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/185573/id0485.jpg"
       }
     ]
   },
-  "group_238": {
+  "group_230": {
     "-1": [
       {
         "product_id": "f563e3be-1c69-4216-a682-8ed5784d2b85",
@@ -3690,7 +3568,7 @@
       }
     ]
   },
-  "group_239": {
+  "group_231": {
     "-1": [
       {
         "product_id": "b272f782-0ff0-4b46-9e7e-23400eab4745",
@@ -3704,7 +3582,7 @@
       }
     ]
   },
-  "group_240": {
+  "group_232": {
     "-1": [
       {
         "product_id": "d93293dd-a63b-4a17-bcf6-a0e7d158fefc",
@@ -3723,7 +3601,7 @@
       }
     ]
   },
-  "group_241": {
+  "group_233": {
     "-1": [
       {
         "product_id": "a3d779f7-7679-4a4f-b46c-b34c013984b3",
@@ -3737,7 +3615,7 @@
       }
     ]
   },
-  "group_242": {
+  "group_234": {
     "-1": [
       {
         "product_id": "32c4540b-43bc-46fa-a409-07398f1a6421",
@@ -3756,7 +3634,7 @@
       }
     ]
   },
-  "group_243": {
+  "group_235": {
     "-1": [
       {
         "product_id": "3315547a-5934-45e4-a9f8-fac100f35183",
@@ -3770,7 +3648,7 @@
       }
     ]
   },
-  "group_244": {
+  "group_236": {
     "-1": [
       {
         "product_id": "7a043951-1cb4-431f-8d2a-c8b30ed07a79",
@@ -3784,21 +3662,7 @@
       }
     ]
   },
-  "group_245": {
-    "-1": [
-      {
-        "product_id": "a0ed4ebd-23da-47f5-91d3-a967393285d3",
-        "name": "Womens Air max ap shoes",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/147639/cu4870-003.jpg"
-      },
-      {
-        "product_id": "7dc1bb45-208e-4bd8-bfb4-7f59cc0d4d77",
-        "name": "Womens Air max ap shoes",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/147639/cu4870-003.jpg"
-      }
-    ]
-  },
-  "group_246": {
+  "group_237": {
     "-1": [
       {
         "product_id": "42fe7d29-7217-47e3-be54-94ee86c37804",
@@ -3812,7 +3676,7 @@
       }
     ]
   },
-  "group_247": {
+  "group_238": {
     "-1": [
       {
         "product_id": "81624869-835e-4849-ab06-84ca0822ea4d",
@@ -3826,7 +3690,7 @@
       }
     ]
   },
-  "group_248": {
+  "group_239": {
     "-1": [
       {
         "product_id": "9d64c131-09cc-4a5d-a1ac-9000bf49801e",
@@ -3840,7 +3704,7 @@
       }
     ]
   },
-  "group_249": {
+  "group_240": {
     "-1": [
       {
         "product_id": "ae827308-49db-4226-bb99-5de699fb6e74",
@@ -3854,7 +3718,7 @@
       }
     ]
   },
-  "group_250": {
+  "group_241": {
     "-1": [
       {
         "product_id": "cafc8d82-9879-4c76-b699-dffc24f91052",
@@ -3873,7 +3737,7 @@
       }
     ]
   },
-  "group_251": {
+  "group_242": {
     "-1": [
       {
         "product_id": "4962220c-2e79-47b4-8628-6f4abf858091",
@@ -3887,7 +3751,7 @@
       }
     ]
   },
-  "group_252": {
+  "group_243": {
     "-1": [
       {
         "product_id": "3d7eb74a-a87f-4a77-9dec-9af85b32c09b",
@@ -3901,7 +3765,7 @@
       }
     ]
   },
-  "group_253": {
+  "group_244": {
     "-1": [
       {
         "product_id": "445d9abe-71e5-405b-9f9e-173c46508311",
@@ -3912,15 +3776,10 @@
         "product_id": "8e0ceeb4-5c86-46c9-b9f8-e7e3b0bc5b6a",
         "name": "Adidas gazelle bold w",
         "image": "https://www.sneakershero.com/product_catalog/groups/181289/ie0876.jpg"
-      },
-      {
-        "product_id": "90938e58-9bbd-41ba-945a-ce2acf279dc3",
-        "name": "Adidas gazelle bold w",
-        "image": "https://www.sneakershero.com/product_catalog/groups/181289/ie0876.jpg"
       }
     ]
   },
-  "group_254": {
+  "group_245": {
     "-1": [
       {
         "product_id": "3d1a26ab-db84-43c7-a6a6-75f43c50495f",
@@ -3934,7 +3793,7 @@
       }
     ]
   },
-  "group_255": {
+  "group_246": {
     "-1": [
       {
         "product_id": "fc0be2a1-6f0c-4960-a8a3-78b2fa243712",
@@ -3948,7 +3807,7 @@
       }
     ]
   },
-  "group_256": {
+  "group_247": {
     "-1": [
       {
         "product_id": "74192df7-8725-40bd-a687-bc35957bc536",
@@ -3967,7 +3826,7 @@
       }
     ]
   },
-  "group_257": {
+  "group_248": {
     "-1": [
       {
         "product_id": "f2547d20-ebca-41fb-b18e-2d4f1a940928",
@@ -3981,7 +3840,7 @@
       }
     ]
   },
-  "group_258": {
+  "group_249": {
     "-1": [
       {
         "product_id": "5a66e674-7357-4ad5-a749-6edbb51b4f35",
@@ -3995,7 +3854,7 @@
       }
     ]
   },
-  "group_259": {
+  "group_250": {
     "-1": [
       {
         "product_id": "14b570fd-5980-4d01-bb7a-2f92b8632bc7",
@@ -4009,7 +3868,7 @@
       }
     ]
   },
-  "group_260": {
+  "group_251": {
     "-1": [
       {
         "product_id": "0740001a-81ee-4b5e-b513-4321d776bf21",
@@ -4023,7 +3882,7 @@
       }
     ]
   },
-  "group_261": {
+  "group_252": {
     "-1": [
       {
         "product_id": "5b85b151-191d-40bd-9bc6-70b6e39c56da",
@@ -4037,7 +3896,7 @@
       }
     ]
   },
-  "group_262": {
+  "group_253": {
     "-1": [
       {
         "product_id": "b51c602b-34e8-4f8d-87b6-3f7c086b6bbf",
@@ -4051,7 +3910,7 @@
       }
     ]
   },
-  "group_263": {
+  "group_254": {
     "-1": [
       {
         "product_id": "18defbc5-e406-44ab-ac34-3f6503213314",
@@ -4065,7 +3924,7 @@
       }
     ]
   },
-  "group_264": {
+  "group_255": {
     "-1": [
       {
         "product_id": "0624e8a1-be78-4e9b-9b68-e1b341b6ab13",
@@ -4079,7 +3938,7 @@
       }
     ]
   },
-  "group_265": {
+  "group_256": {
     "-1": [
       {
         "product_id": "e97b9cb7-a210-4d30-9915-714a141418bf",
@@ -4093,7 +3952,7 @@
       }
     ]
   },
-  "group_266": {
+  "group_257": {
     "-1": [
       {
         "product_id": "b1554061-9704-4042-8739-14a04a340f4b",
@@ -4107,7 +3966,7 @@
       }
     ]
   },
-  "group_267": {
+  "group_258": {
     "-1": [
       {
         "product_id": "9493ee36-2d27-40f0-964a-5828949b0ff8",
@@ -4121,7 +3980,7 @@
       }
     ]
   },
-  "group_268": {
+  "group_259": {
     "-1": [
       {
         "product_id": "4b95adfb-57aa-48e0-aa14-1aad77a18911",
@@ -4135,7 +3994,7 @@
       }
     ]
   },
-  "group_269": {
+  "group_260": {
     "-1": [
       {
         "product_id": "4bf7ac08-ecfb-487e-ae0e-3cb93b339d6e",
@@ -4149,7 +4008,7 @@
       }
     ]
   },
-  "group_270": {
+  "group_261": {
     "-1": [
       {
         "product_id": "7c0243a7-4d54-4ef2-995f-8df348ac10fa",
@@ -4163,7 +4022,7 @@
       }
     ]
   },
-  "group_271": {
+  "group_262": {
     "-1": [
       {
         "product_id": "126e4874-eec0-48ec-a418-9ba03ec4d381",
@@ -4177,7 +4036,7 @@
       }
     ]
   },
-  "group_272": {
+  "group_263": {
     "-1": [
       {
         "product_id": "cc5a9ffd-7bba-433b-8799-5860b6200044",
@@ -4191,7 +4050,7 @@
       }
     ]
   },
-  "group_273": {
+  "group_264": {
     "-1": [
       {
         "product_id": "14b06b75-dd9b-4edc-8f22-1c369809bd98",
@@ -4205,7 +4064,7 @@
       }
     ]
   },
-  "group_274": {
+  "group_265": {
     "-1": [
       {
         "product_id": "4bf4c894-78ca-4b04-b8ce-10c65630c731",
@@ -4219,7 +4078,7 @@
       }
     ]
   },
-  "group_275": {
+  "group_266": {
     "-1": [
       {
         "product_id": "786be857-925f-4604-b91b-b2092f79b0cf",
@@ -4233,7 +4092,7 @@
       }
     ]
   },
-  "group_276": {
+  "group_267": {
     "-1": [
       {
         "product_id": "5659eb44-6c51-4a4f-a525-cc3d7363ead8",
@@ -4247,7 +4106,7 @@
       }
     ]
   },
-  "group_277": {
+  "group_268": {
     "-1": [
       {
         "product_id": "2fd37d51-3612-444a-a318-442e95371a31",
@@ -4261,7 +4120,7 @@
       }
     ]
   },
-  "group_278": {
+  "group_269": {
     "-1": [
       {
         "product_id": "0ee2348c-f92e-4dcd-adc3-72f5f53a0ee4",
@@ -4275,7 +4134,7 @@
       }
     ]
   },
-  "group_279": {
+  "group_270": {
     "-1": [
       {
         "product_id": "14f871f3-1455-4faa-bee9-28bc5ce02e2e",
@@ -4294,7 +4153,7 @@
       }
     ]
   },
-  "group_280": {
+  "group_271": {
     "-1": [
       {
         "product_id": "7cc0e80f-cbaa-4a9b-98a4-049d812aa23f",
@@ -4308,7 +4167,7 @@
       }
     ]
   },
-  "group_281": {
+  "group_272": {
     "-1": [
       {
         "product_id": "f509598d-6861-4a30-aa8a-b693046497db",
@@ -4322,7 +4181,7 @@
       }
     ]
   },
-  "group_282": {
+  "group_273": {
     "-1": [
       {
         "product_id": "73fa55cc-b551-458a-af1a-79b498b958ce",
@@ -4336,7 +4195,7 @@
       }
     ]
   },
-  "group_283": {
+  "group_274": {
     "-1": [
       {
         "product_id": "0fd95d36-393d-4986-b559-cf1874ee9b5f",
@@ -4350,7 +4209,7 @@
       }
     ]
   },
-  "group_284": {
+  "group_275": {
     "-1": [
       {
         "product_id": "e9b3f7bb-0106-481f-a61f-932c1c3614b6",
@@ -4364,7 +4223,7 @@
       }
     ]
   },
-  "group_285": {
+  "group_276": {
     "-1": [
       {
         "product_id": "5a5aa7c8-adf6-4d7d-8820-9b7183b63a4a",
@@ -4378,7 +4237,7 @@
       }
     ]
   },
-  "group_286": {
+  "group_277": {
     "-1": [
       {
         "product_id": "28ed9fde-bea7-48c0-8bc6-e8e4999b9381",
@@ -4392,7 +4251,7 @@
       }
     ]
   },
-  "group_287": {
+  "group_278": {
     "-1": [
       {
         "product_id": "ac6d4140-6686-4b03-9686-9d5234acb512",
@@ -4406,7 +4265,7 @@
       }
     ]
   },
-  "group_288": {
+  "group_279": {
     "-1": [
       {
         "product_id": "f38351fc-8087-4f5f-8657-1450729a0ae1",
@@ -4420,7 +4279,7 @@
       }
     ]
   },
-  "group_289": {
+  "group_280": {
     "-1": [
       {
         "product_id": "1890b0b2-edd2-41b7-b099-f88a37b2b219",
@@ -4434,7 +4293,7 @@
       }
     ]
   },
-  "group_290": {
+  "group_281": {
     "-1": [
       {
         "product_id": "9999c9ee-c716-4e4b-bbba-f90756c34dff",
@@ -4448,7 +4307,7 @@
       }
     ]
   },
-  "group_291": {
+  "group_282": {
     "-1": [
       {
         "product_id": "5d58a2fe-1124-4ea6-9069-24fb435c3ed1",
@@ -4467,7 +4326,7 @@
       }
     ]
   },
-  "group_292": {
+  "group_283": {
     "-1": [
       {
         "product_id": "971332f0-6946-4638-87f4-1afa0a434291",
@@ -4481,7 +4340,7 @@
       }
     ]
   },
-  "group_293": {
+  "group_284": {
     "-1": [
       {
         "product_id": "fc82df78-33ad-49c4-a801-f9a14c9cde20",
@@ -4495,7 +4354,7 @@
       }
     ]
   },
-  "group_294": {
+  "group_285": {
     "-1": [
       {
         "product_id": "b0678c83-e674-4c03-aee2-0182d5ea9519",
@@ -4509,7 +4368,7 @@
       }
     ]
   },
-  "group_295": {
+  "group_286": {
     "-1": [
       {
         "product_id": "4f2a1e5c-5366-42ab-bcdd-b6c37ae961cf",
@@ -4523,7 +4382,7 @@
       }
     ]
   },
-  "group_296": {
+  "group_287": {
     "-1": [
       {
         "product_id": "5157df81-7ffd-44af-a143-726b9c41dbd5",
@@ -4537,7 +4396,7 @@
       }
     ]
   },
-  "group_297": {
+  "group_288": {
     "-1": [
       {
         "product_id": "952b40ee-8459-49c1-890a-9ce86e5dccc8",
@@ -4551,7 +4410,7 @@
       }
     ]
   },
-  "group_298": {
+  "group_289": {
     "-1": [
       {
         "product_id": "73b20af5-1ced-40e6-a49c-1d556afba3a7",
@@ -4575,7 +4434,7 @@
       }
     ]
   },
-  "group_299": {
+  "group_290": {
     "-1": [
       {
         "product_id": "284d02e6-0db9-4c68-8af5-332cef454a7e",
@@ -4594,7 +4453,7 @@
       }
     ]
   },
-  "group_300": {
+  "group_291": {
     "-1": [
       {
         "product_id": "f97e1597-0df2-4269-8e19-a304425f586e",
@@ -4608,7 +4467,7 @@
       }
     ]
   },
-  "group_301": {
+  "group_292": {
     "-1": [
       {
         "product_id": "6ca89790-5f65-4672-a8e7-048be3136908",
@@ -4627,7 +4486,7 @@
       }
     ]
   },
-  "group_302": {
+  "group_293": {
     "-1": [
       {
         "product_id": "68dc76c1-15f0-4140-b4d3-b29d3727a009",
@@ -4641,7 +4500,7 @@
       }
     ]
   },
-  "group_303": {
+  "group_294": {
     "-1": [
       {
         "product_id": "7f4abac2-7570-4aed-912c-33425e46bded",
@@ -4660,7 +4519,7 @@
       }
     ]
   },
-  "group_304": {
+  "group_295": {
     "-1": [
       {
         "product_id": "f56e38b0-45eb-4caa-a59f-6ad6cbb62508",
@@ -4674,7 +4533,7 @@
       }
     ]
   },
-  "group_305": {
+  "group_296": {
     "-1": [
       {
         "product_id": "1892d0fe-44e2-4e7c-92e6-bcb241e36e3c",
@@ -4688,7 +4547,7 @@
       }
     ]
   },
-  "group_306": {
+  "group_297": {
     "-1": [
       {
         "product_id": "edf4a86c-b463-488d-8906-0c205b40c58a",
@@ -4702,7 +4561,7 @@
       }
     ]
   },
-  "group_307": {
+  "group_298": {
     "-1": [
       {
         "product_id": "adc74bbd-ddd1-477c-9c6a-69ce087e010e",
@@ -4716,7 +4575,7 @@
       }
     ]
   },
-  "group_308": {
+  "group_299": {
     "-1": [
       {
         "product_id": "fb6742a6-c300-44ff-b554-d1c94625d53e",
@@ -4735,21 +4594,7 @@
       }
     ]
   },
-  "group_309": {
-    "-1": [
-      {
-        "product_id": "63b188e0-4cc6-44da-8021-a16fc5623325",
-        "name": "Reebok women's flex trainer",
-        "image": "https://s3.gy.digital/famousports/uploads/asset/data/374521/100210154_V1.jpg"
-      },
-      {
-        "product_id": "a20fdd6f-7cfb-44b9-9fd9-7cb26afcf059",
-        "name": "Reebok women's flex trainer",
-        "image": "https://s3.gy.digital/famousports/uploads/asset/data/374521/100210154_V1.jpg"
-      }
-    ]
-  },
-  "group_310": {
+  "group_300": {
     "-1": [
       {
         "product_id": "026d3ffa-f146-4634-9025-cc6459e4c851",
@@ -4763,7 +4608,7 @@
       }
     ]
   },
-  "group_311": {
+  "group_301": {
     "-1": [
       {
         "product_id": "82dc84ea-d6c8-48dc-baf3-a2be373c2bb3",
@@ -4777,7 +4622,7 @@
       }
     ]
   },
-  "group_312": {
+  "group_302": {
     "-1": [
       {
         "product_id": "de2090e0-00de-4273-847e-24b07160e7fd",
@@ -4791,7 +4636,7 @@
       }
     ]
   },
-  "group_313": {
+  "group_303": {
     "-1": [
       {
         "product_id": "d89f31a6-e120-4209-b8b7-c387600ff94b",
@@ -4805,7 +4650,7 @@
       }
     ]
   },
-  "group_314": {
+  "group_304": {
     "-1": [
       {
         "product_id": "cfa4f478-2d1e-410e-aa05-91e68abfcac7",
@@ -4819,7 +4664,7 @@
       }
     ]
   },
-  "group_315": {
+  "group_305": {
     "-1": [
       {
         "product_id": "3aa3e3f1-13cc-40fe-82c4-5ad62828fb9a",
@@ -4833,7 +4678,7 @@
       }
     ]
   },
-  "group_316": {
+  "group_306": {
     "-1": [
       {
         "product_id": "ffd75117-cc87-482a-8f53-0a312550f5d7",
@@ -4844,15 +4689,10 @@
         "product_id": "4852033f-16b1-4317-8e1f-8639f001602f",
         "name": "Reebok women's split flex",
         "image": "https://s3.gy.digital/famousports/uploads/asset/data/380287/100238232_1.jpeg"
-      },
-      {
-        "product_id": "c0843370-e3d9-4b7e-92fd-96469941aff4",
-        "name": "Reebok women's split flex",
-        "image": "https://s3.gy.digital/famousports/uploads/asset/data/380287/100238232_1.jpeg"
       }
     ]
   },
-  "group_317": {
+  "group_307": {
     "-1": [
       {
         "product_id": "82888bdb-8070-4cb9-bbf2-e2a82ba5346d",
@@ -4871,7 +4711,7 @@
       }
     ]
   },
-  "group_318": {
+  "group_308": {
     "-1": [
       {
         "product_id": "04e1cd5c-d6ad-4b37-9cbd-79179d734172",
@@ -4885,7 +4725,7 @@
       }
     ]
   },
-  "group_319": {
+  "group_309": {
     "-1": [
       {
         "product_id": "67c4493b-1be8-4b08-9813-4658a6ada9a7",
@@ -4899,7 +4739,7 @@
       }
     ]
   },
-  "group_320": {
+  "group_310": {
     "-1": [
       {
         "product_id": "166ba9ed-f027-43c2-815f-709aebec01d6",
@@ -4923,7 +4763,7 @@
       }
     ]
   },
-  "group_321": {
+  "group_311": {
     "-1": [
       {
         "product_id": "689371c1-6c34-411e-bdc9-29bc00b39c94",
@@ -4937,7 +4777,7 @@
       }
     ]
   },
-  "group_322": {
+  "group_312": {
     "-1": [
       {
         "product_id": "be39cffc-e7ef-4361-92de-1e90077a38e1",
@@ -4956,7 +4796,7 @@
       }
     ]
   },
-  "group_323": {
+  "group_313": {
     "-1": [
       {
         "product_id": "05a73a4c-568d-46fa-9aff-5478431e85a5",
@@ -4970,7 +4810,7 @@
       }
     ]
   },
-  "group_324": {
+  "group_314": {
     "-1": [
       {
         "product_id": "2c0be83d-0399-46ae-b021-a15eea57c2e0",
@@ -4984,7 +4824,7 @@
       }
     ]
   },
-  "group_325": {
+  "group_315": {
     "-1": [
       {
         "product_id": "9d6ecb21-0711-4205-b260-47d8ae0ec8bb",
@@ -4998,7 +4838,7 @@
       }
     ]
   },
-  "group_326": {
+  "group_316": {
     "-1": [
       {
         "product_id": "c83f3439-db0c-4bfc-9234-770e2c65a6e9",
@@ -5012,7 +4852,7 @@
       }
     ]
   },
-  "group_327": {
+  "group_317": {
     "-1": [
       {
         "product_id": "df0cec77-4609-46ec-8030-2e03c3c661a3",
@@ -5026,7 +4866,7 @@
       }
     ]
   },
-  "group_328": {
+  "group_318": {
     "-1": [
       {
         "product_id": "27d685bb-0957-40b1-8198-81c9119c4d09",
@@ -5040,7 +4880,7 @@
       }
     ]
   },
-  "group_329": {
+  "group_319": {
     "-1": [
       {
         "product_id": "87bca54e-a668-4c76-81b8-cc33e59dafbd",
@@ -5054,7 +4894,7 @@
       }
     ]
   },
-  "group_330": {
+  "group_320": {
     "-1": [
       {
         "product_id": "b2ad568b-dab4-4cc6-b08c-1efb33612f04",
@@ -5073,7 +4913,7 @@
       }
     ]
   },
-  "group_331": {
+  "group_321": {
     "-1": [
       {
         "product_id": "536579f2-4bd3-414f-86a9-c536f7704f31",
@@ -5087,21 +4927,7 @@
       }
     ]
   },
-  "group_332": {
-    "-1": [
-      {
-        "product_id": "31124c63-0e30-4fe9-adf2-c695f3008995",
-        "name": "Gazelle bold women",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/190358/ig4367.jpg"
-      },
-      {
-        "product_id": "4302704a-83d5-4b86-a8b5-b0593681d178",
-        "name": "Gazelle bold women",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/190358/ig4367.jpg"
-      }
-    ]
-  },
-  "group_333": {
+  "group_322": {
     "-1": [
       {
         "product_id": "ded6a903-09d7-4604-a314-f0dea9c53665",
@@ -5115,7 +4941,7 @@
       }
     ]
   },
-  "group_334": {
+  "group_323": {
     "-1": [
       {
         "product_id": "cf1c9646-14e1-4cf9-9f8b-198a54a4c886",
@@ -5129,7 +4955,7 @@
       }
     ]
   },
-  "group_335": {
+  "group_324": {
     "-1": [
       {
         "product_id": "2ce9894e-1af1-4e2a-96e4-c1dcce1d0096",
@@ -5143,7 +4969,7 @@
       }
     ]
   },
-  "group_336": {
+  "group_325": {
     "-1": [
       {
         "product_id": "cf3f00d4-97fc-4269-ad6f-922d1466a95f",
@@ -5157,7 +4983,7 @@
       }
     ]
   },
-  "group_337": {
+  "group_326": {
     "-1": [
       {
         "product_id": "ab012f6a-5b62-4a30-905b-b4a2684fc7c6",
@@ -5171,7 +4997,7 @@
       }
     ]
   },
-  "group_338": {
+  "group_327": {
     "-1": [
       {
         "product_id": "8f0bafb3-66da-4a30-9447-22d8ffb45527",
@@ -5185,7 +5011,7 @@
       }
     ]
   },
-  "group_339": {
+  "group_328": {
     "-1": [
       {
         "product_id": "4221cda7-b26b-4bdc-ad3d-81c381a7e880",
@@ -5199,7 +5025,7 @@
       }
     ]
   },
-  "group_340": {
+  "group_329": {
     "-1": [
       {
         "product_id": "eea77e01-f4ef-4b73-9a93-065795fdcbf6",
@@ -5218,7 +5044,7 @@
       }
     ]
   },
-  "group_341": {
+  "group_330": {
     "-1": [
       {
         "product_id": "b559111d-617a-4427-860b-8f857eff1797",
@@ -5237,7 +5063,7 @@
       }
     ]
   },
-  "group_342": {
+  "group_331": {
     "-1": [
       {
         "product_id": "102f7cae-b366-48c7-8ee0-f4819324103f",
@@ -5251,7 +5077,7 @@
       }
     ]
   },
-  "group_343": {
+  "group_332": {
     "-1": [
       {
         "product_id": "92328bfc-6ee2-4cc3-85ef-7df9ad5d444b",
@@ -5265,7 +5091,7 @@
       }
     ]
   },
-  "group_344": {
+  "group_333": {
     "-1": [
       {
         "product_id": "0c605b88-faff-410e-850d-81e818dde6e3",
@@ -5279,7 +5105,7 @@
       }
     ]
   },
-  "group_345": {
+  "group_334": {
     "-1": [
       {
         "product_id": "3219c4b8-c3f3-4c85-8d1c-7c7ae62abbaf",
@@ -5293,7 +5119,7 @@
       }
     ]
   },
-  "group_346": {
+  "group_335": {
     "-1": [
       {
         "product_id": "c9b5e82c-596c-46f6-8e26-d6839ae2a30c",
@@ -5307,7 +5133,7 @@
       }
     ]
   },
-  "group_347": {
+  "group_336": {
     "-1": [
       {
         "product_id": "f0005e45-8b76-4a78-958f-2b8261550e34",
@@ -5318,15 +5144,10 @@
         "product_id": "e8c9f00a-3618-47e6-9077-0b3308c78a63",
         "name": "Court vision low womens",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/201040/dh3158-200.jpg"
-      },
-      {
-        "product_id": "a378724c-11a4-4e90-9e63-291d3898a2e3",
-        "name": "Court vision low womens",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/201040/dh3158-200.jpg"
       }
     ]
   },
-  "group_348": {
+  "group_337": {
     "-1": [
       {
         "product_id": "31c134c1-f044-4563-8dc3-974e4ad1d653",
@@ -5340,7 +5161,7 @@
       }
     ]
   },
-  "group_349": {
+  "group_338": {
     "-1": [
       {
         "product_id": "ecc7cd54-7189-4b70-b5b3-9c725933f315",
@@ -5354,7 +5175,7 @@
       }
     ]
   },
-  "group_350": {
+  "group_339": {
     "-1": [
       {
         "product_id": "c90e871c-7ed4-43aa-b449-78830bdca533",
@@ -5368,7 +5189,7 @@
       }
     ]
   },
-  "group_351": {
+  "group_340": {
     "-1": [
       {
         "product_id": "01178489-ddc5-442d-a38c-84725e519978",
@@ -5382,7 +5203,7 @@
       }
     ]
   },
-  "group_352": {
+  "group_341": {
     "-1": [
       {
         "product_id": "960cec03-dbd0-4d40-a103-690ce9cb1d16",
@@ -5401,7 +5222,7 @@
       }
     ]
   },
-  "group_353": {
+  "group_342": {
     "-1": [
       {
         "product_id": "8ee6c27a-5c10-4710-8bb7-f474ab114885",
@@ -5415,7 +5236,7 @@
       }
     ]
   },
-  "group_354": {
+  "group_343": {
     "-1": [
       {
         "product_id": "9b0514ac-c73e-4640-900e-da60aa3d188d",
@@ -5429,7 +5250,7 @@
       }
     ]
   },
-  "group_355": {
+  "group_344": {
     "-1": [
       {
         "product_id": "170e7d4d-bf34-4744-b592-abda7c675657",
@@ -5443,7 +5264,7 @@
       }
     ]
   },
-  "group_356": {
+  "group_345": {
     "-1": [
       {
         "product_id": "4dd14135-19bf-4227-9a7f-95f4af94a4e9",
@@ -5457,7 +5278,7 @@
       }
     ]
   },
-  "group_357": {
+  "group_346": {
     "-1": [
       {
         "product_id": "05f72679-51c8-45a3-a158-d97b4501b997",
@@ -5471,7 +5292,7 @@
       }
     ]
   },
-  "group_358": {
+  "group_347": {
     "-1": [
       {
         "product_id": "f3494d07-ab82-4109-bea1-6cbef933d93b",
@@ -5490,7 +5311,7 @@
       }
     ]
   },
-  "group_359": {
+  "group_348": {
     "-1": [
       {
         "product_id": "db1c8c3a-ec48-41ef-8136-5664255a2980",
@@ -5504,7 +5325,7 @@
       }
     ]
   },
-  "group_360": {
+  "group_349": {
     "-1": [
       {
         "product_id": "bc270cf2-9272-4dbc-9e4e-88b9c4412615",
@@ -5518,21 +5339,7 @@
       }
     ]
   },
-  "group_361": {
-    "-1": [
-      {
-        "product_id": "f2897965-a7ed-411c-b2b5-0e209cb6bce5",
-        "name": "Adidas samba og w",
-        "image": "https://www.sneakershero.com/product_catalog/groups/196923/ih2751.jpg"
-      },
-      {
-        "product_id": "1d720edb-7cc0-4d89-a937-7f5cdbc45e8d",
-        "name": "Adidas samba og w",
-        "image": "https://www.sneakershero.com/product_catalog/groups/190428/ig1962.jpg"
-      }
-    ]
-  },
-  "group_362": {
+  "group_350": {
     "-1": [
       {
         "product_id": "fe64b164-787a-40c2-a764-2a808ad9bb6f",
@@ -5561,7 +5368,7 @@
       }
     ]
   },
-  "group_363": {
+  "group_351": {
     "-1": [
       {
         "product_id": "bc784185-d391-422d-a50b-e253370fae73",
@@ -5575,7 +5382,7 @@
       }
     ]
   },
-  "group_364": {
+  "group_352": {
     "-1": [
       {
         "product_id": "3b3e8e51-297b-4799-aa59-5fdab245c47a",
@@ -5586,15 +5393,10 @@
         "product_id": "bbe5812b-35be-4e3d-ae29-aeaccbbe0e63",
         "name": "Puma slipstream selflove women sneakers",
         "image": "https://www.sneakershero.com/product_catalog/groups/163885/393049-01.jpg"
-      },
-      {
-        "product_id": "2335b3c5-9d2a-4c0a-8ace-cb1dac360cbf",
-        "name": "Puma slipstream selflove women sneakers",
-        "image": "https://www.sneakershero.com/product_catalog/groups/163885/393049-01.jpg"
       }
     ]
   },
-  "group_365": {
+  "group_353": {
     "-1": [
       {
         "product_id": "665941d2-76b4-4b06-aa19-49546d620e74",
@@ -5608,7 +5410,7 @@
       }
     ]
   },
-  "group_366": {
+  "group_354": {
     "-1": [
       {
         "product_id": "fcd6d66c-e30d-4367-a9f0-a1e7465bd9bb",
@@ -5619,29 +5421,10 @@
         "product_id": "ad487e1d-0013-4d82-8b54-201eb6638229",
         "name": "New balance 327 sportstyle sneakers",
         "image": "https://www.sneakershero.com/product_catalog/groups/167107/ws327-ka.jpg"
-      },
-      {
-        "product_id": "db185596-c12d-41de-ab1d-0fb7ef877ff3",
-        "name": "New balance 327 sportstyle sneakers",
-        "image": "https://www.sneakershero.com/product_catalog/groups/167107/ws327-ka.jpg"
       }
     ]
   },
-  "group_367": {
-    "-1": [
-      {
-        "product_id": "82b8d279-6e6e-4ddc-8534-ac3d334152ff",
-        "name": "Adidas court platform shoes",
-        "image": "https://jinius-prod.mirakl.net/mmp/media/product-media/27153/20230111142909_adidas_court_platform_andrika_sneakers_cloud_white_matte_gold_hq7156.jpeg"
-      },
-      {
-        "product_id": "d944ed6c-1321-49de-84a8-eeb8fcc34268",
-        "name": "Adidas court platform shoes",
-        "image": "https://jinius-prod.mirakl.net/mmp/media/product-media/27153/20230111142909_adidas_court_platform_andrika_sneakers_cloud_white_matte_gold_hq7156.jpeg"
-      }
-    ]
-  },
-  "group_368": {
+  "group_355": {
     "-1": [
       {
         "product_id": "765149e6-7d2a-4a99-96de-6477e0eeaa88",
@@ -5655,7 +5438,7 @@
       }
     ]
   },
-  "group_369": {
+  "group_356": {
     "-1": [
       {
         "product_id": "3e36c5a8-5430-460e-b522-21552203af5d",
@@ -5669,7 +5452,7 @@
       }
     ]
   },
-  "group_370": {
+  "group_357": {
     "-1": [
       {
         "product_id": "ed5df292-8926-4937-9e64-c95ac6bf1869",
@@ -5688,7 +5471,7 @@
       }
     ]
   },
-  "group_371": {
+  "group_358": {
     "-1": [
       {
         "product_id": "64275484-8fa4-4465-8538-efbc7b8b41df",
@@ -5702,7 +5485,7 @@
       }
     ]
   },
-  "group_372": {
+  "group_359": {
     "-1": [
       {
         "product_id": "56157373-5124-49a3-bd46-2b3c2d6b4c81",
@@ -5721,7 +5504,7 @@
       }
     ]
   },
-  "group_373": {
+  "group_360": {
     "-1": [
       {
         "product_id": "800f5c3e-9c8a-4b8b-abe2-87ad15ff6816",
@@ -5735,7 +5518,7 @@
       }
     ]
   },
-  "group_374": {
+  "group_361": {
     "-1": [
       {
         "product_id": "adc2b13b-b255-4a41-bb8d-24fa6b386212",
@@ -5749,7 +5532,7 @@
       }
     ]
   },
-  "group_375": {
+  "group_362": {
     "-1": [
       {
         "product_id": "09607444-d600-4ab0-bf5d-a2f86075d7af",
@@ -5763,7 +5546,7 @@
       }
     ]
   },
-  "group_376": {
+  "group_363": {
     "-1": [
       {
         "product_id": "3ddeecfb-59b2-437e-a780-c6c5dfbab0df",
@@ -5777,7 +5560,7 @@
       }
     ]
   },
-  "group_377": {
+  "group_364": {
     "-1": [
       {
         "product_id": "f25e1ac0-499a-4aad-9ad8-9fcb3e09fd33",
@@ -5791,7 +5574,7 @@
       }
     ]
   },
-  "group_378": {
+  "group_365": {
     "-1": [
       {
         "product_id": "c0f1df4f-1614-4b7c-bb50-c26cc476d9b5",
@@ -5805,7 +5588,7 @@
       }
     ]
   },
-  "group_379": {
+  "group_366": {
     "-1": [
       {
         "product_id": "49fe2631-269a-4f78-a104-91be56a4c6ab",
@@ -5824,7 +5607,7 @@
       }
     ]
   },
-  "group_380": {
+  "group_367": {
     "-1": [
       {
         "product_id": "80ac30b1-4713-402d-aae9-6455fd11f5fd",
@@ -5838,7 +5621,7 @@
       }
     ]
   },
-  "group_381": {
+  "group_368": {
     "-1": [
       {
         "product_id": "074c1cfb-96c1-4079-b309-0b543b3128e8",
@@ -5852,7 +5635,7 @@
       }
     ]
   },
-  "group_382": {
+  "group_369": {
     "-1": [
       {
         "product_id": "cbb122c7-b1ab-4364-89ad-62515a9c3ce1",
@@ -5866,7 +5649,7 @@
       }
     ]
   },
-  "group_383": {
+  "group_370": {
     "-1": [
       {
         "product_id": "f6f09d6b-3351-4f46-8261-e75b61798b8d",
@@ -5880,7 +5663,7 @@
       }
     ]
   },
-  "group_384": {
+  "group_371": {
     "-1": [
       {
         "product_id": "ee156a37-972f-4a54-8aa9-a1295a96b2a4",
@@ -5894,7 +5677,7 @@
       }
     ]
   },
-  "group_385": {
+  "group_372": {
     "-1": [
       {
         "product_id": "2241a452-6da6-4ff3-812a-3349f7808230",
@@ -5908,7 +5691,7 @@
       }
     ]
   },
-  "group_386": {
+  "group_373": {
     "-1": [
       {
         "product_id": "133ab118-b4b0-4bd0-8158-9389f5c20966",
@@ -5922,7 +5705,7 @@
       }
     ]
   },
-  "group_387": {
+  "group_374": {
     "-1": [
       {
         "product_id": "3444388e-9db5-4df7-8e6f-883674300748",
@@ -5936,7 +5719,7 @@
       }
     ]
   },
-  "group_388": {
+  "group_375": {
     "-1": [
       {
         "product_id": "653132fb-6986-4ac8-9d42-13010431b77c",
@@ -5950,26 +5733,7 @@
       }
     ]
   },
-  "group_389": {
-    "-1": [
-      {
-        "product_id": "0890d670-1a56-4772-b68f-87c492cef001",
-        "name": "Nike Air jordan 1 mid se paris ymca",
-        "image": "https://www.sneakershero.com/product_catalog/groups/184424/fz4359-200.jpg"
-      },
-      {
-        "product_id": "3166da61-8d2b-4ccc-9eb8-26b7a1834298",
-        "name": "Nike Air jordan 1 mid se paris ymca",
-        "image": "https://www.sneakershero.com/product_catalog/groups/184424/fz4359-200.jpg"
-      },
-      {
-        "product_id": "fef54d93-b1e0-4714-b250-cd29e111145c",
-        "name": "Nike Air jordan 1 mid se paris ymca",
-        "image": "https://www.sneakershero.com/product_catalog/groups/184424/fz4359-200.jpg"
-      }
-    ]
-  },
-  "group_390": {
+  "group_376": {
     "-1": [
       {
         "product_id": "907e24e5-5fbe-487c-adc3-9f09cc1c6aa8",
@@ -5983,7 +5747,7 @@
       }
     ]
   },
-  "group_391": {
+  "group_377": {
     "-1": [
       {
         "product_id": "042d7aa6-76af-4300-83ba-e8f52f79a5a7",
@@ -5994,15 +5758,10 @@
         "product_id": "cbc1d9fd-d2cb-435a-9711-f2bfca0f2c3b",
         "name": "Glide rincon 3",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/167065/1119396-ergl.jpg"
-      },
-      {
-        "product_id": "0a646e06-fc3b-4cc1-a01c-e8b7fdbb8a50",
-        "name": "Glide rincon 3",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/167065/1119396-ergl.jpg"
       }
     ]
   },
-  "group_392": {
+  "group_378": {
     "-1": [
       {
         "product_id": "d31651ac-6cd6-46fa-a529-f15ea331846e",
@@ -6021,7 +5780,7 @@
       }
     ]
   },
-  "group_393": {
+  "group_379": {
     "-1": [
       {
         "product_id": "1619bc8d-e2bd-47df-8749-4e1b139d4530",
@@ -6035,7 +5794,7 @@
       }
     ]
   },
-  "group_394": {
+  "group_380": {
     "-1": [
       {
         "product_id": "b6a6a39f-c0a6-4249-8a28-c9cea4296b76",
@@ -6049,7 +5808,7 @@
       }
     ]
   },
-  "group_395": {
+  "group_381": {
     "-1": [
       {
         "product_id": "3ba88f4b-f6ef-42de-9c41-cb15a5cc7fdd",
@@ -6063,7 +5822,7 @@
       }
     ]
   },
-  "group_396": {
+  "group_382": {
     "-1": [
       {
         "product_id": "a60e4a27-471f-4781-b3f5-b645a6b39476",
@@ -6077,7 +5836,7 @@
       }
     ]
   },
-  "group_397": {
+  "group_383": {
     "-1": [
       {
         "product_id": "2c123321-8a08-4910-b9b7-178ab270391f",
@@ -6091,7 +5850,7 @@
       }
     ]
   },
-  "group_398": {
+  "group_384": {
     "-1": [
       {
         "product_id": "cc9e711e-8a02-44fe-8560-c6a5c4d600db",
@@ -6105,7 +5864,7 @@
       }
     ]
   },
-  "group_399": {
+  "group_385": {
     "-1": [
       {
         "product_id": "2e38fc54-6c13-41a1-9be7-e2ccac05840a",
@@ -6119,7 +5878,7 @@
       }
     ]
   },
-  "group_400": {
+  "group_386": {
     "-1": [
       {
         "product_id": "694aeaaf-1fd6-4ad3-b63e-37d3fb8fae6a",
@@ -6133,7 +5892,7 @@
       }
     ]
   },
-  "group_401": {
+  "group_387": {
     "-1": [
       {
         "product_id": "b8bc38d2-797c-4a34-ac2e-22c3ccdf6dcf",
@@ -6152,7 +5911,7 @@
       }
     ]
   },
-  "group_402": {
+  "group_388": {
     "-1": [
       {
         "product_id": "382fa806-1837-4833-add5-45c05bb507d9",
@@ -6166,7 +5925,7 @@
       }
     ]
   },
-  "group_403": {
+  "group_389": {
     "-1": [
       {
         "product_id": "e7f0e147-7cc5-4796-a7bd-56eba69a3e27",
@@ -6190,7 +5949,7 @@
       }
     ]
   },
-  "group_404": {
+  "group_390": {
     "-1": [
       {
         "product_id": "1ee7323a-9e2b-48d8-8719-5f53174dbf78",
@@ -6204,7 +5963,7 @@
       }
     ]
   },
-  "group_405": {
+  "group_391": {
     "-1": [
       {
         "product_id": "5b220791-ec91-4d0d-bf7d-37e6bb7bf3b1",
@@ -6218,7 +5977,7 @@
       }
     ]
   },
-  "group_406": {
+  "group_392": {
     "-1": [
       {
         "product_id": "ec4bba1b-1408-4888-9da9-fde29a46666a",
@@ -6232,21 +5991,7 @@
       }
     ]
   },
-  "group_407": {
-    "-1": [
-      {
-        "product_id": "b1b847bd-8a99-434f-af22-7fe1951c194e",
-        "name": "Adidas forum bold w        ftwwht/cblack/ftwwht",
-        "image": "https://powersoft365customers.blob.core.windows.net/he132515a-d-e-natiotis-limited/Models/GY5921.jpg?updated=20231011101006"
-      },
-      {
-        "product_id": "651907b1-b5d1-4fe9-b1c4-2586a50702cb",
-        "name": "Adidas forum bold w        ftwwht/cblack/ftwwht",
-        "image": "https://powersoft365customers.blob.core.windows.net/he132515a-d-e-natiotis-limited/Models/GY5921.jpg?updated=20231011101006"
-      }
-    ]
-  },
-  "group_408": {
+  "group_393": {
     "-1": [
       {
         "product_id": "bb78a1ef-1b11-499e-b48b-3b709c3dfed5",
@@ -6260,7 +6005,7 @@
       }
     ]
   },
-  "group_409": {
+  "group_394": {
     "-1": [
       {
         "product_id": "0a227351-cbee-455b-a887-78f57a27f16e",
@@ -6274,7 +6019,7 @@
       }
     ]
   },
-  "group_410": {
+  "group_395": {
     "-1": [
       {
         "product_id": "0815cf1e-7428-461f-8f2b-2154b71b0188",
@@ -6288,7 +6033,7 @@
       }
     ]
   },
-  "group_411": {
+  "group_396": {
     "-1": [
       {
         "product_id": "bf580c22-5df3-43f8-930f-d82d29763d74",
@@ -6302,7 +6047,7 @@
       }
     ]
   },
-  "group_412": {
+  "group_397": {
     "-1": [
       {
         "product_id": "ac98f978-035a-486c-bbd4-032833ceea6f",
@@ -6326,15 +6071,10 @@
       }
     ]
   },
-  "group_413": {
-    "-1": [
+  "group_398": {
+    "0": [
       {
         "product_id": "4d0a5532-999c-4857-bd1f-e5ec1c5fc59a",
-        "name": "Adidas gazelle bold w",
-        "image": "https://www.sneakershero.com/product_catalog/groups/199931/ig4391.jpg"
-      },
-      {
-        "product_id": "4d43f6c1-6cc5-445f-8414-37605335c191",
         "name": "Adidas gazelle bold w",
         "image": "https://www.sneakershero.com/product_catalog/groups/199931/ig4391.jpg"
       },
@@ -6342,6 +6082,13 @@
         "product_id": "adf93d41-7fd5-4331-a464-2ead3c718764",
         "name": "Adidas gazelle bold w",
         "image": "https://www.sneakershero.com/product_catalog/groups/191291/ie1370.jpg"
+      }
+    ],
+    "1": [
+      {
+        "product_id": "4d43f6c1-6cc5-445f-8414-37605335c191",
+        "name": "Adidas gazelle bold w",
+        "image": "https://www.sneakershero.com/product_catalog/groups/199931/ig4391.jpg"
       },
       {
         "product_id": "2e2581ff-d34a-4f01-ae2d-07230c824468",
@@ -6350,7 +6097,7 @@
       }
     ]
   },
-  "group_414": {
+  "group_399": {
     "-1": [
       {
         "product_id": "3ef0416c-d526-475c-88bf-f0b7e503766f",
@@ -6369,7 +6116,7 @@
       }
     ]
   },
-  "group_415": {
+  "group_400": {
     "-1": [
       {
         "product_id": "614014d7-1f98-44d7-874f-fcb4ff9f422d",
@@ -6393,7 +6140,7 @@
       }
     ]
   },
-  "group_416": {
+  "group_401": {
     "-1": [
       {
         "product_id": "d42982dc-373a-4395-a8c8-6253620cba4f",
@@ -6422,7 +6169,7 @@
       }
     ]
   },
-  "group_417": {
+  "group_402": {
     "-1": [
       {
         "product_id": "87c97094-0366-4c25-b898-dd18324a4898",
@@ -6436,7 +6183,7 @@
       }
     ]
   },
-  "group_418": {
+  "group_403": {
     "-1": [
       {
         "product_id": "18f34f39-60e3-4d53-a242-33ae46446cbf",
@@ -6455,7 +6202,7 @@
       }
     ]
   },
-  "group_419": {
+  "group_404": {
     "-1": [
       {
         "product_id": "654bcf93-f590-48ea-b4ef-5288f05bc64b",
@@ -6469,7 +6216,7 @@
       }
     ]
   },
-  "group_420": {
+  "group_405": {
     "-1": [
       {
         "product_id": "3240f457-c73e-49f9-a1e7-12408de5e70e",
@@ -6488,7 +6235,7 @@
       }
     ]
   },
-  "group_421": {
+  "group_406": {
     "-1": [
       {
         "product_id": "5f8544c6-3645-4e78-8092-505edc2c9423",
@@ -6502,7 +6249,7 @@
       }
     ]
   },
-  "group_422": {
+  "group_407": {
     "-1": [
       {
         "product_id": "9d5a91eb-a5d4-4965-8f72-26848b691dc5",
@@ -6516,7 +6263,7 @@
       }
     ]
   },
-  "group_423": {
+  "group_408": {
     "-1": [
       {
         "product_id": "d61b7f4a-a78f-4b08-8d77-23f710da9ed8",
@@ -6530,7 +6277,7 @@
       }
     ]
   },
-  "group_424": {
+  "group_409": {
     "-1": [
       {
         "product_id": "8d3d6bbc-d907-45d9-8a9d-bda0e8b50600",
@@ -6544,21 +6291,7 @@
       }
     ]
   },
-  "group_425": {
-    "-1": [
-      {
-        "product_id": "422884a5-2719-4ba3-a2d4-c1f3111c8ecd",
-        "name": "Chuck taylor all star lo",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/128608/150476f.jpg"
-      },
-      {
-        "product_id": "ebfbb60a-1b3e-421b-8295-17c6f047eddb",
-        "name": "Chuck taylor all star lo",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/128608/150476f.jpg"
-      }
-    ]
-  },
-  "group_426": {
+  "group_410": {
     "-1": [
       {
         "product_id": "91bb6ca0-b610-46f7-af36-28ccd38ac901",
@@ -6572,7 +6305,7 @@
       }
     ]
   },
-  "group_427": {
+  "group_411": {
     "-1": [
       {
         "product_id": "260d3faf-ca00-4dbc-8846-7bc0899c32a0",
@@ -6586,7 +6319,7 @@
       }
     ]
   },
-  "group_428": {
+  "group_412": {
     "-1": [
       {
         "product_id": "0c4c141b-5168-4c98-8eb3-5a17a04c3379",
@@ -6600,7 +6333,7 @@
       }
     ]
   },
-  "group_429": {
+  "group_413": {
     "-1": [
       {
         "product_id": "1efd970a-47be-4971-b489-2c975d947599",
@@ -6614,7 +6347,7 @@
       }
     ]
   },
-  "group_430": {
+  "group_414": {
     "-1": [
       {
         "product_id": "44d5a8c9-c0bc-425a-89c6-c47f140d6e10",
@@ -6628,7 +6361,7 @@
       }
     ]
   },
-  "group_431": {
+  "group_415": {
     "-1": [
       {
         "product_id": "758cd415-f05b-460a-977c-d3813138c8cf",
@@ -6647,21 +6380,7 @@
       }
     ]
   },
-  "group_432": {
-    "-1": [
-      {
-        "product_id": "661f8510-d860-4c8b-876d-382486bc9b88",
-        "name": "Sl 72 rs",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/190157/ji1281.jpg"
-      },
-      {
-        "product_id": "b4ee8dbd-6892-4653-93b6-e15ea4ab5315",
-        "name": "Sl 72 rs",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/190157/ji1281.jpg"
-      }
-    ]
-  },
-  "group_433": {
+  "group_416": {
     "-1": [
       {
         "product_id": "ad0c99ef-efb9-48e3-ba9c-734675ee0192",
@@ -6675,7 +6394,7 @@
       }
     ]
   },
-  "group_434": {
+  "group_417": {
     "-1": [
       {
         "product_id": "91f93960-0f9b-454c-88fb-642c073ef876",
@@ -6689,7 +6408,7 @@
       }
     ]
   },
-  "group_435": {
+  "group_418": {
     "-1": [
       {
         "product_id": "814b74ab-29c5-44d0-a6a5-f0da040e3e96",
@@ -6708,7 +6427,7 @@
       }
     ]
   },
-  "group_436": {
+  "group_419": {
     "-1": [
       {
         "product_id": "de5f14da-d0b6-42f6-b0df-fcc3e3cc0883",
@@ -6722,7 +6441,7 @@
       }
     ]
   },
-  "group_437": {
+  "group_420": {
     "-1": [
       {
         "product_id": "0a1b717d-5270-4a4a-a988-0d74372e9edf",
@@ -6736,7 +6455,7 @@
       }
     ]
   },
-  "group_438": {
+  "group_421": {
     "-1": [
       {
         "product_id": "ce9f367e-7f4a-4dfa-9585-62f83462fc23",
@@ -6755,7 +6474,7 @@
       }
     ]
   },
-  "group_439": {
+  "group_422": {
     "-1": [
       {
         "product_id": "a7a031d7-54ad-447a-92a8-4f6d3222b817",
@@ -6771,15 +6490,10 @@
         "product_id": "db5cb451-d351-4809-9bab-336501e8303c",
         "name": "One mach 6",
         "image": "https://privesports.com.cy/product_catalog/groups/172289/1147810-isk-grey.jpg"
-      },
-      {
-        "product_id": "de89f5b7-c67e-4132-a1d3-58fbb8371ce1",
-        "name": "One mach 6",
-        "image": "https://privesports.com.cy/product_catalog/groups/172289/1147810-isk-grey.jpg"
       }
     ]
   },
-  "group_440": {
+  "group_423": {
     "-1": [
       {
         "product_id": "a45e33d8-ef63-4927-a627-c4b111dea046",
@@ -6793,7 +6507,7 @@
       }
     ]
   },
-  "group_441": {
+  "group_424": {
     "-1": [
       {
         "product_id": "558959be-45fb-4ff4-a9a0-2592491d3142",
@@ -6807,7 +6521,7 @@
       }
     ]
   },
-  "group_442": {
+  "group_425": {
     "-1": [
       {
         "product_id": "3831c4c7-6406-4697-a5ac-82075a312b3d",
@@ -6826,7 +6540,7 @@
       }
     ]
   },
-  "group_443": {
+  "group_426": {
     "-1": [
       {
         "product_id": "897c59ab-52af-4b19-a6f0-c451c643a69d",
@@ -6845,7 +6559,7 @@
       }
     ]
   },
-  "group_444": {
+  "group_427": {
     "-1": [
       {
         "product_id": "33e93f44-b6c6-48b8-a3e4-b6768d2a8a33",
@@ -6859,7 +6573,7 @@
       }
     ]
   },
-  "group_445": {
+  "group_428": {
     "-1": [
       {
         "product_id": "8059b31d-ea0a-4662-ac69-10885cfd1e0c",
@@ -6873,7 +6587,7 @@
       }
     ]
   },
-  "group_446": {
+  "group_429": {
     "-1": [
       {
         "product_id": "43d066e8-3253-4f58-bb0e-194cfa8cc94f",
@@ -6887,7 +6601,7 @@
       }
     ]
   },
-  "group_447": {
+  "group_430": {
     "-1": [
       {
         "product_id": "dedd28a5-af0b-48f4-a19e-d1f8244e176f",
@@ -6906,7 +6620,7 @@
       }
     ]
   },
-  "group_448": {
+  "group_431": {
     "-1": [
       {
         "product_id": "340f4172-cb9e-4395-83ee-aecc37143678",
@@ -6920,7 +6634,7 @@
       }
     ]
   },
-  "group_449": {
+  "group_432": {
     "-1": [
       {
         "product_id": "3000c44e-0f9f-4fb8-a734-4133887a7e65",
@@ -6939,7 +6653,7 @@
       }
     ]
   },
-  "group_450": {
+  "group_433": {
     "-1": [
       {
         "product_id": "52ddb75a-2a9b-45e1-803e-839de0485ef4",
@@ -6953,7 +6667,7 @@
       }
     ]
   },
-  "group_451": {
+  "group_434": {
     "-1": [
       {
         "product_id": "c163bce6-2bc8-43a8-a02c-11288eb859a3",
@@ -6967,7 +6681,7 @@
       }
     ]
   },
-  "group_452": {
+  "group_435": {
     "-1": [
       {
         "product_id": "fa396bcb-acf4-4710-9ebd-b9208fe2ca48",
@@ -6981,7 +6695,7 @@
       }
     ]
   },
-  "group_453": {
+  "group_436": {
     "-1": [
       {
         "product_id": "51fde513-b213-420a-afd4-a4b0c5a152b3",
@@ -6995,7 +6709,7 @@
       }
     ]
   },
-  "group_454": {
+  "group_437": {
     "-1": [
       {
         "product_id": "522f418e-5f60-438c-854a-60f38a380e5a",
@@ -7009,7 +6723,7 @@
       }
     ]
   },
-  "group_455": {
+  "group_438": {
     "-1": [
       {
         "product_id": "0abacb07-bb10-42b0-8635-d75999ca674d",
@@ -7023,7 +6737,7 @@
       }
     ]
   },
-  "group_456": {
+  "group_439": {
     "-1": [
       {
         "product_id": "c3e4bdd0-9d12-4f5d-80c7-e57f88d1035e",
@@ -7037,7 +6751,7 @@
       }
     ]
   },
-  "group_457": {
+  "group_440": {
     "-1": [
       {
         "product_id": "f86302ea-1d63-40bb-bb1f-d6212cc0abc0",
@@ -7056,7 +6770,7 @@
       }
     ]
   },
-  "group_458": {
+  "group_441": {
     "-1": [
       {
         "product_id": "4fa9329d-68a0-4874-9aa3-eb794efa53a8",
@@ -7070,7 +6784,7 @@
       }
     ]
   },
-  "group_459": {
+  "group_442": {
     "-1": [
       {
         "product_id": "c1041e00-6a3d-48d5-9c84-8e6df54aa8fe",
@@ -7084,7 +6798,7 @@
       }
     ]
   },
-  "group_460": {
+  "group_443": {
     "-1": [
       {
         "product_id": "cb1f0ccb-0f50-4ca5-adab-601c36793813",
@@ -7098,7 +6812,7 @@
       }
     ]
   },
-  "group_461": {
+  "group_444": {
     "-1": [
       {
         "product_id": "78841eff-a5c3-43a4-b536-5d6e90254174",
@@ -7112,7 +6826,7 @@
       }
     ]
   },
-  "group_462": {
+  "group_445": {
     "-1": [
       {
         "product_id": "e6c6b630-af6a-4dd4-b059-3ac33a7bc8b1",
@@ -7126,7 +6840,7 @@
       }
     ]
   },
-  "group_463": {
+  "group_446": {
     "-1": [
       {
         "product_id": "62c0b064-d548-4171-8ba5-76aca770bd97",
@@ -7145,7 +6859,7 @@
       }
     ]
   },
-  "group_464": {
+  "group_447": {
     "-1": [
       {
         "product_id": "890ad34a-1f75-446b-9b63-1e428d716905",
@@ -7159,7 +6873,7 @@
       }
     ]
   },
-  "group_465": {
+  "group_448": {
     "-1": [
       {
         "product_id": "c26a5e0b-c4c8-4a43-8528-29351f5ff479",
@@ -7173,7 +6887,7 @@
       }
     ]
   },
-  "group_466": {
+  "group_449": {
     "-1": [
       {
         "product_id": "240520d0-a15a-4689-874e-3a5ef70c5a6f",
@@ -7187,21 +6901,7 @@
       }
     ]
   },
-  "group_467": {
-    "-1": [
-      {
-        "product_id": "99687444-6597-4bbb-8563-52d385c4babb",
-        "name": "Nizza hi xy22",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/146516/gx9042.jpg"
-      },
-      {
-        "product_id": "419e3688-16b3-40a5-b093-5805560c1541",
-        "name": "Nizza hi xy22",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/146516/gx9042.jpg"
-      }
-    ]
-  },
-  "group_468": {
+  "group_450": {
     "-1": [
       {
         "product_id": "0efab7d4-d5a5-48c3-ae5a-72d287d09941",
@@ -7220,7 +6920,7 @@
       }
     ]
   },
-  "group_469": {
+  "group_451": {
     "-1": [
       {
         "product_id": "d8a5db3a-380c-48c8-b868-b33bb12d232d",
@@ -7239,7 +6939,7 @@
       }
     ]
   },
-  "group_470": {
+  "group_452": {
     "-1": [
       {
         "product_id": "a358c282-d0b7-4eda-bb33-0afbe7e0e608",
@@ -7253,7 +6953,7 @@
       }
     ]
   },
-  "group_471": {
+  "group_453": {
     "-1": [
       {
         "product_id": "9a8eff95-9dba-4cd2-aa06-40c789d10be3",
@@ -7267,7 +6967,7 @@
       }
     ]
   },
-  "group_472": {
+  "group_454": {
     "-1": [
       {
         "product_id": "5ae1d56f-8209-4a47-bb4e-3038e8a7465d",
@@ -7281,7 +6981,7 @@
       }
     ]
   },
-  "group_473": {
+  "group_455": {
     "-1": [
       {
         "product_id": "86101912-5866-4fe3-9aa6-9a94b46ebaf9",
@@ -7292,15 +6992,10 @@
         "product_id": "d6adf6d4-06c9-4792-a2dc-4a07aa86ca26",
         "name": "Air  1 elevate high",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/184011/dn3253-500.jpg"
-      },
-      {
-        "product_id": "07aad136-4bd9-4f7f-b72f-10146cc45d8c",
-        "name": "Air  1 elevate high",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/184011/dn3253-500.jpg"
       }
     ]
   },
-  "group_474": {
+  "group_456": {
     "-1": [
       {
         "product_id": "fb00b256-9136-4800-8839-d6a1dce574da",
@@ -7314,7 +7009,7 @@
       }
     ]
   },
-  "group_475": {
+  "group_457": {
     "-1": [
       {
         "product_id": "0d1dee7b-d4b8-4353-90d0-da6400b093b9",
@@ -7328,7 +7023,7 @@
       }
     ]
   },
-  "group_476": {
+  "group_458": {
     "-1": [
       {
         "product_id": "c92049bd-da6d-44c4-b8d1-348858c04426",
@@ -7342,7 +7037,7 @@
       }
     ]
   },
-  "group_477": {
+  "group_459": {
     "-1": [
       {
         "product_id": "3b470c2a-d59f-4c2a-8779-9f667aa8d24a",
@@ -7356,7 +7051,7 @@
       }
     ]
   },
-  "group_478": {
+  "group_460": {
     "-1": [
       {
         "product_id": "d46dc3fc-3de7-4488-8a18-b2e49a3ab100",
@@ -7370,7 +7065,7 @@
       }
     ]
   },
-  "group_479": {
+  "group_461": {
     "-1": [
       {
         "product_id": "a47dd715-3694-4dde-8473-65d2d73fb937",
@@ -7384,7 +7079,7 @@
       }
     ]
   },
-  "group_480": {
+  "group_462": {
     "-1": [
       {
         "product_id": "2e4e9639-2694-474d-8421-966ecf6a3b80",
@@ -7398,7 +7093,7 @@
       }
     ]
   },
-  "group_481": {
+  "group_463": {
     "-1": [
       {
         "product_id": "0aaddf5d-8686-4fe8-8ed5-4421f991b225",
@@ -7412,7 +7107,7 @@
       }
     ]
   },
-  "group_482": {
+  "group_464": {
     "-1": [
       {
         "product_id": "fb9477e7-91d4-4f6f-a561-3743fa93c79b",
@@ -7426,7 +7121,7 @@
       }
     ]
   },
-  "group_483": {
+  "group_465": {
     "-1": [
       {
         "product_id": "23ce4e92-18ce-4e6a-a750-e411544eba9a",
@@ -7440,7 +7135,7 @@
       }
     ]
   },
-  "group_484": {
+  "group_466": {
     "-1": [
       {
         "product_id": "6c29a688-07af-436a-8f4a-c8e13d30d611",
@@ -7454,7 +7149,7 @@
       }
     ]
   },
-  "group_485": {
+  "group_467": {
     "-1": [
       {
         "product_id": "49081e08-65cb-406d-9d81-91ed37ecfe84",
@@ -7468,7 +7163,7 @@
       }
     ]
   },
-  "group_486": {
+  "group_468": {
     "-1": [
       {
         "product_id": "816c5b00-867f-47ad-be17-13561ba2ff82",
@@ -7482,7 +7177,7 @@
       }
     ]
   },
-  "group_487": {
+  "group_469": {
     "-1": [
       {
         "product_id": "e4c673c1-2996-4a85-beb1-aa59a8b14ded",
@@ -7501,7 +7196,7 @@
       }
     ]
   },
-  "group_488": {
+  "group_470": {
     "-1": [
       {
         "product_id": "d84bd141-852f-43d1-b5a2-3d60fd5788e6",
@@ -7520,7 +7215,7 @@
       }
     ]
   },
-  "group_489": {
+  "group_471": {
     "-1": [
       {
         "product_id": "cda8b496-448f-41d1-b3db-b1a9a34cbde8",
@@ -7534,7 +7229,7 @@
       }
     ]
   },
-  "group_490": {
+  "group_472": {
     "-1": [
       {
         "product_id": "dd075595-f4c0-4b52-aeec-d02d63beff85",
@@ -7548,7 +7243,7 @@
       }
     ]
   },
-  "group_491": {
+  "group_473": {
     "-1": [
       {
         "product_id": "8e3153eb-f3a1-4611-80fd-7d1f4447ec99",
@@ -7562,7 +7257,7 @@
       }
     ]
   },
-  "group_492": {
+  "group_474": {
     "-1": [
       {
         "product_id": "6332e316-0710-4ec8-93a2-770a2f61e40b",
@@ -7576,7 +7271,7 @@
       }
     ]
   },
-  "group_493": {
+  "group_475": {
     "-1": [
       {
         "product_id": "0085c6a8-0871-403b-a527-1c6d682e3f8e",
@@ -7595,21 +7290,7 @@
       }
     ]
   },
-  "group_494": {
-    "-1": [
-      {
-        "product_id": "d164cc55-e48c-4d33-b6f7-9e67ec6eab6e",
-        "name": "Knu stack shoes",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/171947/vn000crs448.jpg"
-      },
-      {
-        "product_id": "357d9793-bc85-4886-ad0b-c47f9421a3b1",
-        "name": "Knu stack shoes",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/171947/vn000crs448.jpg"
-      }
-    ]
-  },
-  "group_495": {
+  "group_476": {
     "-1": [
       {
         "product_id": "98ec8d27-0755-4059-bada-827d90e95605",
@@ -7623,7 +7304,7 @@
       }
     ]
   },
-  "group_496": {
+  "group_477": {
     "-1": [
       {
         "product_id": "60eed422-0e2c-45fc-b574-497d8f623b5b",
@@ -7637,7 +7318,7 @@
       }
     ]
   },
-  "group_497": {
+  "group_478": {
     "-1": [
       {
         "product_id": "035516b5-5a13-41fa-9979-68c89a12a666",
@@ -7651,7 +7332,7 @@
       }
     ]
   },
-  "group_498": {
+  "group_479": {
     "-1": [
       {
         "product_id": "f0489424-dd8e-4c73-8423-7d2d4f22e799",
@@ -7665,7 +7346,7 @@
       }
     ]
   },
-  "group_499": {
+  "group_480": {
     "-1": [
       {
         "product_id": "04fb8f05-6aca-433a-a67f-55c3c7205196",
@@ -7679,7 +7360,7 @@
       }
     ]
   },
-  "group_500": {
+  "group_481": {
     "-1": [
       {
         "product_id": "754bf17d-9559-4ea4-b7c8-9b96ddfbb4bd",
@@ -7693,7 +7374,7 @@
       }
     ]
   },
-  "group_501": {
+  "group_482": {
     "-1": [
       {
         "product_id": "b6fbb16c-2913-4411-a2d6-e903e1d13d52",
@@ -7707,7 +7388,7 @@
       }
     ]
   },
-  "group_502": {
+  "group_483": {
     "-1": [
       {
         "product_id": "2340b28f-5633-4bbf-8761-6891c5e34194",
@@ -7721,7 +7402,7 @@
       }
     ]
   },
-  "group_503": {
+  "group_484": {
     "-1": [
       {
         "product_id": "3380138f-ccc5-46dc-8e7b-542e5fada519",
@@ -7735,7 +7416,7 @@
       }
     ]
   },
-  "group_504": {
+  "group_485": {
     "-1": [
       {
         "product_id": "8ecfb9d0-ecb5-47c7-9d82-60d0819354f6",
@@ -7749,7 +7430,7 @@
       }
     ]
   },
-  "group_505": {
+  "group_486": {
     "-1": [
       {
         "product_id": "c757cf4f-2136-4892-9a32-1e3e7ef5a5fd",
@@ -7763,7 +7444,7 @@
       }
     ]
   },
-  "group_506": {
+  "group_487": {
     "-1": [
       {
         "product_id": "6e3b2872-7110-475c-83ef-ad8a1d9c860d",
@@ -7777,7 +7458,7 @@
       }
     ]
   },
-  "group_507": {
+  "group_488": {
     "-1": [
       {
         "product_id": "afa49a7a-3655-4211-8d19-dc6c7b535201",
@@ -7796,7 +7477,7 @@
       }
     ]
   },
-  "group_508": {
+  "group_489": {
     "-1": [
       {
         "product_id": "a45c5e04-0c71-44cf-8164-2af2c174c6b1",
@@ -7810,7 +7491,7 @@
       }
     ]
   },
-  "group_509": {
+  "group_490": {
     "-1": [
       {
         "product_id": "d4fdb70a-6801-4fba-b961-98c32eb37c14",
@@ -7824,7 +7505,7 @@
       }
     ]
   },
-  "group_510": {
+  "group_491": {
     "-1": [
       {
         "product_id": "41c5bfa0-9e81-4bf9-80ca-8ec45a0b386c",
@@ -7838,7 +7519,7 @@
       }
     ]
   },
-  "group_511": {
+  "group_492": {
     "-1": [
       {
         "product_id": "06a8a4c7-0e04-4505-b687-e63d6b489a51",
@@ -7852,7 +7533,7 @@
       }
     ]
   },
-  "group_512": {
+  "group_493": {
     "-1": [
       {
         "product_id": "f892dd2d-e425-492f-a2a1-74e2799f5c9a",
@@ -7866,7 +7547,7 @@
       }
     ]
   },
-  "group_513": {
+  "group_494": {
     "-1": [
       {
         "product_id": "d1114cc6-69bc-47d9-98ab-70534d306014",
@@ -7880,7 +7561,7 @@
       }
     ]
   },
-  "group_514": {
+  "group_495": {
     "-1": [
       {
         "product_id": "02a868ce-3e94-49eb-b727-eefafdbfeecc",
@@ -7894,7 +7575,7 @@
       }
     ]
   },
-  "group_515": {
+  "group_496": {
     "-1": [
       {
         "product_id": "414c333c-9dd5-4863-a628-8914e74e561f",
@@ -7913,7 +7594,7 @@
       }
     ]
   },
-  "group_516": {
+  "group_497": {
     "-1": [
       {
         "product_id": "d0c671ef-74cb-44e3-a981-ea3fca29c9fb",
@@ -7927,7 +7608,7 @@
       }
     ]
   },
-  "group_517": {
+  "group_498": {
     "-1": [
       {
         "product_id": "00899961-7b80-47fa-b25f-3255c2d7e400",
@@ -7946,7 +7627,7 @@
       }
     ]
   },
-  "group_518": {
+  "group_499": {
     "-1": [
       {
         "product_id": "978d9a55-6fa2-4d39-bc6c-7e612ead3b82",
@@ -7960,7 +7641,7 @@
       }
     ]
   },
-  "group_519": {
+  "group_500": {
     "-1": [
       {
         "product_id": "2b217c1b-9332-4b09-b967-452f880fc644",
@@ -7974,7 +7655,7 @@
       }
     ]
   },
-  "group_520": {
+  "group_501": {
     "-1": [
       {
         "product_id": "439d4a31-fe0f-4bd1-9bb0-90721b3dcee2",
@@ -7988,7 +7669,7 @@
       }
     ]
   },
-  "group_521": {
+  "group_502": {
     "-1": [
       {
         "product_id": "fdd0eed9-9e05-4ca9-a832-b9cca492151d",
@@ -8007,7 +7688,7 @@
       }
     ]
   },
-  "group_522": {
+  "group_503": {
     "-1": [
       {
         "product_id": "5034d0ec-e504-43ab-a23d-be7bfdb7b172",
@@ -8021,7 +7702,7 @@
       }
     ]
   },
-  "group_523": {
+  "group_504": {
     "-1": [
       {
         "product_id": "1227cd46-0afd-4b79-aa08-b3e03efc57bd",
@@ -8035,7 +7716,7 @@
       }
     ]
   },
-  "group_524": {
+  "group_505": {
     "-1": [
       {
         "product_id": "6f923102-2eac-48dd-929b-4ed925abd243",
@@ -8049,7 +7730,7 @@
       }
     ]
   },
-  "group_525": {
+  "group_506": {
     "-1": [
       {
         "product_id": "7934a161-8611-4e5e-820c-172895dabe75",
@@ -8063,7 +7744,7 @@
       }
     ]
   },
-  "group_526": {
+  "group_507": {
     "-1": [
       {
         "product_id": "95adcbe7-0cd8-4f8c-871e-a17fc242eaef",
@@ -8082,7 +7763,7 @@
       }
     ]
   },
-  "group_527": {
+  "group_508": {
     "-1": [
       {
         "product_id": "7c3a98e5-9306-45b1-8a6a-04614f8bdba7",
@@ -8096,7 +7777,7 @@
       }
     ]
   },
-  "group_528": {
+  "group_509": {
     "-1": [
       {
         "product_id": "255cb50a-48b2-4ab3-8824-1368cabd5bb6",
@@ -8110,7 +7791,7 @@
       }
     ]
   },
-  "group_529": {
+  "group_510": {
     "-1": [
       {
         "product_id": "e2fce09f-b71a-4c95-8653-b9fc47b65638",
@@ -8124,7 +7805,7 @@
       }
     ]
   },
-  "group_530": {
+  "group_511": {
     "-1": [
       {
         "product_id": "06ee5609-ad4a-4038-b7ea-fbc40399eba5",
@@ -8138,7 +7819,7 @@
       }
     ]
   },
-  "group_531": {
+  "group_512": {
     "-1": [
       {
         "product_id": "8ee9dde5-b9bc-4b2a-b6a2-705d8179cd26",
@@ -8152,7 +7833,7 @@
       }
     ]
   },
-  "group_532": {
+  "group_513": {
     "-1": [
       {
         "product_id": "00fbba72-1bb7-48b8-9df7-b2644ba96be4",
@@ -8166,7 +7847,7 @@
       }
     ]
   },
-  "group_533": {
+  "group_514": {
     "-1": [
       {
         "product_id": "be0012f4-78a4-4c32-8e33-ed96d1456aba",
@@ -8180,7 +7861,7 @@
       }
     ]
   },
-  "group_534": {
+  "group_515": {
     "-1": [
       {
         "product_id": "d75ddf93-edec-47d2-93f3-b2e5cb682fc2",
@@ -8199,7 +7880,7 @@
       }
     ]
   },
-  "group_535": {
+  "group_516": {
     "-1": [
       {
         "product_id": "6b57dbaa-69df-4a0c-99ad-7b98cdef5283",
@@ -8213,7 +7894,7 @@
       }
     ]
   },
-  "group_536": {
+  "group_517": {
     "-1": [
       {
         "product_id": "fd12e663-592d-4466-b4d7-47dd2693cc39",
@@ -8227,7 +7908,7 @@
       }
     ]
   },
-  "group_537": {
+  "group_518": {
     "-1": [
       {
         "product_id": "776442ff-bd8f-4c40-885b-fe0fb1ff3540",
@@ -8241,7 +7922,7 @@
       }
     ]
   },
-  "group_538": {
+  "group_519": {
     "-1": [
       {
         "product_id": "48e3c51d-46f6-42a5-bbf3-f74eef5d6061",
@@ -8255,7 +7936,7 @@
       }
     ]
   },
-  "group_539": {
+  "group_520": {
     "-1": [
       {
         "product_id": "7bc8e9b0-3d46-460a-9ced-64171d579217",
@@ -8274,7 +7955,7 @@
       }
     ]
   },
-  "group_540": {
+  "group_521": {
     "-1": [
       {
         "product_id": "3a066ecc-29b6-4e15-961d-a13f973269c3",
@@ -8285,15 +7966,10 @@
         "product_id": "096f460f-4253-42ee-b977-be1d3761a90d",
         "name": "Dunk low rose whisper",
         "image": "https://privesports.com.cy/product_catalog/groups/187440/dd1503-118-pink.jpg"
-      },
-      {
-        "product_id": "a5433739-cc59-4dcc-82a9-70471d9ce270",
-        "name": "Dunk low rose whisper",
-        "image": "https://privesports.com.cy/product_catalog/groups/187440/dd1503-118-pink.jpg"
       }
     ]
   },
-  "group_541": {
+  "group_522": {
     "-1": [
       {
         "product_id": "b36d2a0c-3aa6-41f5-9e40-9bac66f9fd65",
@@ -8307,7 +7983,7 @@
       }
     ]
   },
-  "group_542": {
+  "group_523": {
     "-1": [
       {
         "product_id": "b456cac1-e937-4fdf-b2bc-624b1f1a7164",
@@ -8321,7 +7997,7 @@
       }
     ]
   },
-  "group_543": {
+  "group_524": {
     "-1": [
       {
         "product_id": "fa25f20e-aae3-403b-88a3-77497940d270",
@@ -8335,21 +8011,7 @@
       }
     ]
   },
-  "group_544": {
-    "-1": [
-      {
-        "product_id": "03c720be-7144-4802-be50-01803a72c666",
-        "name": "Wmns  Air zoom pegasus 38",
-        "image": "https://privesports.com.cy/product_catalog/groups/82702/cw7358-601-pink.jpg"
-      },
-      {
-        "product_id": "ded67bd2-85cc-4164-bc24-807c4c50b508",
-        "name": "Wmns  Air zoom pegasus 38",
-        "image": "https://privesports.com.cy/product_catalog/groups/82702/cw7358-601-pink.jpg"
-      }
-    ]
-  },
-  "group_545": {
+  "group_525": {
     "-1": [
       {
         "product_id": "bb765472-d2c8-4bf2-b5a7-11687464444f",
@@ -8363,7 +8025,7 @@
       }
     ]
   },
-  "group_546": {
+  "group_526": {
     "-1": [
       {
         "product_id": "4e71d489-ae34-4030-9fbc-075d16bf04ef",
@@ -8377,7 +8039,7 @@
       }
     ]
   },
-  "group_547": {
+  "group_527": {
     "-1": [
       {
         "product_id": "588a1526-ca05-44b0-8e2b-2160b641a806",
@@ -8391,7 +8053,7 @@
       }
     ]
   },
-  "group_548": {
+  "group_528": {
     "-1": [
       {
         "product_id": "5c9dc1d3-946c-48db-8517-724ed0763d26",
@@ -8405,7 +8067,7 @@
       }
     ]
   },
-  "group_549": {
+  "group_529": {
     "-1": [
       {
         "product_id": "5e612097-b6b5-4cdb-ba8c-10e5214f447c",
@@ -8424,7 +8086,7 @@
       }
     ]
   },
-  "group_550": {
+  "group_530": {
     "-1": [
       {
         "product_id": "81a29eee-0072-40d3-96eb-97fdcdb4be20",
@@ -8443,7 +8105,7 @@
       }
     ]
   },
-  "group_551": {
+  "group_531": {
     "-1": [
       {
         "product_id": "5c0d3f0e-9e24-416e-9daa-c4ff877e7826",
@@ -8457,7 +8119,7 @@
       }
     ]
   },
-  "group_552": {
+  "group_532": {
     "-1": [
       {
         "product_id": "815d871c-5e58-4f3d-8ab6-ae0a23e9aff4",
@@ -8471,7 +8133,7 @@
       }
     ]
   },
-  "group_553": {
+  "group_533": {
     "-1": [
       {
         "product_id": "a828d047-00a2-4725-91ad-8ef92f41b048",
@@ -8485,7 +8147,7 @@
       }
     ]
   },
-  "group_554": {
+  "group_534": {
     "-1": [
       {
         "product_id": "04eb3e61-5066-4c21-83cb-7b4cd9a2b935",
@@ -8504,7 +8166,7 @@
       }
     ]
   },
-  "group_555": {
+  "group_535": {
     "-1": [
       {
         "product_id": "974165a3-70fa-4936-8f61-94f11597197a",
@@ -8518,7 +8180,7 @@
       }
     ]
   },
-  "group_556": {
+  "group_536": {
     "-1": [
       {
         "product_id": "5ea92e24-5ea6-4d33-bc51-73ef7e73be6c",
@@ -8532,7 +8194,7 @@
       }
     ]
   },
-  "group_557": {
+  "group_537": {
     "-1": [
       {
         "product_id": "f44d4063-de54-40f0-b159-87b650926934",
@@ -8546,7 +8208,7 @@
       }
     ]
   },
-  "group_558": {
+  "group_538": {
     "-1": [
       {
         "product_id": "9545839d-a6a6-4fd8-a5ff-ae13acf32766",
@@ -8560,7 +8222,7 @@
       }
     ]
   },
-  "group_559": {
+  "group_539": {
     "-1": [
       {
         "product_id": "78b125a1-fd3d-4655-b822-fb59a6f2816c",
@@ -8574,7 +8236,7 @@
       }
     ]
   },
-  "group_560": {
+  "group_540": {
     "-1": [
       {
         "product_id": "453ffaa3-c2fe-426e-9fd2-d1104b6f8a81",
@@ -8588,7 +8250,7 @@
       }
     ]
   },
-  "group_561": {
+  "group_541": {
     "-1": [
       {
         "product_id": "2190b9da-f15c-4c63-82ea-9715d0de5fdb",
@@ -8602,7 +8264,7 @@
       }
     ]
   },
-  "group_562": {
+  "group_542": {
     "-1": [
       {
         "product_id": "cb78267e-a68b-467f-abbb-3fa14239a656",
@@ -8616,7 +8278,7 @@
       }
     ]
   },
-  "group_563": {
+  "group_543": {
     "-1": [
       {
         "product_id": "780d1834-44cd-411b-9ef2-f7d413214a58",
@@ -8630,7 +8292,7 @@
       }
     ]
   },
-  "group_564": {
+  "group_544": {
     "-1": [
       {
         "product_id": "fee3aca0-a206-4e8a-b002-0991ebd07ad8",
@@ -8644,7 +8306,7 @@
       }
     ]
   },
-  "group_565": {
+  "group_545": {
     "-1": [
       {
         "product_id": "6c2b1722-be70-4a26-8a08-86fd2169a4ea",
@@ -8658,7 +8320,7 @@
       }
     ]
   },
-  "group_566": {
+  "group_546": {
     "-1": [
       {
         "product_id": "cba99f6f-97d5-4738-bf37-094ec3c7f3b7",
@@ -8672,7 +8334,7 @@
       }
     ]
   },
-  "group_567": {
+  "group_547": {
     "-1": [
       {
         "product_id": "10cf193c-7364-4992-838f-db2b17c6eeb1",
@@ -8686,7 +8348,7 @@
       }
     ]
   },
-  "group_568": {
+  "group_548": {
     "-1": [
       {
         "product_id": "8a9e5fa3-284d-4ce5-8292-7dd6eb97d3ed",
@@ -8700,7 +8362,7 @@
       }
     ]
   },
-  "group_569": {
+  "group_549": {
     "-1": [
       {
         "product_id": "c0add1c0-e05c-4a53-9f47-55d0f9d0c647",
@@ -8714,7 +8376,7 @@
       }
     ]
   },
-  "group_570": {
+  "group_550": {
     "-1": [
       {
         "product_id": "3a1d9044-c4ff-4eba-bb2f-e962eba9a704",
@@ -8725,15 +8387,10 @@
         "product_id": "2931c602-5b60-4dbf-be03-8fe4c72c87db",
         "name": "Emporio armani - womans sneakers",
         "image": "https://powersoft365customers.blob.core.windows.net/he101897a-c-and-g-costa-ltd/Models/X3X058XN730SS24.jpg?updated=20240410130437"
-      },
-      {
-        "product_id": "6a151e6a-77fe-43cf-b787-6a4ccaa33dee",
-        "name": "Emporio armani - womans sneakers",
-        "image": "https://powersoft365customers.blob.core.windows.net/he101897a-c-and-g-costa-ltd/Models/X3X058XN730SS24.jpg?updated=20240410130437"
       }
     ]
   },
-  "group_571": {
+  "group_551": {
     "-1": [
       {
         "product_id": "229edeab-2f66-466b-9d6d-78165a285bdf",
@@ -8747,7 +8404,7 @@
       }
     ]
   },
-  "group_572": {
+  "group_552": {
     "-1": [
       {
         "product_id": "f82a71f7-89b6-411c-97b4-385b89da12a5",
@@ -8766,7 +8423,7 @@
       }
     ]
   },
-  "group_573": {
+  "group_553": {
     "-1": [
       {
         "product_id": "cffceb24-f078-4a8d-86eb-a121ac95a452",
@@ -8780,21 +8437,7 @@
       }
     ]
   },
-  "group_574": {
-    "-1": [
-      {
-        "product_id": "15b36622-6304-4f95-849c-bddd444c9b01",
-        "name": "Reebok women's club c grounds uk",
-        "image": "https://s3.gy.digital/famousports/uploads/asset/data/365729/100207963_1.png"
-      },
-      {
-        "product_id": "ab4fd4d7-513e-4177-997e-f48373f1e524",
-        "name": "Reebok women's club c grounds uk",
-        "image": "https://s3.gy.digital/famousports/uploads/asset/data/365729/100207963_1.png"
-      }
-    ]
-  },
-  "group_575": {
+  "group_554": {
     "-1": [
       {
         "product_id": "fccca0d2-25c8-45f6-b582-f9134cbf691e",
@@ -8808,7 +8451,7 @@
       }
     ]
   },
-  "group_576": {
+  "group_555": {
     "-1": [
       {
         "product_id": "be391f6d-005d-49d4-a7a9-4c1c0731a7f4",
@@ -8822,21 +8465,7 @@
       }
     ]
   },
-  "group_577": {
-    "-1": [
-      {
-        "product_id": "7518caab-3e17-46ec-8410-8bad96195b78",
-        "name": "Nike womens Air max pre-day",
-        "image": "https://www.sneakershero.com/product_catalog/groups/129426/dc4025-500.jpg"
-      },
-      {
-        "product_id": "802a6941-5c14-4783-9f06-c62bad706a7d",
-        "name": "Nike womens Air max pre-day",
-        "image": "https://www.sneakershero.com/product_catalog/groups/129426/dc4025-500.jpg"
-      }
-    ]
-  },
-  "group_578": {
+  "group_556": {
     "-1": [
       {
         "product_id": "1601f325-d66d-477d-af36-ba08702e1b07",
@@ -8855,7 +8484,7 @@
       }
     ]
   },
-  "group_579": {
+  "group_557": {
     "-1": [
       {
         "product_id": "2769e35a-863b-4061-88cb-bdaf49a8ce8f",
@@ -8874,7 +8503,7 @@
       }
     ]
   },
-  "group_580": {
+  "group_558": {
     "-1": [
       {
         "product_id": "78a3a355-303b-4d15-b190-28ef9831d0a7",
@@ -8888,7 +8517,7 @@
       }
     ]
   },
-  "group_581": {
+  "group_559": {
     "-1": [
       {
         "product_id": "374ed4b3-1757-460c-b127-b461ab78eb9b",
@@ -8902,7 +8531,7 @@
       }
     ]
   },
-  "group_582": {
+  "group_560": {
     "-1": [
       {
         "product_id": "c5ec3d53-9aa7-4f38-ba01-78ed49c14bbc",
@@ -8916,7 +8545,7 @@
       }
     ]
   },
-  "group_583": {
+  "group_561": {
     "-1": [
       {
         "product_id": "4a31e5f9-2dff-450e-97d4-421441a26aad",
@@ -8930,7 +8559,7 @@
       }
     ]
   },
-  "group_584": {
+  "group_562": {
     "-1": [
       {
         "product_id": "7b309d02-f299-4ebc-a8dc-4b6c52b27997",
@@ -8944,7 +8573,7 @@
       }
     ]
   },
-  "group_585": {
+  "group_563": {
     "-1": [
       {
         "product_id": "869523e7-17fd-4c41-8d42-4b2a5e6e84b2",
@@ -8958,7 +8587,7 @@
       }
     ]
   },
-  "group_586": {
+  "group_564": {
     "-1": [
       {
         "product_id": "614bfb72-eda9-464c-af32-38fe39b78a92",
@@ -8972,7 +8601,7 @@
       }
     ]
   },
-  "group_587": {
+  "group_565": {
     "-1": [
       {
         "product_id": "d932c80b-b989-463b-aaea-5dbe82e5c428",
@@ -8986,7 +8615,7 @@
       }
     ]
   },
-  "group_588": {
+  "group_566": {
     "-1": [
       {
         "product_id": "0ef4f840-3c2e-4929-be96-43a025941cf3",
@@ -9000,7 +8629,7 @@
       }
     ]
   },
-  "group_589": {
+  "group_567": {
     "-1": [
       {
         "product_id": "e504d7f6-70b5-41eb-a58a-e843073f641f",
@@ -9014,7 +8643,7 @@
       }
     ]
   },
-  "group_590": {
+  "group_568": {
     "-1": [
       {
         "product_id": "89beaca6-4053-4a1b-9cfc-838b81716714",
@@ -9028,7 +8657,7 @@
       }
     ]
   },
-  "group_591": {
+  "group_569": {
     "-1": [
       {
         "product_id": "3db8f7fe-ab6e-4f1b-a323-078ec2d73577",
@@ -9052,7 +8681,7 @@
       }
     ]
   },
-  "group_592": {
+  "group_570": {
     "-1": [
       {
         "product_id": "6cb35d8d-91aa-4017-991d-fac02d7ae85f",
@@ -9066,7 +8695,7 @@
       }
     ]
   },
-  "group_593": {
+  "group_571": {
     "-1": [
       {
         "product_id": "37e46ac5-190b-4d46-b8ea-98dd8d8335a6",
@@ -9080,7 +8709,7 @@
       }
     ]
   },
-  "group_594": {
+  "group_572": {
     "-1": [
       {
         "product_id": "47cc1812-20be-4f33-bcff-f64edf6f0d7d",
@@ -9094,7 +8723,7 @@
       }
     ]
   },
-  "group_595": {
+  "group_573": {
     "-1": [
       {
         "product_id": "fac1261e-10a9-4312-8d35-a4e3ad246091",
@@ -9108,7 +8737,7 @@
       }
     ]
   },
-  "group_596": {
+  "group_574": {
     "-1": [
       {
         "product_id": "bb5cf65f-385d-4481-b05b-46022f221e07",
@@ -9127,7 +8756,7 @@
       }
     ]
   },
-  "group_597": {
+  "group_575": {
     "-1": [
       {
         "product_id": "b35d8747-300b-4b44-835f-6ca5c137bebe",
@@ -9141,7 +8770,7 @@
       }
     ]
   },
-  "group_598": {
+  "group_576": {
     "-1": [
       {
         "product_id": "0e9ad2f6-1239-4409-b1d1-8389b9b829d5",
@@ -9155,7 +8784,7 @@
       }
     ]
   },
-  "group_599": {
+  "group_577": {
     "-1": [
       {
         "product_id": "4896f1c3-6918-4693-9580-b4b1c3578909",
@@ -9174,7 +8803,7 @@
       }
     ]
   },
-  "group_600": {
+  "group_578": {
     "-1": [
       {
         "product_id": "c9983c74-fd09-4fce-ac5d-e05fc4d2c308",
@@ -9188,7 +8817,7 @@
       }
     ]
   },
-  "group_601": {
+  "group_579": {
     "-1": [
       {
         "product_id": "84a39c1d-0952-454a-848b-1c73b2608fc5",
@@ -9204,15 +8833,10 @@
         "product_id": "a510b3cc-8b59-4bba-8872-3c81884a4488",
         "name": "Campus 00s",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/178927/h03474.jpg"
-      },
-      {
-        "product_id": "73ca9a55-352c-4a85-bcaa-9b0beb2ab702",
-        "name": "Campus 00s",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/178927/h03474.jpg"
       }
     ]
   },
-  "group_602": {
+  "group_580": {
     "-1": [
       {
         "product_id": "48f3799c-8936-40ab-a9c0-fe6d704dc617",
@@ -9236,7 +8860,7 @@
       }
     ]
   },
-  "group_603": {
+  "group_581": {
     "-1": [
       {
         "product_id": "15d5a444-8db0-441c-bfa9-18b9b673b575",
@@ -9255,7 +8879,7 @@
       }
     ]
   },
-  "group_604": {
+  "group_582": {
     "-1": [
       {
         "product_id": "ebb02434-08ea-4789-9a5d-9193a2368126",
@@ -9279,7 +8903,7 @@
       }
     ]
   },
-  "group_605": {
+  "group_583": {
     "-1": [
       {
         "product_id": "f623e675-8dce-449e-8d6b-b0e27fa8b67c",
@@ -9293,7 +8917,7 @@
       }
     ]
   },
-  "group_606": {
+  "group_584": {
     "-1": [
       {
         "product_id": "29a12d01-a379-40ba-85c7-a9a8d1bcf85d",
@@ -9307,7 +8931,7 @@
       }
     ]
   },
-  "group_607": {
+  "group_585": {
     "-1": [
       {
         "product_id": "578d8197-6eca-448b-9e39-fa2e6915d620",
@@ -9321,7 +8945,7 @@
       }
     ]
   },
-  "group_608": {
+  "group_586": {
     "-1": [
       {
         "product_id": "b3cd01c8-051f-4be3-95b5-df0f17c66ac9",
@@ -9335,7 +8959,7 @@
       }
     ]
   },
-  "group_609": {
+  "group_587": {
     "-1": [
       {
         "product_id": "45cf4a5a-d310-4438-8d98-c3ce3bcc9600",
@@ -9349,7 +8973,7 @@
       }
     ]
   },
-  "group_610": {
+  "group_588": {
     "-1": [
       {
         "product_id": "abca56e7-7bb9-40ad-8c96-2fda8c367fce",
@@ -9363,7 +8987,7 @@
       }
     ]
   },
-  "group_611": {
+  "group_589": {
     "-1": [
       {
         "product_id": "2d7d557d-ab83-4819-8d65-27152cb592cc",
@@ -9377,7 +9001,7 @@
       }
     ]
   },
-  "group_612": {
+  "group_590": {
     "-1": [
       {
         "product_id": "1eda3829-ea86-491a-bf5e-5201f5ac115b",
@@ -9396,7 +9020,7 @@
       }
     ]
   },
-  "group_613": {
+  "group_591": {
     "-1": [
       {
         "product_id": "b59f0f9e-2bbe-4137-9a9e-a50826485a8a",
@@ -9410,7 +9034,7 @@
       }
     ]
   },
-  "group_614": {
+  "group_592": {
     "-1": [
       {
         "product_id": "f45d0aa2-9d82-48fb-87a2-1fdaefad9af1",
@@ -9424,7 +9048,7 @@
       }
     ]
   },
-  "group_615": {
+  "group_593": {
     "-1": [
       {
         "product_id": "89692554-52f6-49df-8637-1aacfbff6c5c",
@@ -9448,7 +9072,7 @@
       }
     ]
   },
-  "group_616": {
+  "group_594": {
     "-1": [
       {
         "product_id": "985b2b44-b383-4577-a513-bb1df12215ab",
@@ -9462,7 +9086,7 @@
       }
     ]
   },
-  "group_617": {
+  "group_595": {
     "-1": [
       {
         "product_id": "c95cd982-edff-4876-9c82-f8dd9975ae95",
@@ -9476,7 +9100,7 @@
       }
     ]
   },
-  "group_618": {
+  "group_596": {
     "-1": [
       {
         "product_id": "1de76bbf-368e-4ff7-b123-e34480fa5436",
@@ -9490,7 +9114,7 @@
       }
     ]
   },
-  "group_619": {
+  "group_597": {
     "-1": [
       {
         "product_id": "e69ad900-0db1-4e6f-9dd9-2c050537ee47",
@@ -9504,7 +9128,7 @@
       }
     ]
   },
-  "group_620": {
+  "group_598": {
     "-1": [
       {
         "product_id": "2e400d46-f410-4442-b690-361a12dcb8be",
@@ -9518,7 +9142,7 @@
       }
     ]
   },
-  "group_621": {
+  "group_599": {
     "-1": [
       {
         "product_id": "a1fe8c5a-e325-4046-bbe1-6091402d6f0a",
@@ -9532,7 +9156,7 @@
       }
     ]
   },
-  "group_622": {
+  "group_600": {
     "-1": [
       {
         "product_id": "5048e607-a30d-407e-a40b-c0a359521674",
@@ -9546,7 +9170,7 @@
       }
     ]
   },
-  "group_623": {
+  "group_601": {
     "-1": [
       {
         "product_id": "5da28aaf-6c4c-4e5a-9ddf-99475f58eb61",
@@ -9560,7 +9184,7 @@
       }
     ]
   },
-  "group_624": {
+  "group_602": {
     "-1": [
       {
         "product_id": "c9216d17-6b5b-4399-a9da-16db0ec416c0",
@@ -9574,7 +9198,7 @@
       }
     ]
   },
-  "group_625": {
+  "group_603": {
     "-1": [
       {
         "product_id": "cede821f-e184-4052-8200-ab81eb1bf5bc",
@@ -9588,7 +9212,7 @@
       }
     ]
   },
-  "group_626": {
+  "group_604": {
     "-1": [
       {
         "product_id": "2176b514-ade8-4298-bdee-575549cb02e1",
@@ -9602,7 +9226,7 @@
       }
     ]
   },
-  "group_627": {
+  "group_605": {
     "-1": [
       {
         "product_id": "118f73ec-e821-41af-8188-7d5f879aedf9",
@@ -9616,7 +9240,7 @@
       }
     ]
   },
-  "group_628": {
+  "group_606": {
     "-1": [
       {
         "product_id": "1fafc525-e819-454b-ad0d-18ff48dcb08b",
@@ -9630,7 +9254,7 @@
       }
     ]
   },
-  "group_629": {
+  "group_607": {
     "-1": [
       {
         "product_id": "845dc572-f424-4545-9356-899a94e321d6",
@@ -9644,7 +9268,7 @@
       }
     ]
   },
-  "group_630": {
+  "group_608": {
     "-1": [
       {
         "product_id": "15126603-d459-4dec-9262-895735cdde5b",
@@ -9663,7 +9287,7 @@
       }
     ]
   },
-  "group_631": {
+  "group_609": {
     "-1": [
       {
         "product_id": "9596f484-7dd3-47f0-86a3-26be96bedb66",
@@ -9677,7 +9301,7 @@
       }
     ]
   },
-  "group_632": {
+  "group_610": {
     "-1": [
       {
         "product_id": "eed23486-ba4b-4525-8409-7ad0c126eede",
@@ -9691,7 +9315,7 @@
       }
     ]
   },
-  "group_633": {
+  "group_611": {
     "-1": [
       {
         "product_id": "9f2209c1-6131-435a-bd02-9f3e22c420cc",
@@ -9705,7 +9329,7 @@
       }
     ]
   },
-  "group_634": {
+  "group_612": {
     "-1": [
       {
         "product_id": "8fd96f9d-d216-4124-86e4-77b176c5c549",
@@ -9719,7 +9343,7 @@
       }
     ]
   },
-  "group_635": {
+  "group_613": {
     "-1": [
       {
         "product_id": "4e808ee9-8754-4de3-837a-06e2c2068df0",
@@ -9733,7 +9357,7 @@
       }
     ]
   },
-  "group_636": {
+  "group_614": {
     "-1": [
       {
         "product_id": "bc676c91-0f1f-4434-81a1-1e59f7251e5d",
@@ -9747,7 +9371,7 @@
       }
     ]
   },
-  "group_637": {
+  "group_615": {
     "-1": [
       {
         "product_id": "fb14e07a-b3de-4d94-9386-05af4b370134",
@@ -9761,7 +9385,7 @@
       }
     ]
   },
-  "group_638": {
+  "group_616": {
     "-1": [
       {
         "product_id": "295589bf-321b-4b3c-92a2-3d7320bada69",
@@ -9780,7 +9404,7 @@
       }
     ]
   },
-  "group_639": {
+  "group_617": {
     "-1": [
       {
         "product_id": "aa93a90d-8fe1-4700-87eb-f37b7bd9d396",
@@ -9794,7 +9418,7 @@
       }
     ]
   },
-  "group_640": {
+  "group_618": {
     "-1": [
       {
         "product_id": "17d33819-2636-425c-899b-4e7853dea099",
@@ -9808,7 +9432,7 @@
       }
     ]
   },
-  "group_641": {
+  "group_619": {
     "-1": [
       {
         "product_id": "fc5c12e3-60df-483c-b23a-b125b8b718c4",
@@ -9822,7 +9446,7 @@
       }
     ]
   },
-  "group_642": {
+  "group_620": {
     "-1": [
       {
         "product_id": "fbbf320f-8e1a-4bb8-b96b-8ed408c68d05",
@@ -9836,7 +9460,7 @@
       }
     ]
   },
-  "group_643": {
+  "group_621": {
     "-1": [
       {
         "product_id": "f35e55b2-8dff-4c71-b484-2c10bfbd6b45",
@@ -9850,7 +9474,7 @@
       }
     ]
   },
-  "group_644": {
+  "group_622": {
     "-1": [
       {
         "product_id": "e15ad12c-d1fe-4dea-b550-734bc42397a2",
@@ -9874,7 +9498,7 @@
       }
     ]
   },
-  "group_645": {
+  "group_623": {
     "-1": [
       {
         "product_id": "65818fc2-095b-49f3-bc73-9ba72bbd9a18",
@@ -9893,7 +9517,7 @@
       }
     ]
   },
-  "group_646": {
+  "group_624": {
     "-1": [
       {
         "product_id": "a597a0e1-dd97-4966-9d67-05ed27513d89",
@@ -9912,7 +9536,7 @@
       }
     ]
   },
-  "group_647": {
+  "group_625": {
     "-1": [
       {
         "product_id": "8b0ddd00-0563-41b5-a0a4-b854341150cc",
@@ -9926,7 +9550,7 @@
       }
     ]
   },
-  "group_648": {
+  "group_626": {
     "-1": [
       {
         "product_id": "ceea4fbf-e56f-4b10-ad1e-caf81ee7bd58",
@@ -9945,7 +9569,7 @@
       }
     ]
   },
-  "group_649": {
+  "group_627": {
     "-1": [
       {
         "product_id": "96833eac-77de-4991-9e98-104473d52a1f",
@@ -9959,7 +9583,7 @@
       }
     ]
   },
-  "group_650": {
+  "group_628": {
     "-1": [
       {
         "product_id": "3ce8e017-619b-4dd2-bf42-5df35cb0602d",
@@ -9973,7 +9597,7 @@
       }
     ]
   },
-  "group_651": {
+  "group_629": {
     "-1": [
       {
         "product_id": "7c15911c-55b5-412f-a1a6-62ae329809b7",
@@ -9987,7 +9611,7 @@
       }
     ]
   },
-  "group_652": {
+  "group_630": {
     "-1": [
       {
         "product_id": "53b66b57-1cff-4799-bc62-6bcc640bd297",
@@ -10001,7 +9625,7 @@
       }
     ]
   },
-  "group_653": {
+  "group_631": {
     "-1": [
       {
         "product_id": "f0892ac4-cc00-4353-875e-3fff752c0c54",
@@ -10030,7 +9654,7 @@
       }
     ]
   },
-  "group_654": {
+  "group_632": {
     "-1": [
       {
         "product_id": "541425bb-5a24-4433-8413-4d69a86b9da3",
@@ -10049,7 +9673,7 @@
       }
     ]
   },
-  "group_655": {
+  "group_633": {
     "-1": [
       {
         "product_id": "b26582bd-ffe0-4f9d-b934-6bfdb100645b",
@@ -10063,7 +9687,7 @@
       }
     ]
   },
-  "group_656": {
+  "group_634": {
     "-1": [
       {
         "product_id": "db91b959-1798-497e-a9fa-011192ed468d",
@@ -10092,7 +9716,7 @@
       }
     ]
   },
-  "group_657": {
+  "group_635": {
     "-1": [
       {
         "product_id": "0a3175aa-d27e-44b9-9d86-2207a36dd0ad",
@@ -10106,7 +9730,7 @@
       }
     ]
   },
-  "group_658": {
+  "group_636": {
     "-1": [
       {
         "product_id": "36481613-02e4-4ed6-bf0c-14853fb8141a",
@@ -10140,7 +9764,7 @@
       }
     ]
   },
-  "group_659": {
+  "group_637": {
     "-1": [
       {
         "product_id": "10d494bc-b0df-46a6-810c-cb5cd30997ff",
@@ -10154,7 +9778,7 @@
       }
     ]
   },
-  "group_660": {
+  "group_638": {
     "-1": [
       {
         "product_id": "6d0bec7a-4f2f-4c88-a568-3b2fcfa86308",
@@ -10183,7 +9807,7 @@
       }
     ]
   },
-  "group_661": {
+  "group_639": {
     "-1": [
       {
         "product_id": "e3b39235-e234-4cb1-ac8b-7f9d9996591d",
@@ -10197,7 +9821,7 @@
       }
     ]
   },
-  "group_662": {
+  "group_640": {
     "-1": [
       {
         "product_id": "adcc01bc-63d5-4dfa-b2fa-aca8fb42427a",
@@ -10211,7 +9835,7 @@
       }
     ]
   },
-  "group_663": {
+  "group_641": {
     "-1": [
       {
         "product_id": "74e613b8-9036-4a1d-80f7-ae194dfdda57",
@@ -10225,7 +9849,7 @@
       }
     ]
   },
-  "group_664": {
+  "group_642": {
     "-1": [
       {
         "product_id": "71731fde-b4cf-4837-ab53-bc9aee00fef3",
@@ -10244,7 +9868,7 @@
       }
     ]
   },
-  "group_665": {
+  "group_643": {
     "-1": [
       {
         "product_id": "7546c9b1-54fc-403f-ab83-d9c8d8590114",
@@ -10283,7 +9907,7 @@
       }
     ]
   },
-  "group_666": {
+  "group_644": {
     "-1": [
       {
         "product_id": "01e1c436-0dcb-4062-b440-98d14b83babc",
@@ -10297,7 +9921,7 @@
       }
     ]
   },
-  "group_667": {
+  "group_645": {
     "-1": [
       {
         "product_id": "94ef73a2-5f7d-41c5-be54-ae98fbf3b26b",
@@ -10311,7 +9935,7 @@
       }
     ]
   },
-  "group_668": {
+  "group_646": {
     "-1": [
       {
         "product_id": "bc08e941-ee2c-4e85-9eaf-bb550d8075d3",
@@ -10325,7 +9949,7 @@
       }
     ]
   },
-  "group_669": {
+  "group_647": {
     "-1": [
       {
         "product_id": "ae824160-50aa-4a7f-b1bc-990ebdfee0ab",
@@ -10339,7 +9963,7 @@
       }
     ]
   },
-  "group_670": {
+  "group_648": {
     "-1": [
       {
         "product_id": "22f0a8e5-e9fa-4312-812d-c6a4d4e60261",
@@ -10353,7 +9977,7 @@
       }
     ]
   },
-  "group_671": {
+  "group_649": {
     "-1": [
       {
         "product_id": "067bb2bb-52f3-43e4-a384-ba69cf8e5d97",
@@ -10367,21 +9991,7 @@
       }
     ]
   },
-  "group_672": {
-    "-1": [
-      {
-        "product_id": "536bb614-a193-40fa-90ac-dca62afd65db",
-        "name": "Court funk womens",
-        "image": "https://privesports.com.cy/product_catalog/groups/137928/hp9458-white.jpg"
-      },
-      {
-        "product_id": "ed51d9ec-62bf-431b-8c51-5db2c2482842",
-        "name": "Court funk womens",
-        "image": "https://privesports.com.cy/product_catalog/groups/140002/hp9459-white.jpg"
-      }
-    ]
-  },
-  "group_673": {
+  "group_650": {
     "-1": [
       {
         "product_id": "fc911b4d-2c07-4933-b3d4-6062282ef7fd",
@@ -10395,7 +10005,7 @@
       }
     ]
   },
-  "group_674": {
+  "group_651": {
     "-1": [
       {
         "product_id": "266ea99a-c983-4868-96de-d736ee506758",
@@ -10419,7 +10029,7 @@
       }
     ]
   },
-  "group_675": {
+  "group_652": {
     "-1": [
       {
         "product_id": "a296e6ea-58e1-4c15-9bd5-f589960d38d2",
@@ -10433,7 +10043,7 @@
       }
     ]
   },
-  "group_676": {
+  "group_653": {
     "-1": [
       {
         "product_id": "79f58247-c49b-4ee3-9ff8-a674ee6132a8",
@@ -10447,7 +10057,7 @@
       }
     ]
   },
-  "group_677": {
+  "group_654": {
     "-1": [
       {
         "product_id": "ab385307-be38-4e50-a633-00bcef3ea06a",
@@ -10478,15 +10088,10 @@
         "product_id": "1a198564-a3f1-4e41-a338-fcc0f401296d",
         "name": "Grand court 2.0",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/176477/gw9214.jpg"
-      },
-      {
-        "product_id": "c28d59e0-d962-45cf-b6ee-4f682c08580a",
-        "name": "Grand court 2.0",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/184639/id2989.jpg"
       }
     ]
   },
-  "group_678": {
+  "group_655": {
     "-1": [
       {
         "product_id": "a805f329-8b74-42d6-aa60-747bf5913e71",
@@ -10500,7 +10105,7 @@
       }
     ]
   },
-  "group_679": {
+  "group_656": {
     "-1": [
       {
         "product_id": "6c21260d-8537-41bf-adc3-c2e78e9ee6b2",
@@ -10519,7 +10124,7 @@
       }
     ]
   },
-  "group_680": {
+  "group_657": {
     "-1": [
       {
         "product_id": "a11b7855-5b3a-4130-b7b6-fd5479287b4c",
@@ -10533,7 +10138,7 @@
       }
     ]
   },
-  "group_681": {
+  "group_658": {
     "-1": [
       {
         "product_id": "1c6fc2f6-4fc1-4bc3-a581-b9a67a6873e8",
@@ -10547,7 +10152,7 @@
       }
     ]
   },
-  "group_682": {
+  "group_659": {
     "-1": [
       {
         "product_id": "b362acec-4eb6-4623-ba5e-ca5cc20b5af3",
@@ -10561,7 +10166,7 @@
       }
     ]
   },
-  "group_683": {
+  "group_660": {
     "-1": [
       {
         "product_id": "c07a8e33-ec4c-4906-a06c-63c3ab641cac",
@@ -10585,7 +10190,7 @@
       }
     ]
   },
-  "group_684": {
+  "group_661": {
     "-1": [
       {
         "product_id": "293b7316-b28e-4bff-882d-a5d192afb288",
@@ -10599,7 +10204,7 @@
       }
     ]
   },
-  "group_685": {
+  "group_662": {
     "-1": [
       {
         "product_id": "b43a7512-446a-4c0d-8ab3-13711eb41c0d",
@@ -10628,7 +10233,7 @@
       }
     ]
   },
-  "group_686": {
+  "group_663": {
     "-1": [
       {
         "product_id": "adf5e43a-84ee-4ff6-b991-ad51be520635",
@@ -10642,7 +10247,7 @@
       }
     ]
   },
-  "group_687": {
+  "group_664": {
     "-1": [
       {
         "product_id": "b03e939e-f01a-4d2b-85ef-075c11ee497f",
@@ -10661,7 +10266,7 @@
       }
     ]
   },
-  "group_688": {
+  "group_665": {
     "-1": [
       {
         "product_id": "50cb2cc5-fc74-4e82-841f-9a775df692e0",
@@ -10672,15 +10277,10 @@
         "product_id": "477d9d6f-aff3-48c5-8f6c-425e8881b028",
         "name": "Ubounce dna",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/176907/ig6027.jpg"
-      },
-      {
-        "product_id": "dee8cd84-c4fd-4fb8-b0b4-01d1cb5f2d3c",
-        "name": "Ubounce dna",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/176907/ig6027.jpg"
       }
     ]
   },
-  "group_689": {
+  "group_666": {
     "-1": [
       {
         "product_id": "144a25dd-4908-4c94-afcd-5ebc72ecb869",
@@ -10694,7 +10294,7 @@
       }
     ]
   },
-  "group_690": {
+  "group_667": {
     "-1": [
       {
         "product_id": "748da034-7f62-4abf-b785-c66519e212e2",
@@ -10720,15 +10320,10 @@
         "product_id": "3ffba6f8-ff8c-4111-94f5-f290c4d2a9f9",
         "name": "Vl court 3.0",
         "image": "https://privesports.com.cy/product_catalog/groups/172585/id9063-brown.jpg"
-      },
-      {
-        "product_id": "ad39361f-af12-490b-a20c-c040731006a7",
-        "name": "Vl court 3.0",
-        "image": "https://privesports.com.cy/product_catalog/groups/169150/id8797-white.jpg"
       }
     ]
   },
-  "group_691": {
+  "group_668": {
     "-1": [
       {
         "product_id": "82c423bd-bc69-41be-9f8a-3408cfd4fdee",
@@ -10739,15 +10334,10 @@
         "product_id": "123be0ad-619a-4b55-9b88-537633eacb15",
         "name": "Womens postmove se",
         "image": "https://privesports.com.cy/product_catalog/groups/173230/ig7903-white.jpg"
-      },
-      {
-        "product_id": "4e4f27ed-4344-42f8-8a8b-4c15ba61af4a",
-        "name": "Womens postmove se",
-        "image": "https://privesports.com.cy/product_catalog/groups/173230/ig7903-white.jpg"
       }
     ]
   },
-  "group_692": {
+  "group_669": {
     "-1": [
       {
         "product_id": "e29e85f9-c398-48bd-9373-1bed3030aa7c",
@@ -10766,7 +10356,7 @@
       }
     ]
   },
-  "group_693": {
+  "group_670": {
     "-1": [
       {
         "product_id": "4ade8b04-af1c-4596-9601-da699cb6f91b",
@@ -10785,7 +10375,7 @@
       }
     ]
   },
-  "group_694": {
+  "group_671": {
     "-1": [
       {
         "product_id": "7a599278-c06a-4ffd-8e1c-c34aa34fe002",
@@ -10799,7 +10389,7 @@
       }
     ]
   },
-  "group_695": {
+  "group_672": {
     "-1": [
       {
         "product_id": "d08813df-f0d2-420e-8e99-7c5be6d101e2",
@@ -10818,7 +10408,7 @@
       }
     ]
   },
-  "group_696": {
+  "group_673": {
     "-1": [
       {
         "product_id": "8b900a1c-e43c-46c7-a754-2ee696245072",
@@ -10832,7 +10422,7 @@
       }
     ]
   },
-  "group_697": {
+  "group_674": {
     "-1": [
       {
         "product_id": "1b221edc-59be-4e61-a5a4-1c89acb97728",
@@ -10851,7 +10441,7 @@
       }
     ]
   },
-  "group_698": {
+  "group_675": {
     "-1": [
       {
         "product_id": "fe50bdfa-9d52-4c57-b653-b12aac971fb7",
@@ -10870,7 +10460,7 @@
       }
     ]
   },
-  "group_699": {
+  "group_676": {
     "-1": [
       {
         "product_id": "833642d9-abe8-4978-8d3b-410e3e12a03e",
@@ -10889,7 +10479,7 @@
       }
     ]
   },
-  "group_700": {
+  "group_677": {
     "-1": [
       {
         "product_id": "97d853a7-8555-457f-b6b3-e2685082a111",
@@ -10903,7 +10493,7 @@
       }
     ]
   },
-  "group_701": {
+  "group_678": {
     "-1": [
       {
         "product_id": "8687a65c-fae9-4508-8f66-35a7b1eb0f3a",
@@ -10922,7 +10512,7 @@
       }
     ]
   },
-  "group_702": {
+  "group_679": {
     "-1": [
       {
         "product_id": "0dd38844-f46b-4b76-a603-43a4839284ce",
@@ -10936,7 +10526,7 @@
       }
     ]
   },
-  "group_703": {
+  "group_680": {
     "-1": [
       {
         "product_id": "443f6c86-2bad-4b4b-99f7-98561d389002",
@@ -10965,7 +10555,7 @@
       }
     ]
   },
-  "group_704": {
+  "group_681": {
     "-1": [
       {
         "product_id": "a3a4f1a5-d0ac-490e-a751-2db3cc1723a5",
@@ -10979,7 +10569,7 @@
       }
     ]
   },
-  "group_705": {
+  "group_682": {
     "-1": [
       {
         "product_id": "209d7399-8517-41bc-a448-d7f76050b501",
@@ -10993,7 +10583,7 @@
       }
     ]
   },
-  "group_706": {
+  "group_683": {
     "-1": [
       {
         "product_id": "2abbacda-9f2f-49f5-835a-c6d95b49f32b",
@@ -11012,7 +10602,7 @@
       }
     ]
   },
-  "group_707": {
+  "group_684": {
     "-1": [
       {
         "product_id": "0ff08fc7-983b-4345-b6a0-423592e28933",
@@ -11036,7 +10626,7 @@
       }
     ]
   },
-  "group_708": {
+  "group_685": {
     "-1": [
       {
         "product_id": "85766e6d-cfd9-4bc0-b901-ab0cdf0081e5",
@@ -11050,7 +10640,7 @@
       }
     ]
   },
-  "group_709": {
+  "group_686": {
     "-1": [
       {
         "product_id": "59577c6f-b776-42cd-a775-e100106822aa",
@@ -11069,7 +10659,7 @@
       }
     ]
   },
-  "group_710": {
+  "group_687": {
     "-1": [
       {
         "product_id": "d73a0c5a-8c60-463f-8585-3319f8b9afe3",
@@ -11093,7 +10683,7 @@
       }
     ]
   },
-  "group_711": {
+  "group_688": {
     "-1": [
       {
         "product_id": "7a1482b0-081a-442a-a9f9-e25c8398089b",
@@ -11107,7 +10697,7 @@
       }
     ]
   },
-  "group_712": {
+  "group_689": {
     "-1": [
       {
         "product_id": "c00dd214-3009-4d40-bdd8-09838d552dec",
@@ -11121,7 +10711,7 @@
       }
     ]
   },
-  "group_713": {
+  "group_690": {
     "-1": [
       {
         "product_id": "4383b1d7-4b8a-4040-833c-884255a113b2",
@@ -11135,7 +10725,7 @@
       }
     ]
   },
-  "group_714": {
+  "group_691": {
     "-1": [
       {
         "product_id": "ea7dfb68-d465-47e4-80b7-d74ef18118ba",
@@ -11149,7 +10739,7 @@
       }
     ]
   },
-  "group_715": {
+  "group_692": {
     "-1": [
       {
         "product_id": "3767a847-ca71-4bdd-ae12-868767379dbc",
@@ -11163,7 +10753,7 @@
       }
     ]
   },
-  "group_716": {
+  "group_693": {
     "-1": [
       {
         "product_id": "97a449b8-471a-4f8f-a0b5-1dd9ebbef25e",
@@ -11177,7 +10767,7 @@
       }
     ]
   },
-  "group_717": {
+  "group_694": {
     "-1": [
       {
         "product_id": "3634968a-3aa9-4175-8b14-0e868d8e1aea",
@@ -11191,7 +10781,7 @@
       }
     ]
   },
-  "group_718": {
+  "group_695": {
     "-1": [
       {
         "product_id": "aa0e8996-9c9d-4674-9773-8dc4d064b1e3",
@@ -11205,7 +10795,7 @@
       }
     ]
   },
-  "group_719": {
+  "group_696": {
     "-1": [
       {
         "product_id": "47a77ae8-718b-4091-8c36-c9511ea7b978",
@@ -11219,7 +10809,7 @@
       }
     ]
   },
-  "group_720": {
+  "group_697": {
     "-1": [
       {
         "product_id": "8556af6e-a897-4c6e-ba5e-4758ff00ef61",
@@ -11233,7 +10823,7 @@
       }
     ]
   },
-  "group_721": {
+  "group_698": {
     "-1": [
       {
         "product_id": "fa6a2a90-c479-4adc-ba3a-bcdc1d4d00a3",
@@ -11247,7 +10837,7 @@
       }
     ]
   },
-  "group_722": {
+  "group_699": {
     "-1": [
       {
         "product_id": "58236e35-fe15-423e-8c59-d1e20f704025",
@@ -11261,7 +10851,7 @@
       }
     ]
   },
-  "group_723": {
+  "group_700": {
     "-1": [
       {
         "product_id": "49bcddfa-1c69-44ba-9a71-6ed70f413cfe",
@@ -11280,7 +10870,7 @@
       }
     ]
   },
-  "group_724": {
+  "group_701": {
     "-1": [
       {
         "product_id": "93ff42b4-e225-43c8-9ce6-90374805c9e7",
@@ -11294,7 +10884,7 @@
       }
     ]
   },
-  "group_725": {
+  "group_702": {
     "-1": [
       {
         "product_id": "0139e55d-c475-499b-92dc-e499096fd7a2",
@@ -11308,7 +10898,7 @@
       }
     ]
   },
-  "group_726": {
+  "group_703": {
     "-1": [
       {
         "product_id": "a8d639a0-c16b-443f-a21f-a4ed44f7af3c",
@@ -11352,7 +10942,7 @@
       }
     ]
   },
-  "group_727": {
+  "group_704": {
     "-1": [
       {
         "product_id": "5341f884-d21a-496f-822e-072e2fd14a87",
@@ -11371,7 +10961,7 @@
       }
     ]
   },
-  "group_728": {
+  "group_705": {
     "-1": [
       {
         "product_id": "8facbf3c-797c-4e5d-8763-3931bc6789b7",
@@ -11390,7 +10980,7 @@
       }
     ]
   },
-  "group_729": {
+  "group_706": {
     "-1": [
       {
         "product_id": "0c92fb95-a257-41f9-838b-0b64db67b400",
@@ -11404,7 +10994,7 @@
       }
     ]
   },
-  "group_730": {
+  "group_707": {
     "-1": [
       {
         "product_id": "4a58f1af-802d-4c85-b35f-4e39080102a8",
@@ -11428,7 +11018,7 @@
       }
     ]
   },
-  "group_731": {
+  "group_708": {
     "-1": [
       {
         "product_id": "359f8037-9f89-444e-9f92-3ae6b7853595",
@@ -11442,7 +11032,7 @@
       }
     ]
   },
-  "group_732": {
+  "group_709": {
     "-1": [
       {
         "product_id": "0a4c705c-1911-4c5a-bfe3-a72da3dc73dd",
@@ -11456,7 +11046,7 @@
       }
     ]
   },
-  "group_733": {
+  "group_710": {
     "-1": [
       {
         "product_id": "ac89c06b-fbc0-4aef-a47c-40e641d53ba6",
@@ -11470,7 +11060,7 @@
       }
     ]
   },
-  "group_734": {
+  "group_711": {
     "-1": [
       {
         "product_id": "944ac4b2-3f0a-4d9e-9523-9e804c7c5ab6",
@@ -11484,7 +11074,7 @@
       }
     ]
   },
-  "group_735": {
+  "group_712": {
     "-1": [
       {
         "product_id": "f052593b-2a43-47d7-8d10-f01c5f604dff",
@@ -11498,7 +11088,7 @@
       }
     ]
   },
-  "group_736": {
+  "group_713": {
     "-1": [
       {
         "product_id": "42360f6c-8b17-4e7c-9105-815be59dd81d",
@@ -11512,21 +11102,7 @@
       }
     ]
   },
-  "group_737": {
-    "-1": [
-      {
-        "product_id": "b13d7162-7290-443d-8229-f5a7b6a6a0cb",
-        "name": "Elbina sneakers",
-        "image": "https://privesports.com.cy/product_catalog/groups/179646/fljelblea12whbei-white.jpg"
-      },
-      {
-        "product_id": "6d8cf85e-93bd-47ea-8a59-3e43fe4ef732",
-        "name": "Elbina sneakers",
-        "image": "https://privesports.com.cy/product_catalog/groups/179646/fljelblea12whbei-white.jpg"
-      }
-    ]
-  },
-  "group_738": {
+  "group_714": {
     "-1": [
       {
         "product_id": "3aa05aa1-0e43-4bbc-a001-bea549e78288",
@@ -11540,7 +11116,7 @@
       }
     ]
   },
-  "group_739": {
+  "group_715": {
     "-1": [
       {
         "product_id": "f38175b8-8d6e-4bb3-a12b-b7f111f4e2bb",
@@ -11554,7 +11130,7 @@
       }
     ]
   },
-  "group_740": {
+  "group_716": {
     "-1": [
       {
         "product_id": "5aa1fb2f-c3ba-43db-b6dc-9732bf0a2b84",
@@ -11568,7 +11144,7 @@
       }
     ]
   },
-  "group_741": {
+  "group_717": {
     "-1": [
       {
         "product_id": "e4bf1627-8c4f-4742-92b3-5c2c8ca88d73",
@@ -11582,7 +11158,7 @@
       }
     ]
   },
-  "group_742": {
+  "group_718": {
     "-1": [
       {
         "product_id": "f1c8d1c0-1777-47b7-b2eb-49a3dbed68f1",
@@ -11596,7 +11172,7 @@
       }
     ]
   },
-  "group_743": {
+  "group_719": {
     "-1": [
       {
         "product_id": "030ba5e7-f540-4b12-953f-321d7a7564b1",
@@ -11610,7 +11186,7 @@
       }
     ]
   },
-  "group_744": {
+  "group_720": {
     "-1": [
       {
         "product_id": "c1e6bc3f-f5be-413d-a31a-32d34ac17c29",
@@ -11624,7 +11200,7 @@
       }
     ]
   },
-  "group_745": {
+  "group_721": {
     "-1": [
       {
         "product_id": "3e388577-4ccc-40d5-809f-62aa73d08752",
@@ -11638,7 +11214,7 @@
       }
     ]
   },
-  "group_746": {
+  "group_722": {
     "-1": [
       {
         "product_id": "f216d9ef-8598-4c76-b6ec-ded98eb47216",
@@ -11662,7 +11238,7 @@
       }
     ]
   },
-  "group_747": {
+  "group_723": {
     "-1": [
       {
         "product_id": "cc55df4f-799e-486b-aaf8-adb6613c7b4f",
@@ -11676,7 +11252,7 @@
       }
     ]
   },
-  "group_748": {
+  "group_724": {
     "-1": [
       {
         "product_id": "5c143307-33e8-4a75-92d3-bf112d72cba4",
@@ -11695,7 +11271,7 @@
       }
     ]
   },
-  "group_749": {
+  "group_725": {
     "-1": [
       {
         "product_id": "6074fe3e-724d-47e8-912f-98c845239258",
@@ -11719,7 +11295,7 @@
       }
     ]
   },
-  "group_750": {
+  "group_726": {
     "-1": [
       {
         "product_id": "6b69f0ad-9505-4d17-89f9-3e27ad99419e",
@@ -11733,7 +11309,7 @@
       }
     ]
   },
-  "group_751": {
+  "group_727": {
     "-1": [
       {
         "product_id": "331b53e0-c949-471b-bfb8-5751c823dddc",
@@ -11752,7 +11328,7 @@
       }
     ]
   },
-  "group_752": {
+  "group_728": {
     "-1": [
       {
         "product_id": "526f55d2-0b8e-42f4-9daf-42bb2e414eb0",
@@ -11768,15 +11344,10 @@
         "product_id": "d44739a6-c841-4496-9fd7-44e8f1e87fe8",
         "name": "T-clip",
         "image": "https://privesports.com.cy/product_catalog/groups/171861/47sfa0060216-white.jpg"
-      },
-      {
-        "product_id": "b9f5a20c-21de-49b7-84b5-586c9e495321",
-        "name": "T-clip",
-        "image": "https://privesports.com.cy/product_catalog/groups/161008/45SFA009021G.jpg"
       }
     ]
   },
-  "group_753": {
+  "group_729": {
     "-1": [
       {
         "product_id": "fb3e484d-070f-462f-b526-bfa891d8c88c",
@@ -11790,7 +11361,7 @@
       }
     ]
   },
-  "group_754": {
+  "group_730": {
     "-1": [
       {
         "product_id": "41c252c5-a347-48cb-a914-2ad8b92ce3d2",
@@ -11804,7 +11375,7 @@
       }
     ]
   },
-  "group_755": {
+  "group_731": {
     "-1": [
       {
         "product_id": "7488374d-28f1-421b-a319-bf8ce2a75f48",
@@ -11818,7 +11389,7 @@
       }
     ]
   },
-  "group_756": {
+  "group_732": {
     "-1": [
       {
         "product_id": "d7fd6dc1-6196-4654-8699-84ae0c1b6e8d",
@@ -11832,7 +11403,7 @@
       }
     ]
   },
-  "group_757": {
+  "group_733": {
     "-1": [
       {
         "product_id": "fee937d9-bb6a-4fc4-be0b-dee4659d896b",
@@ -11846,7 +11417,7 @@
       }
     ]
   },
-  "group_758": {
+  "group_734": {
     "-1": [
       {
         "product_id": "e5f19024-b0db-4401-bd14-bc63d3425964",
@@ -11865,7 +11436,7 @@
       }
     ]
   },
-  "group_759": {
+  "group_735": {
     "-1": [
       {
         "product_id": "4f73904e-54a1-416c-bcf2-e6c475305cda",
@@ -11879,7 +11450,7 @@
       }
     ]
   },
-  "group_760": {
+  "group_736": {
     "-1": [
       {
         "product_id": "bb06ebe0-4b95-4a57-af67-cc14dd2e7421",
@@ -11893,7 +11464,7 @@
       }
     ]
   },
-  "group_761": {
+  "group_737": {
     "-1": [
       {
         "product_id": "23872dac-170a-416e-b2bd-f1817904de2f",
@@ -11907,7 +11478,7 @@
       }
     ]
   },
-  "group_762": {
+  "group_738": {
     "-1": [
       {
         "product_id": "b2a1d7b9-d061-44de-a37a-6adab281492f",
@@ -11921,7 +11492,7 @@
       }
     ]
   },
-  "group_763": {
+  "group_739": {
     "-1": [
       {
         "product_id": "980da59e-317c-4e67-b48d-7111aeec15ca",
@@ -11935,7 +11506,7 @@
       }
     ]
   },
-  "group_764": {
+  "group_740": {
     "-1": [
       {
         "product_id": "941829fd-fe3a-45a1-b31f-904919d140f9",
@@ -11954,7 +11525,7 @@
       }
     ]
   },
-  "group_765": {
+  "group_741": {
     "-1": [
       {
         "product_id": "e5cd9714-cbc6-4a31-b45b-5e08fc107a65",
@@ -11973,7 +11544,7 @@
       }
     ]
   },
-  "group_766": {
+  "group_742": {
     "-1": [
       {
         "product_id": "9adaceb5-ed83-4976-9de8-8894d203ff4f",
@@ -11997,7 +11568,7 @@
       }
     ]
   },
-  "group_767": {
+  "group_743": {
     "-1": [
       {
         "product_id": "1c6a6845-dd50-4f99-84a3-abc9aa53be3f",
@@ -12011,7 +11582,7 @@
       }
     ]
   },
-  "group_768": {
+  "group_744": {
     "-1": [
       {
         "product_id": "f21d87f3-456c-47c8-9fe4-473d0feb937d",
@@ -12030,7 +11601,7 @@
       }
     ]
   },
-  "group_769": {
+  "group_745": {
     "-1": [
       {
         "product_id": "50cf6408-7d2f-4132-8b11-0fbe4c1b9eb2",
@@ -12044,7 +11615,7 @@
       }
     ]
   },
-  "group_770": {
+  "group_746": {
     "-1": [
       {
         "product_id": "156abce8-41e0-4128-9e92-4bce8bd3893d",
@@ -12058,7 +11629,7 @@
       }
     ]
   },
-  "group_771": {
+  "group_747": {
     "-1": [
       {
         "product_id": "9259570e-2c2e-4f31-9564-fcbe870496be",
@@ -12087,7 +11658,7 @@
       }
     ]
   },
-  "group_772": {
+  "group_748": {
     "-1": [
       {
         "product_id": "fa329259-af83-43f0-916e-aa9267aff865",
@@ -12101,7 +11672,7 @@
       }
     ]
   },
-  "group_773": {
+  "group_749": {
     "-1": [
       {
         "product_id": "5b1c0d0a-297d-4843-9b2c-f36b76205c5f",
@@ -12120,7 +11691,7 @@
       }
     ]
   },
-  "group_774": {
+  "group_750": {
     "-1": [
       {
         "product_id": "c55e3d59-e7bd-491e-8100-f5817f7071e5",
@@ -12139,7 +11710,7 @@
       }
     ]
   },
-  "group_775": {
+  "group_751": {
     "-1": [
       {
         "product_id": "b27da2bb-d1f5-4415-b645-d73ba02e7914",
@@ -12158,7 +11729,7 @@
       }
     ]
   },
-  "group_776": {
+  "group_752": {
     "-1": [
       {
         "product_id": "37ed6926-a7eb-44f0-9c0a-4b233aa7f36c",
@@ -12172,7 +11743,7 @@
       }
     ]
   },
-  "group_777": {
+  "group_753": {
     "-1": [
       {
         "product_id": "589f7061-e082-42c2-abd7-80fdc7739061",
@@ -12196,7 +11767,7 @@
       }
     ]
   },
-  "group_778": {
+  "group_754": {
     "-1": [
       {
         "product_id": "8cc83726-6ee2-4cf2-9dbb-eca7003a0fe8",
@@ -12210,7 +11781,7 @@
       }
     ]
   },
-  "group_779": {
+  "group_755": {
     "-1": [
       {
         "product_id": "5c3a1f37-5319-4cc3-b8e5-d0a9433692c7",
@@ -12224,7 +11795,7 @@
       }
     ]
   },
-  "group_780": {
+  "group_756": {
     "-1": [
       {
         "product_id": "5b985086-c8d2-4a16-9e4b-467a6ec1b9b5",
@@ -12238,7 +11809,7 @@
       }
     ]
   },
-  "group_781": {
+  "group_757": {
     "-1": [
       {
         "product_id": "9e2b5f1a-c0db-4659-ba29-a491ee1f2853",
@@ -12252,7 +11823,7 @@
       }
     ]
   },
-  "group_782": {
+  "group_758": {
     "-1": [
       {
         "product_id": "ac5d56c1-9fd4-49cc-8481-0e484e291466",
@@ -12266,7 +11837,7 @@
       }
     ]
   },
-  "group_783": {
+  "group_759": {
     "-1": [
       {
         "product_id": "4926a327-3f99-4f11-9630-197d8b218bf2",
@@ -12290,7 +11861,7 @@
       }
     ]
   },
-  "group_784": {
+  "group_760": {
     "-1": [
       {
         "product_id": "3a899764-ad43-4308-bab1-70b67c6a6304",
@@ -12304,7 +11875,7 @@
       }
     ]
   },
-  "group_785": {
+  "group_761": {
     "-1": [
       {
         "product_id": "2629fae0-4182-4675-91d0-541535ad6476",
@@ -12318,7 +11889,7 @@
       }
     ]
   },
-  "group_786": {
+  "group_762": {
     "-1": [
       {
         "product_id": "e5aa4573-6243-4226-bd89-8a9e9553ff13",
@@ -12332,7 +11903,7 @@
       }
     ]
   },
-  "group_787": {
+  "group_763": {
     "-1": [
       {
         "product_id": "2c6be463-f4d2-44ce-9c38-677d0fe7770e",
@@ -12346,7 +11917,7 @@
       }
     ]
   },
-  "group_788": {
+  "group_764": {
     "-1": [
       {
         "product_id": "61901772-3af6-4542-a534-ed80a57d3729",
@@ -12360,7 +11931,7 @@
       }
     ]
   },
-  "group_789": {
+  "group_765": {
     "-1": [
       {
         "product_id": "1613fcbc-8c64-4356-a4d6-1ab1cb85a8b1",
@@ -12384,7 +11955,7 @@
       }
     ]
   },
-  "group_790": {
+  "group_766": {
     "-1": [
       {
         "product_id": "a232d959-96f7-45bd-a771-845878ef9816",
@@ -12398,7 +11969,7 @@
       }
     ]
   },
-  "group_791": {
+  "group_767": {
     "-1": [
       {
         "product_id": "f6ece899-fa20-44dd-a477-b45221bb7c5d",
@@ -12427,7 +11998,7 @@
       }
     ]
   },
-  "group_792": {
+  "group_768": {
     "-1": [
       {
         "product_id": "a6a4895c-b639-425b-b340-39dfd76aa060",
@@ -12441,7 +12012,7 @@
       }
     ]
   },
-  "group_793": {
+  "group_769": {
     "-1": [
       {
         "product_id": "51e51e24-e144-47f7-9d65-4a51830f1812",
@@ -12455,7 +12026,7 @@
       }
     ]
   },
-  "group_794": {
+  "group_770": {
     "-1": [
       {
         "product_id": "1e217768-03bc-46d3-8e80-31629d781326",
@@ -12469,7 +12040,7 @@
       }
     ]
   },
-  "group_795": {
+  "group_771": {
     "-1": [
       {
         "product_id": "e10bf3dc-6ab4-4ec2-b591-c49ef5f8fa12",
@@ -12483,7 +12054,7 @@
       }
     ]
   },
-  "group_796": {
+  "group_772": {
     "-1": [
       {
         "product_id": "30c0a475-bf24-4176-b86a-2676295a665f",
@@ -12497,7 +12068,7 @@
       }
     ]
   },
-  "group_797": {
+  "group_773": {
     "-1": [
       {
         "product_id": "1a8745a6-cf9b-496b-ac4a-200e77d36597",
@@ -12511,7 +12082,7 @@
       }
     ]
   },
-  "group_798": {
+  "group_774": {
     "-1": [
       {
         "product_id": "55a2127c-3369-4b5b-bc19-c70b45d106fd",
@@ -12530,7 +12101,7 @@
       }
     ]
   },
-  "group_799": {
+  "group_775": {
     "-1": [
       {
         "product_id": "adcc98ed-cc94-4283-a8d4-80e73cd33a8f",
@@ -12549,7 +12120,7 @@
       }
     ]
   },
-  "group_800": {
+  "group_776": {
     "-1": [
       {
         "product_id": "13706dd0-7ca3-4bce-bd16-8c4510a2c560",
@@ -12565,15 +12136,10 @@
         "product_id": "5d14b3fd-a84a-40f1-aa9b-816f6717828d",
         "name": "Air huarache",
         "image": "https://privesports.com.cy/product_catalog/groups/137850/dd1068-108-white.jpg"
-      },
-      {
-        "product_id": "5e2f6606-3dcc-4ff6-b146-25e7e0adb294",
-        "name": "Air huarache",
-        "image": "https://privesports.com.cy/product_catalog/groups/137850/dd1068-108-white.jpg"
       }
     ]
   },
-  "group_801": {
+  "group_777": {
     "-1": [
       {
         "product_id": "87f32a9f-0659-4291-a75d-52e2506b9879",
@@ -12587,7 +12153,7 @@
       }
     ]
   },
-  "group_802": {
+  "group_778": {
     "-1": [
       {
         "product_id": "8a57cb98-5b6e-498a-b748-7aa89e29e15f",
@@ -12611,7 +12177,7 @@
       }
     ]
   },
-  "group_803": {
+  "group_779": {
     "-1": [
       {
         "product_id": "867bcbe6-2dc3-4fd2-aa24-7dabc968b16f",
@@ -12625,7 +12191,7 @@
       }
     ]
   },
-  "group_804": {
+  "group_780": {
     "-1": [
       {
         "product_id": "021b64ed-5227-4276-a706-92c677edb36d",
@@ -12649,7 +12215,7 @@
       }
     ]
   },
-  "group_805": {
+  "group_781": {
     "-1": [
       {
         "product_id": "c7c4603d-9351-4ad5-84c0-e6253e762d5c",
@@ -12668,7 +12234,7 @@
       }
     ]
   },
-  "group_806": {
+  "group_782": {
     "-1": [
       {
         "product_id": "c370a9f6-b0ec-4fbb-ac82-2b9a10b25532",
@@ -12687,7 +12253,7 @@
       }
     ]
   },
-  "group_807": {
+  "group_783": {
     "-1": [
       {
         "product_id": "fc93cae4-526e-48e6-bb4a-8d2be236cd9f",
@@ -12701,7 +12267,7 @@
       }
     ]
   },
-  "group_808": {
+  "group_784": {
     "-1": [
       {
         "product_id": "f4da8d2a-1362-4d91-b993-7f04c4ecbb80",
@@ -12720,7 +12286,7 @@
       }
     ]
   },
-  "group_809": {
+  "group_785": {
     "-1": [
       {
         "product_id": "dfebde74-7ac2-4ca1-877f-654e5f3d9b8b",
@@ -12734,7 +12300,7 @@
       }
     ]
   },
-  "group_810": {
+  "group_786": {
     "-1": [
       {
         "product_id": "fa5e8f39-30dc-4d1a-90a8-ba1aad1fcfec",
@@ -12753,7 +12319,7 @@
       }
     ]
   },
-  "group_811": {
+  "group_787": {
     "-1": [
       {
         "product_id": "de8334ab-d513-443a-9607-dbc1ad9cbcd3",
@@ -12767,7 +12333,7 @@
       }
     ]
   },
-  "group_812": {
+  "group_788": {
     "-1": [
       {
         "product_id": "3616d11b-65b2-42a0-8d30-4808d7806e10",
@@ -12781,21 +12347,7 @@
       }
     ]
   },
-  "group_813": {
-    "-1": [
-      {
-        "product_id": "37fddb10-f42a-4b3a-bd74-7ceb1dc49b5f",
-        "name": "Shoes paris 24/24 monochrome sneaker with rhinestones",
-        "image": "https://powersoft365customers.blob.core.windows.net/he38455-d-k-andreou-co-ltd/Models/104631-EV-338-WHITE.jpg?updated=20240418174500"
-      },
-      {
-        "product_id": "19d2a2b3-df1b-4524-8d63-f2c38a6e6de4",
-        "name": "Shoes paris 24/24 monochrome sneaker with rhinestones",
-        "image": "https://powersoft365customers.blob.core.windows.net/he38455-d-k-andreou-co-ltd/Models/104631-EV-338-WHITE.jpg?updated=20240418174500"
-      }
-    ]
-  },
-  "group_814": {
+  "group_789": {
     "-1": [
       {
         "product_id": "a2d072b4-9898-43ad-b0f7-307829c50110",
@@ -12809,7 +12361,7 @@
       }
     ]
   },
-  "group_815": {
+  "group_790": {
     "-1": [
       {
         "product_id": "87b4841d-f09c-4dc2-9375-a1f4bb15b299",
@@ -12823,7 +12375,7 @@
       }
     ]
   },
-  "group_816": {
+  "group_791": {
     "-1": [
       {
         "product_id": "3e25fc3a-22ee-4e97-9646-8af1caaa1748",
@@ -12837,7 +12389,7 @@
       }
     ]
   },
-  "group_817": {
+  "group_792": {
     "-1": [
       {
         "product_id": "f581828f-aa0d-413c-8ce1-658a9562386d",
@@ -12856,7 +12408,7 @@
       }
     ]
   },
-  "group_818": {
+  "group_793": {
     "-1": [
       {
         "product_id": "f3971e98-ff00-4f2d-ad0d-958bdbc475c6",
@@ -12870,21 +12422,7 @@
       }
     ]
   },
-  "group_819": {
-    "-1": [
-      {
-        "product_id": "91057355-16a3-44ef-a0f8-5cd11b3a7510",
-        "name": "Blstr dresscode women",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/177098/396094-01.jpg"
-      },
-      {
-        "product_id": "bb9fad58-bdc0-4092-be40-fa4ea75effcc",
-        "name": "Blstr dresscode women",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/177098/396094-01.jpg"
-      }
-    ]
-  },
-  "group_820": {
+  "group_794": {
     "-1": [
       {
         "product_id": "1411d9cf-4855-4d7d-8cd3-630088ffcdab",
@@ -12903,7 +12441,7 @@
       }
     ]
   },
-  "group_821": {
+  "group_795": {
     "-1": [
       {
         "product_id": "5a7e15e0-567f-41bf-b8f9-4df036a51cbf",
@@ -12917,7 +12455,7 @@
       }
     ]
   },
-  "group_822": {
+  "group_796": {
     "-1": [
       {
         "product_id": "d2ba49ae-63ff-4a32-99e3-2368aae8aea9",
@@ -12931,7 +12469,7 @@
       }
     ]
   },
-  "group_823": {
+  "group_797": {
     "-1": [
       {
         "product_id": "c933eeea-156f-4542-a342-154362f06bbb",
@@ -12945,7 +12483,7 @@
       }
     ]
   },
-  "group_824": {
+  "group_798": {
     "-1": [
       {
         "product_id": "69a401a4-4bd3-47ba-8ea2-ec45255284b0",
@@ -12959,7 +12497,7 @@
       }
     ]
   },
-  "group_825": {
+  "group_799": {
     "-1": [
       {
         "product_id": "3cab970f-2898-4d38-a31f-544f01f23653",
@@ -12978,7 +12516,7 @@
       }
     ]
   },
-  "group_826": {
+  "group_800": {
     "-1": [
       {
         "product_id": "99332833-c056-44bf-9d32-e975bea1e9f9",
@@ -12992,7 +12530,7 @@
       }
     ]
   },
-  "group_827": {
+  "group_801": {
     "-1": [
       {
         "product_id": "8f3d8043-15b1-47f2-b615-d69806c619d5",
@@ -13006,7 +12544,7 @@
       }
     ]
   },
-  "group_828": {
+  "group_802": {
     "-1": [
       {
         "product_id": "33817a49-7c50-42d4-9eef-309f21b6bf60",
@@ -13020,7 +12558,7 @@
       }
     ]
   },
-  "group_829": {
+  "group_803": {
     "-1": [
       {
         "product_id": "de04d4f4-7aa9-44d3-ba84-0f5c9f6acb42",
@@ -13034,35 +12572,7 @@
       }
     ]
   },
-  "group_830": {
-    "-1": [
-      {
-        "product_id": "1e80f4ca-ec1e-4af0-9130-3aa024570bc7",
-        "name": "Classic leather women shoes",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/68075/cn7414.jpg"
-      },
-      {
-        "product_id": "28263d05-9ee4-48d0-9b9a-e661e7a9cd4a",
-        "name": "Classic leather women shoes",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/68084/dv3830.jpg"
-      }
-    ]
-  },
-  "group_831": {
-    "-1": [
-      {
-        "product_id": "68e875f4-3f7d-42fc-b644-5a429908db20",
-        "name": "Club c geo mid",
-        "image": "https://privesports.com.cy/product_catalog/groups/135229/gy8782-white.jpg"
-      },
-      {
-        "product_id": "edc5db20-408b-4ea3-86b4-e50b6e25434b",
-        "name": "Club c geo mid",
-        "image": "https://privesports.com.cy/product_catalog/groups/133442/gz4936-white.jpg"
-      }
-    ]
-  },
-  "group_832": {
+  "group_804": {
     "-1": [
       {
         "product_id": "81beb6d6-f5bd-4cd3-b273-f612beeaa007",
@@ -13076,7 +12586,7 @@
       }
     ]
   },
-  "group_833": {
+  "group_805": {
     "-1": [
       {
         "product_id": "fd79fab6-f138-4e5e-86e1-12b6d7e12ad4",
@@ -13090,7 +12600,7 @@
       }
     ]
   },
-  "group_834": {
+  "group_806": {
     "-1": [
       {
         "product_id": "57953425-508b-4551-bda2-607dabbdf185",
@@ -13104,7 +12614,7 @@
       }
     ]
   },
-  "group_835": {
+  "group_807": {
     "-1": [
       {
         "product_id": "dba4db2a-b149-4eea-a5c2-32bbaafc5c3a",
@@ -13118,7 +12628,7 @@
       }
     ]
   },
-  "group_836": {
+  "group_808": {
     "-1": [
       {
         "product_id": "29a574f7-9fbc-40c5-ba36-1aef669b4e7c",
@@ -13137,7 +12647,7 @@
       }
     ]
   },
-  "group_837": {
+  "group_809": {
     "-1": [
       {
         "product_id": "7daab2d7-4535-46d0-b8bf-c40c8a81fb1f",
@@ -13156,7 +12666,7 @@
       }
     ]
   },
-  "group_838": {
+  "group_810": {
     "-1": [
       {
         "product_id": "aab0ab61-ab6e-4d80-9481-25a73ec3ff50",
@@ -13170,21 +12680,7 @@
       }
     ]
   },
-  "group_839": {
-    "-1": [
-      {
-        "product_id": "794749f1-d195-4bb4-b923-e2fde4e453be",
-        "name": "Bobs bamina-star strikez",
-        "image": "https://privesports.com.cy/product_catalog/groups/134185/117355-ofwt-white.jpg"
-      },
-      {
-        "product_id": "11ce5d65-75cc-4d02-9006-bc5a16127f8e",
-        "name": "Bobs bamina-star strikez",
-        "image": "https://privesports.com.cy/product_catalog/groups/134185/117355-ofwt-white.jpg"
-      }
-    ]
-  },
-  "group_840": {
+  "group_811": {
     "-1": [
       {
         "product_id": "b4d33ad2-c8b6-40c6-8dc7-db912657d718",
@@ -13203,7 +12699,7 @@
       }
     ]
   },
-  "group_841": {
+  "group_812": {
     "-1": [
       {
         "product_id": "8c664304-f453-4d3a-8f38-9b2d551ca760",
@@ -13217,7 +12713,7 @@
       }
     ]
   },
-  "group_842": {
+  "group_813": {
     "-1": [
       {
         "product_id": "1912f79c-c222-43e8-9539-95d0398c639c",
@@ -13231,7 +12727,7 @@
       }
     ]
   },
-  "group_843": {
+  "group_814": {
     "-1": [
       {
         "product_id": "11545158-cb1d-4232-989b-f21325554238",
@@ -13245,7 +12741,7 @@
       }
     ]
   },
-  "group_844": {
+  "group_815": {
     "-1": [
       {
         "product_id": "ba7d5cc0-430f-424e-9ab9-0e624953c234",
@@ -13259,21 +12755,7 @@
       }
     ]
   },
-  "group_845": {
-    "-1": [
-      {
-        "product_id": "5aae4844-f5c2-4430-be01-2cba085cd457",
-        "name": "Vapor foam",
-        "image": "https://privesports.com.cy/product_catalog/groups/193777/150025-wsl-white.jpg"
-      },
-      {
-        "product_id": "35a2782a-3d1e-45a4-adc1-856e367f823a",
-        "name": "Vapor foam",
-        "image": "https://privesports.com.cy/product_catalog/groups/193777/150025-wsl-white.jpg"
-      }
-    ]
-  },
-  "group_846": {
+  "group_816": {
     "-1": [
       {
         "product_id": "f2a89b54-3697-4548-8978-63dd54043f0e",
@@ -13297,7 +12779,7 @@
       }
     ]
   },
-  "group_847": {
+  "group_817": {
     "-1": [
       {
         "product_id": "dc92b23b-95e4-4924-8c88-f5e633bbff35",
@@ -13311,7 +12793,7 @@
       }
     ]
   },
-  "group_848": {
+  "group_818": {
     "-1": [
       {
         "product_id": "d44e408b-5961-4709-8d26-f55a670f1dd6",
@@ -13325,21 +12807,7 @@
       }
     ]
   },
-  "group_849": {
-    "-1": [
-      {
-        "product_id": "eb6ce7c5-f3d3-47be-842b-5911269c847f",
-        "name": "Low cut lace-up sneaker",
-        "image": "https://privesports.com.cy/product_catalog/groups/167796/t3x9-33360-1355x336-white.jpg"
-      },
-      {
-        "product_id": "33e382b8-e19a-4802-945e-1bb8d46cb14d",
-        "name": "Low cut lace-up sneaker",
-        "image": "https://privesports.com.cy/product_catalog/groups/132954/t3a9-32355-1438x025-white.jpg"
-      }
-    ]
-  },
-  "group_850": {
+  "group_819": {
     "-1": [
       {
         "product_id": "f430380c-6500-4f97-81dd-e688d2d9f4c9",
@@ -13358,7 +12826,7 @@
       }
     ]
   },
-  "group_851": {
+  "group_820": {
     "-1": [
       {
         "product_id": "8a4a2eb0-62a9-47c4-88fb-0f12a5d1187f",
@@ -13372,7 +12840,7 @@
       }
     ]
   },
-  "group_852": {
+  "group_821": {
     "-1": [
       {
         "product_id": "a584a0de-6d5c-4040-924d-7d128376d286",
@@ -13386,7 +12854,7 @@
       }
     ]
   },
-  "group_853": {
+  "group_822": {
     "-1": [
       {
         "product_id": "baebb7dd-fd6f-4198-8d61-3257a95593e6",
@@ -13400,7 +12868,7 @@
       }
     ]
   },
-  "group_854": {
+  "group_823": {
     "-1": [
       {
         "product_id": "40801d76-5115-4f53-82d6-88fe6af4d39b",
@@ -13414,7 +12882,7 @@
       }
     ]
   },
-  "group_855": {
+  "group_824": {
     "-1": [
       {
         "product_id": "7807f969-8354-4f90-bc23-096c832a38ca",
@@ -13428,7 +12896,7 @@
       }
     ]
   },
-  "group_856": {
+  "group_825": {
     "-1": [
       {
         "product_id": "035b2a1d-eb8b-46f1-81a7-8ee8f27340ba",
@@ -13447,7 +12915,7 @@
       }
     ]
   },
-  "group_857": {
+  "group_826": {
     "-1": [
       {
         "product_id": "c370d3bc-480e-42e9-a2d5-6f3365d37ccc",
@@ -13461,7 +12929,7 @@
       }
     ]
   },
-  "group_858": {
+  "group_827": {
     "-1": [
       {
         "product_id": "d830ff86-4f6f-4bf1-a7a0-483edeff2fd8",
@@ -13475,7 +12943,7 @@
       }
     ]
   },
-  "group_859": {
+  "group_828": {
     "-1": [
       {
         "product_id": "5fd400a6-ec0b-471a-bb9e-1d711c7c2832",
@@ -13489,7 +12957,7 @@
       }
     ]
   },
-  "group_860": {
+  "group_829": {
     "-1": [
       {
         "product_id": "a2bd4319-bbc1-4f08-9302-f40bb1840e95",
@@ -13503,7 +12971,7 @@
       }
     ]
   },
-  "group_861": {
+  "group_830": {
     "-1": [
       {
         "product_id": "d5ac9d1d-eb49-48b4-a65e-9d275d580774",
@@ -13517,26 +12985,7 @@
       }
     ]
   },
-  "group_862": {
-    "-1": [
-      {
-        "product_id": "9cd31a03-4252-46bb-8458-0fa7a8417501",
-        "name": "Women's hovr turbulence 2",
-        "image": "https://privesports.com.cy/product_catalog/groups/190328/3026525-101-white.jpg"
-      },
-      {
-        "product_id": "24089988-c970-480f-9c92-a3ade2eca44a",
-        "name": "Women's hovr turbulence 2",
-        "image": "https://privesports.com.cy/product_catalog/groups/190328/3026525-101-white.jpg"
-      },
-      {
-        "product_id": "7883dc74-8880-49c3-bfa9-42443e83b255",
-        "name": "Women's hovr turbulence 2",
-        "image": "https://privesports.com.cy/product_catalog/groups/190328/3026525-101-white.jpg"
-      }
-    ]
-  },
-  "group_863": {
+  "group_831": {
     "-1": [
       {
         "product_id": "bad74ebc-8a0e-4784-a5a7-0eec83c43118",
@@ -13555,7 +13004,7 @@
       }
     ]
   },
-  "group_864": {
+  "group_832": {
     "-1": [
       {
         "product_id": "c5dccc05-cf19-4d3c-b581-fbc76b7db723",
@@ -13569,7 +13018,7 @@
       }
     ]
   },
-  "group_865": {
+  "group_833": {
     "-1": [
       {
         "product_id": "6246e115-d4de-4bae-bbf3-f1973e7fe446",
@@ -13583,7 +13032,7 @@
       }
     ]
   },
-  "group_866": {
+  "group_834": {
     "-1": [
       {
         "product_id": "88a3afb1-361b-4b7f-b2d5-4b067caf26d7",
@@ -13607,7 +13056,7 @@
       }
     ]
   },
-  "group_867": {
+  "group_835": {
     "-1": [
       {
         "product_id": "cb420a49-fadd-4155-89ad-f08bed4bca55",
@@ -13626,7 +13075,7 @@
       }
     ]
   },
-  "group_868": {
+  "group_836": {
     "-1": [
       {
         "product_id": "f493f756-734b-4e0f-ac17-875bce2e98b5",
@@ -13645,7 +13094,7 @@
       }
     ]
   },
-  "group_869": {
+  "group_837": {
     "-1": [
       {
         "product_id": "2fde22e9-57a3-4cc1-b6ea-6e3523d324dd",
@@ -13659,7 +13108,7 @@
       }
     ]
   },
-  "group_870": {
+  "group_838": {
     "-1": [
       {
         "product_id": "345d2c79-1ede-41e7-b321-8c9de4d362dd",
@@ -13673,7 +13122,7 @@
       }
     ]
   },
-  "group_871": {
+  "group_839": {
     "-1": [
       {
         "product_id": "c0dac40b-5a42-4db5-9185-009c9d4f5cc7",
@@ -13687,7 +13136,7 @@
       }
     ]
   },
-  "group_872": {
+  "group_840": {
     "-1": [
       {
         "product_id": "8a3d5ce0-e71c-4f50-bffb-b6394f6765f1",
@@ -13711,7 +13160,7 @@
       }
     ]
   },
-  "group_873": {
+  "group_841": {
     "-1": [
       {
         "product_id": "6c3152fe-fdbb-41f0-af53-ce808d82d3ff",
@@ -13725,7 +13174,7 @@
       }
     ]
   },
-  "group_874": {
+  "group_842": {
     "-1": [
       {
         "product_id": "75699d04-22e2-47fb-9839-440357611017",
@@ -13739,7 +13188,7 @@
       }
     ]
   },
-  "group_875": {
+  "group_843": {
     "-1": [
       {
         "product_id": "9324d0a4-7106-48bd-95c8-d8c6ba396014",
@@ -13753,7 +13202,7 @@
       }
     ]
   },
-  "group_876": {
+  "group_844": {
     "-1": [
       {
         "product_id": "7b5d3a03-8d3a-4feb-8415-1467f026dc28",
@@ -13767,7 +13216,7 @@
       }
     ]
   },
-  "group_877": {
+  "group_845": {
     "-1": [
       {
         "product_id": "b5227139-fc4e-482d-a5c5-220031da47e0",
@@ -13781,7 +13230,7 @@
       }
     ]
   },
-  "group_878": {
+  "group_846": {
     "-1": [
       {
         "product_id": "eaa518d5-401b-43d3-a2b2-122f359e7f2e",
@@ -13795,7 +13244,7 @@
       }
     ]
   },
-  "group_879": {
+  "group_847": {
     "-1": [
       {
         "product_id": "63d4f893-49fe-485f-94d1-78318223a3e3",
@@ -13809,7 +13258,7 @@
       }
     ]
   },
-  "group_880": {
+  "group_848": {
     "-1": [
       {
         "product_id": "8651aa29-4be9-45bd-9010-ec64ed6639ee",
@@ -13823,7 +13272,7 @@
       }
     ]
   },
-  "group_881": {
+  "group_849": {
     "-1": [
       {
         "product_id": "a16ff886-990f-4f58-b5ae-496b2010c235",
@@ -13837,7 +13286,7 @@
       }
     ]
   },
-  "group_882": {
+  "group_850": {
     "-1": [
       {
         "product_id": "a6f03f5c-1b9a-4247-947e-a0e417e9e986",
@@ -13856,7 +13305,7 @@
       }
     ]
   },
-  "group_883": {
+  "group_851": {
     "-1": [
       {
         "product_id": "211c4e57-ad8a-4135-a644-aab13cbbaf40",
@@ -13870,7 +13319,7 @@
       }
     ]
   },
-  "group_884": {
+  "group_852": {
     "-1": [
       {
         "product_id": "e73cba85-36b8-47c7-ad78-301d2ec0bf70",
@@ -13884,7 +13333,7 @@
       }
     ]
   },
-  "group_885": {
+  "group_853": {
     "-1": [
       {
         "product_id": "eb92afb7-eaba-417e-af54-8df4a8ae4e10",
@@ -13913,7 +13362,7 @@
       }
     ]
   },
-  "group_886": {
+  "group_854": {
     "-1": [
       {
         "product_id": "1ec063cf-2c7b-41c8-9cd2-81ee8679b7ce",
@@ -13927,7 +13376,7 @@
       }
     ]
   },
-  "group_887": {
+  "group_855": {
     "-1": [
       {
         "product_id": "da18b7bb-ef46-4e3a-8feb-9d9830fee9a1",
@@ -13941,7 +13390,7 @@
       }
     ]
   },
-  "group_888": {
+  "group_856": {
     "-1": [
       {
         "product_id": "79d03a65-1348-4a8d-ab89-c2e18a9aac08",
@@ -13955,7 +13404,7 @@
       }
     ]
   },
-  "group_889": {
+  "group_857": {
     "-1": [
       {
         "product_id": "b181fd14-92ab-430a-a2a6-d77e89245662",
@@ -13974,7 +13423,7 @@
       }
     ]
   },
-  "group_890": {
+  "group_858": {
     "-1": [
       {
         "product_id": "8c87f7ce-8e5a-4541-a784-ca5577c7d99b",
@@ -13988,7 +13437,7 @@
       }
     ]
   },
-  "group_891": {
+  "group_859": {
     "-1": [
       {
         "product_id": "7bf0fc1c-f487-4d6e-8122-4dcfc60b0317",
@@ -14002,7 +13451,7 @@
       }
     ]
   },
-  "group_892": {
+  "group_860": {
     "-1": [
       {
         "product_id": "846521c4-c01a-4ccd-865a-0863000d9da1",
@@ -14016,7 +13465,7 @@
       }
     ]
   },
-  "group_893": {
+  "group_861": {
     "-1": [
       {
         "product_id": "3a5b485a-294a-44d6-a516-f42a9762098a",
@@ -14030,7 +13479,7 @@
       }
     ]
   },
-  "group_894": {
+  "group_862": {
     "-1": [
       {
         "product_id": "50049a5a-c3f8-44f6-a2a3-39e4db1f4f86",
@@ -14044,7 +13493,7 @@
       }
     ]
   },
-  "group_895": {
+  "group_863": {
     "-1": [
       {
         "product_id": "e64dd088-edcd-48b1-9612-c4725b01a1b5",
@@ -14058,7 +13507,7 @@
       }
     ]
   },
-  "group_896": {
+  "group_864": {
     "-1": [
       {
         "product_id": "33b625ca-ace4-42fd-b8ca-c083c49b91ab",
@@ -14072,7 +13521,7 @@
       }
     ]
   },
-  "group_897": {
+  "group_865": {
     "-1": [
       {
         "product_id": "123b1915-209b-4ed9-8c26-15532997db35",
@@ -14086,7 +13535,7 @@
       }
     ]
   },
-  "group_898": {
+  "group_866": {
     "-1": [
       {
         "product_id": "b09ed67b-3606-4487-998d-de4c15486b2a",
@@ -14100,7 +13549,7 @@
       }
     ]
   },
-  "group_899": {
+  "group_867": {
     "-1": [
       {
         "product_id": "b49b8b16-ae46-431f-b28f-76089b97a951",
@@ -14114,7 +13563,7 @@
       }
     ]
   },
-  "group_900": {
+  "group_868": {
     "-1": [
       {
         "product_id": "afc3b571-6704-485a-aa8f-c50f7bb90957",
@@ -14128,7 +13577,7 @@
       }
     ]
   },
-  "group_901": {
+  "group_869": {
     "-1": [
       {
         "product_id": "d06e94eb-f563-46f1-8d6f-4adfd41b4646",
@@ -14142,7 +13591,7 @@
       }
     ]
   },
-  "group_902": {
+  "group_870": {
     "-1": [
       {
         "product_id": "680a49d0-870e-4a0b-9a92-10fc46b1a413",
@@ -14156,7 +13605,7 @@
       }
     ]
   },
-  "group_903": {
+  "group_871": {
     "-1": [
       {
         "product_id": "48dc9369-b5ab-4929-938d-43a2d02091d7",
@@ -14170,7 +13619,7 @@
       }
     ]
   },
-  "group_904": {
+  "group_872": {
     "-1": [
       {
         "product_id": "07c56195-c7bf-4033-ae7a-4c3ff804e661",
@@ -14184,7 +13633,7 @@
       }
     ]
   },
-  "group_905": {
+  "group_873": {
     "-1": [
       {
         "product_id": "177b7e0e-96e0-4b23-b3a9-e5b3dfe27550",
@@ -14198,7 +13647,7 @@
       }
     ]
   },
-  "group_906": {
+  "group_874": {
     "-1": [
       {
         "product_id": "7dfb4ef2-59b3-4d1b-a423-6ddd06c86249",
@@ -14212,7 +13661,7 @@
       }
     ]
   },
-  "group_907": {
+  "group_875": {
     "-1": [
       {
         "product_id": "529f29e1-9d69-4530-9df4-d9f89bc35afc",
@@ -14226,7 +13675,7 @@
       }
     ]
   },
-  "group_908": {
+  "group_876": {
     "-1": [
       {
         "product_id": "50dc37ab-58e5-42f6-aded-336b634b38b2",
@@ -14240,7 +13689,7 @@
       }
     ]
   },
-  "group_909": {
+  "group_877": {
     "-1": [
       {
         "product_id": "f1c7ba1d-23ec-414d-9594-6f54a3ae0129",
@@ -14254,7 +13703,7 @@
       }
     ]
   },
-  "group_910": {
+  "group_878": {
     "-1": [
       {
         "product_id": "6dec701a-8c1f-4621-91e0-23619bf9b996",
@@ -14273,35 +13722,7 @@
       }
     ]
   },
-  "group_911": {
-    "-1": [
-      {
-        "product_id": "9622be2c-c98b-4aa6-9250-e6ecd3e004bb",
-        "name": "Chuck taylor all star studded",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/172130/a06787c.jpg"
-      },
-      {
-        "product_id": "91eeb7b6-6ace-4bf0-b0eb-746022c69f8b",
-        "name": "Chuck taylor all star studded",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/172130/a06787c.jpg"
-      }
-    ]
-  },
-  "group_912": {
-    "-1": [
-      {
-        "product_id": "497a1fb8-7069-4a47-b7b4-72a3bb79113f",
-        "name": "Memory sunstone 2",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/205919/5yf23005-195.jpg"
-      },
-      {
-        "product_id": "d41ec517-1d5a-4a6c-a165-4dcdeb7e2913",
-        "name": "Memory sunstone 2",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/205919/5yf23005-195.jpg"
-      }
-    ]
-  },
-  "group_913": {
+  "group_879": {
     "-1": [
       {
         "product_id": "f4947b5a-53a2-4fe8-91ec-502b66f383e3",
@@ -14315,7 +13736,7 @@
       }
     ]
   },
-  "group_914": {
+  "group_880": {
     "-1": [
       {
         "product_id": "8ab44f26-6d58-4419-97a4-0dcf483dd0b0",
@@ -14329,7 +13750,7 @@
       }
     ]
   },
-  "group_915": {
+  "group_881": {
     "-1": [
       {
         "product_id": "9273c156-c1a1-474c-bcbe-cefc0a3b3b1a",
@@ -14343,7 +13764,7 @@
       }
     ]
   },
-  "group_916": {
+  "group_882": {
     "-1": [
       {
         "product_id": "42c6008a-ab64-49a4-8bda-b1b7b4820a8f",
@@ -14357,7 +13778,7 @@
       }
     ]
   },
-  "group_917": {
+  "group_883": {
     "-1": [
       {
         "product_id": "ae6e0646-48c9-41e9-b447-4fcefb572f99",
@@ -14371,7 +13792,7 @@
       }
     ]
   },
-  "group_918": {
+  "group_884": {
     "-1": [
       {
         "product_id": "92fb1213-0977-4571-8c3c-b2a0062c3d7c",
@@ -14385,7 +13806,7 @@
       }
     ]
   },
-  "group_919": {
+  "group_885": {
     "-1": [
       {
         "product_id": "a90e3e89-1054-4fda-b5ae-9ac2e405100f",
@@ -14399,7 +13820,7 @@
       }
     ]
   },
-  "group_920": {
+  "group_886": {
     "-1": [
       {
         "product_id": "c5a3b2f9-ce7f-498b-afe8-adcffb599df9",
@@ -14413,7 +13834,7 @@
       }
     ]
   },
-  "group_921": {
+  "group_887": {
     "-1": [
       {
         "product_id": "d2480fb1-7620-4b3f-9cca-93afb24d786c",
@@ -14427,7 +13848,7 @@
       }
     ]
   },
-  "group_922": {
+  "group_888": {
     "-1": [
       {
         "product_id": "83d79b68-18f8-4cee-b26c-8805d8d81f19",
@@ -14441,7 +13862,7 @@
       }
     ]
   },
-  "group_923": {
+  "group_889": {
     "-1": [
       {
         "product_id": "03e85761-13ca-4906-b2ea-a2127b3f6885",
@@ -14455,7 +13876,7 @@
       }
     ]
   },
-  "group_924": {
+  "group_890": {
     "-1": [
       {
         "product_id": "688d0fe0-bdf7-43a1-93ae-156961c8c05d",
@@ -14469,21 +13890,7 @@
       }
     ]
   },
-  "group_925": {
-    "-1": [
-      {
-        "product_id": "0752f8a1-dc09-469b-b518-039e32070075",
-        "name": "New balance 550 lifestyle sneakers",
-        "image": "https://www.sneakershero.com/product_catalog/groups/181120/bb550-vgb.jpg"
-      },
-      {
-        "product_id": "fe76d992-fd74-4c01-a007-48d901dba855",
-        "name": "New balance 550 lifestyle sneakers",
-        "image": "https://www.sneakershero.com/product_catalog/groups/181120/bb550-vgb.jpg"
-      }
-    ]
-  },
-  "group_926": {
+  "group_891": {
     "-1": [
       {
         "product_id": "ad1df327-1065-49ef-b422-b9e5d8539b68",
@@ -14497,7 +13904,7 @@
       }
     ]
   },
-  "group_927": {
+  "group_892": {
     "-1": [
       {
         "product_id": "4af75c74-980c-4516-8819-a7b1709aee45",
@@ -14511,7 +13918,7 @@
       }
     ]
   },
-  "group_928": {
+  "group_893": {
     "-1": [
       {
         "product_id": "19c2b8b5-2ab2-4e7c-959e-1cb416727d52",
@@ -14525,7 +13932,7 @@
       }
     ]
   },
-  "group_929": {
+  "group_894": {
     "-1": [
       {
         "product_id": "ccdb5ba5-b66f-4e31-9adc-e99fcba27a31",
@@ -14539,7 +13946,7 @@
       }
     ]
   },
-  "group_930": {
+  "group_895": {
     "-1": [
       {
         "product_id": "eb49507e-6044-44a2-9a98-89ec911f0ffc",
@@ -14558,7 +13965,7 @@
       }
     ]
   },
-  "group_931": {
+  "group_896": {
     "-1": [
       {
         "product_id": "08ae53d9-84d5-42e2-ab65-0101c96080ff",
@@ -14572,7 +13979,7 @@
       }
     ]
   },
-  "group_932": {
+  "group_897": {
     "-1": [
       {
         "product_id": "0c23b410-3112-4d98-b39e-ce6de801c2ee",
@@ -14586,7 +13993,7 @@
       }
     ]
   },
-  "group_933": {
+  "group_898": {
     "-1": [
       {
         "product_id": "5b61293e-1c25-4cdb-857f-78acadbd9d88",
@@ -14600,7 +14007,7 @@
       }
     ]
   },
-  "group_934": {
+  "group_899": {
     "-1": [
       {
         "product_id": "800b7c51-a72a-4445-b96c-d7de5bbd2124",
@@ -14614,21 +14021,7 @@
       }
     ]
   },
-  "group_935": {
-    "-1": [
-      {
-        "product_id": "5f3b6431-310b-4dd1-bfac-782fd1ecfd2e",
-        "name": "9060 lifestyle sneakers",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/172229/u9060-vnb.jpg"
-      },
-      {
-        "product_id": "04ae488a-88c5-4255-84af-ea43f23a092c",
-        "name": "9060 lifestyle sneakers",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/172229/u9060-vnb.jpg"
-      }
-    ]
-  },
-  "group_936": {
+  "group_900": {
     "-1": [
       {
         "product_id": "c7b5d09d-f10b-42ca-9e4d-6349685a1bd3",
@@ -14642,7 +14035,7 @@
       }
     ]
   },
-  "group_937": {
+  "group_901": {
     "-1": [
       {
         "product_id": "14b08a16-5d06-479e-afb2-49aed8e7460a",
@@ -14661,7 +14054,7 @@
       }
     ]
   },
-  "group_938": {
+  "group_902": {
     "-1": [
       {
         "product_id": "a857b3a0-f1d9-451f-9ae8-27267f6ab55a",
@@ -14680,7 +14073,7 @@
       }
     ]
   },
-  "group_939": {
+  "group_903": {
     "-1": [
       {
         "product_id": "31c1bf4b-9964-4c03-a674-dff3d1944e94",
@@ -14694,7 +14087,7 @@
       }
     ]
   },
-  "group_940": {
+  "group_904": {
     "-1": [
       {
         "product_id": "1672be4e-f821-4f46-bdb8-0d97bff4b2f0",
@@ -14708,21 +14101,7 @@
       }
     ]
   },
-  "group_941": {
-    "-1": [
-      {
-        "product_id": "6f80417f-4819-4407-be11-ed8f18949315",
-        "name": "Casim women sneakers",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/180299/ffw0280-13308.jpg"
-      },
-      {
-        "product_id": "48d43cb7-2925-445a-a922-f334f21e05b0",
-        "name": "Casim women sneakers",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/180299/ffw0280-13308.jpg"
-      }
-    ]
-  },
-  "group_942": {
+  "group_905": {
     "-1": [
       {
         "product_id": "335d7dae-8a65-4ddd-b7fb-a00745cd85cf",
@@ -14736,7 +14115,7 @@
       }
     ]
   },
-  "group_943": {
+  "group_906": {
     "-1": [
       {
         "product_id": "ca80f4c8-2fcf-42d5-bdd4-e5088b07c988",
@@ -14755,7 +14134,7 @@
       }
     ]
   },
-  "group_944": {
+  "group_907": {
     "-1": [
       {
         "product_id": "562ef43a-9eb3-4c23-b679-da0fd7afea79",
@@ -14769,7 +14148,7 @@
       }
     ]
   },
-  "group_945": {
+  "group_908": {
     "-1": [
       {
         "product_id": "c4975920-b461-49c7-8483-6545cd3e1168",
@@ -14783,7 +14162,7 @@
       }
     ]
   },
-  "group_946": {
+  "group_909": {
     "-1": [
       {
         "product_id": "2ac20822-2ff1-4a1b-a470-c4cb0511893f",
@@ -14797,7 +14176,7 @@
       }
     ]
   },
-  "group_947": {
+  "group_910": {
     "-1": [
       {
         "product_id": "feba2b15-d7d2-4d55-8812-061f64494708",
@@ -14811,7 +14190,7 @@
       }
     ]
   },
-  "group_948": {
+  "group_911": {
     "-1": [
       {
         "product_id": "d2f3aed9-9724-45ad-b2de-44d4d8ed6a7b",
@@ -14825,7 +14204,7 @@
       }
     ]
   },
-  "group_949": {
+  "group_912": {
     "-1": [
       {
         "product_id": "10718c5e-800b-4f41-ade1-acd063530d50",
@@ -14839,7 +14218,7 @@
       }
     ]
   },
-  "group_950": {
+  "group_913": {
     "-1": [
       {
         "product_id": "4648cdb2-ebbc-4880-8589-9a134b867f27",
@@ -14853,7 +14232,7 @@
       }
     ]
   },
-  "group_951": {
+  "group_914": {
     "-1": [
       {
         "product_id": "3fcb35d8-30bb-480b-bef5-025b5637ad91",
@@ -14867,7 +14246,7 @@
       }
     ]
   },
-  "group_952": {
+  "group_915": {
     "-1": [
       {
         "product_id": "56857a76-2671-4dd5-b65a-24f3f6ee0cc8",
@@ -14881,7 +14260,7 @@
       }
     ]
   },
-  "group_953": {
+  "group_916": {
     "-1": [
       {
         "product_id": "79ffa7c9-ad26-407a-906e-5e52c235ce44",
@@ -14895,7 +14274,7 @@
       }
     ]
   },
-  "group_954": {
+  "group_917": {
     "-1": [
       {
         "product_id": "b0f3c44e-e51e-47ec-a18f-b54829d79d83",
@@ -14909,7 +14288,7 @@
       }
     ]
   },
-  "group_955": {
+  "group_918": {
     "-1": [
       {
         "product_id": "0feb6bb5-b119-4bb4-9b78-edb14ddb7e87",
@@ -14923,7 +14302,7 @@
       }
     ]
   },
-  "group_956": {
+  "group_919": {
     "-1": [
       {
         "product_id": "e22055bb-ecac-4d2a-9c8f-65f22ba0120f",
@@ -14934,15 +14313,10 @@
         "product_id": "e0e794d4-d599-40e1-aaf3-1d6253b15ebc",
         "name": "Cilia space metallics sneakers",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/154029/390986-02.jpg"
-      },
-      {
-        "product_id": "f871168f-722d-42ee-a881-d3e7f5d79ac4",
-        "name": "Cilia space metallics sneakers",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/154029/390986-02.jpg"
       }
     ]
   },
-  "group_957": {
+  "group_920": {
     "-1": [
       {
         "product_id": "f2e600aa-6ed0-4453-b211-895390f83a4c",
@@ -14956,7 +14330,7 @@
       }
     ]
   },
-  "group_958": {
+  "group_921": {
     "-1": [
       {
         "product_id": "f05f7d25-f2fd-4b02-bdf5-b17171ac3cc6",
@@ -14970,7 +14344,7 @@
       }
     ]
   },
-  "group_959": {
+  "group_922": {
     "-1": [
       {
         "product_id": "37f46699-ae83-4f5c-baa5-f0e54bb8fb27",
@@ -14984,7 +14358,7 @@
       }
     ]
   },
-  "group_960": {
+  "group_923": {
     "-1": [
       {
         "product_id": "6a1a4742-e803-4995-ba77-cf5a766ab321",
@@ -14998,7 +14372,7 @@
       }
     ]
   },
-  "group_961": {
+  "group_924": {
     "-1": [
       {
         "product_id": "6156c400-f61c-4f91-a5d1-2fd3b86cb7ea",
@@ -15012,7 +14386,7 @@
       }
     ]
   },
-  "group_962": {
+  "group_925": {
     "-1": [
       {
         "product_id": "4d5c2c80-5f11-4a35-a287-3703c4f5ab8a",
@@ -15026,7 +14400,7 @@
       }
     ]
   },
-  "group_963": {
+  "group_926": {
     "-1": [
       {
         "product_id": "1942866e-d4c3-4214-8370-ccbd3865aeb2",
@@ -15045,7 +14419,7 @@
       }
     ]
   },
-  "group_964": {
+  "group_927": {
     "-1": [
       {
         "product_id": "6ec54061-f8e4-4e07-8214-34937040f6e9",
@@ -15059,7 +14433,7 @@
       }
     ]
   },
-  "group_965": {
+  "group_928": {
     "-1": [
       {
         "product_id": "d9918ca8-a84e-4834-a2fb-4cf91a88ab14",
@@ -15073,7 +14447,7 @@
       }
     ]
   },
-  "group_966": {
+  "group_929": {
     "-1": [
       {
         "product_id": "7a6db8e7-80f2-4fa2-90c4-142f84663ba0",
@@ -15092,7 +14466,7 @@
       }
     ]
   },
-  "group_967": {
+  "group_930": {
     "-1": [
       {
         "product_id": "6f801cab-d7e4-40e5-b45c-6ecc4aea6d69",
@@ -15111,7 +14485,7 @@
       }
     ]
   },
-  "group_968": {
+  "group_931": {
     "-1": [
       {
         "product_id": "501d70fa-c5dd-4fd5-a4ad-d36c3d169a00",
@@ -15125,7 +14499,7 @@
       }
     ]
   },
-  "group_969": {
+  "group_932": {
     "-1": [
       {
         "product_id": "26b4290f-63e8-4596-ad64-f5a13e95ea0b",
@@ -15139,7 +14513,7 @@
       }
     ]
   },
-  "group_970": {
+  "group_933": {
     "-1": [
       {
         "product_id": "4bb1ca0e-e9ae-451c-9d24-69685c3ff2f8",
@@ -15158,7 +14532,7 @@
       }
     ]
   },
-  "group_971": {
+  "group_934": {
     "-1": [
       {
         "product_id": "7cab5bd0-384a-4ab5-91c5-89dbc20920a6",
@@ -15172,7 +14546,7 @@
       }
     ]
   },
-  "group_972": {
+  "group_935": {
     "-1": [
       {
         "product_id": "921e6ae1-5a81-4ed4-9cc6-38f8f20c7e3b",
@@ -15186,7 +14560,7 @@
       }
     ]
   },
-  "group_973": {
+  "group_936": {
     "-1": [
       {
         "product_id": "321dea85-9902-47d3-a3e7-2a357e668500",
@@ -15200,7 +14574,7 @@
       }
     ]
   },
-  "group_974": {
+  "group_937": {
     "-1": [
       {
         "product_id": "601a3bd6-d208-4573-a319-9b54aed242a5",
@@ -15219,7 +14593,7 @@
       }
     ]
   },
-  "group_975": {
+  "group_938": {
     "-1": [
       {
         "product_id": "ba4b0663-21e1-442c-a262-4b154b2c9a7f",
@@ -15233,7 +14607,7 @@
       }
     ]
   },
-  "group_976": {
+  "group_939": {
     "-1": [
       {
         "product_id": "00b7f779-95ae-447e-93f5-5ce5fbb54c4c",
@@ -15247,7 +14621,7 @@
       }
     ]
   },
-  "group_977": {
+  "group_940": {
     "-1": [
       {
         "product_id": "31b29e13-980f-4531-9ae8-ca064fb0820a",
@@ -15261,7 +14635,7 @@
       }
     ]
   },
-  "group_978": {
+  "group_941": {
     "-1": [
       {
         "product_id": "2da88de3-e3f6-4f50-8d07-890a89451319",
@@ -15280,7 +14654,7 @@
       }
     ]
   },
-  "group_979": {
+  "group_942": {
     "-1": [
       {
         "product_id": "9102144b-2432-4af8-9045-a13e3c9a6a78",
@@ -15294,7 +14668,7 @@
       }
     ]
   },
-  "group_980": {
+  "group_943": {
     "-1": [
       {
         "product_id": "ddd86b65-be5e-4586-af7c-aa9e61dea093",
@@ -15308,7 +14682,7 @@
       }
     ]
   },
-  "group_981": {
+  "group_944": {
     "-1": [
       {
         "product_id": "a42e8862-df7b-49da-9689-cf45bf593b68",
@@ -15322,7 +14696,7 @@
       }
     ]
   },
-  "group_982": {
+  "group_945": {
     "-1": [
       {
         "product_id": "aebe36f0-2579-4b3c-bd8d-26214cbfc641",
@@ -15336,7 +14710,7 @@
       }
     ]
   },
-  "group_983": {
+  "group_946": {
     "-1": [
       {
         "product_id": "781f9d15-f50a-4d1b-bee7-478d6e40fd08",
@@ -15350,7 +14724,7 @@
       }
     ]
   },
-  "group_984": {
+  "group_947": {
     "-1": [
       {
         "product_id": "520f3827-27ee-45ec-90fc-ccde6e9190ab",
@@ -15364,7 +14738,7 @@
       }
     ]
   },
-  "group_985": {
+  "group_948": {
     "-1": [
       {
         "product_id": "8a9935b8-ba94-476d-8d4f-0916c39e8f02",
@@ -15378,7 +14752,7 @@
       }
     ]
   },
-  "group_986": {
+  "group_949": {
     "-1": [
       {
         "product_id": "5e99886c-3309-468f-85ab-3a55fcae4d0f",
@@ -15392,7 +14766,7 @@
       }
     ]
   },
-  "group_987": {
+  "group_950": {
     "-1": [
       {
         "product_id": "12fee981-39dd-4301-8fdf-d1cacfc4fe1d",
@@ -15406,7 +14780,7 @@
       }
     ]
   },
-  "group_988": {
+  "group_951": {
     "-1": [
       {
         "product_id": "2c67b3eb-3915-4099-b1ff-4c3a1fba5be0",
@@ -15420,7 +14794,7 @@
       }
     ]
   },
-  "group_989": {
+  "group_952": {
     "-1": [
       {
         "product_id": "04efda6f-3c00-40fa-a06f-c1d85154e67c",
@@ -15434,7 +14808,7 @@
       }
     ]
   },
-  "group_990": {
+  "group_953": {
     "-1": [
       {
         "product_id": "9e038fea-9cbf-40b1-903d-f09e7efd3c38",
@@ -15453,7 +14827,7 @@
       }
     ]
   },
-  "group_991": {
+  "group_954": {
     "-1": [
       {
         "product_id": "c1bb3d90-3961-4f84-adf9-37a09df3bdf2",
@@ -15467,7 +14841,7 @@
       }
     ]
   },
-  "group_992": {
+  "group_955": {
     "-1": [
       {
         "product_id": "dd497d78-2b8b-4cd5-9df6-e3a1db5732af",
@@ -15481,7 +14855,7 @@
       }
     ]
   },
-  "group_993": {
+  "group_956": {
     "-1": [
       {
         "product_id": "7102780d-32e0-44f5-916a-01fa4dd73c1c",
@@ -15495,7 +14869,7 @@
       }
     ]
   },
-  "group_994": {
+  "group_957": {
     "-1": [
       {
         "product_id": "b97807fd-5afc-45c3-b114-616491e7569f",
@@ -15514,7 +14888,7 @@
       }
     ]
   },
-  "group_995": {
+  "group_958": {
     "-1": [
       {
         "product_id": "8d588c11-53d4-442c-ab5d-e29ac90b7b84",
@@ -15528,7 +14902,7 @@
       }
     ]
   },
-  "group_996": {
+  "group_959": {
     "-1": [
       {
         "product_id": "b980136f-7276-42e8-b063-d4f1cc27fd69",
@@ -15542,7 +14916,7 @@
       }
     ]
   },
-  "group_997": {
+  "group_960": {
     "-1": [
       {
         "product_id": "e0c6d350-f4ca-46d0-be2a-584ae3e6a88d",
@@ -15556,7 +14930,7 @@
       }
     ]
   },
-  "group_998": {
+  "group_961": {
     "-1": [
       {
         "product_id": "6ac82b71-8546-425f-ad38-0b501378736b",
@@ -15570,7 +14944,7 @@
       }
     ]
   },
-  "group_999": {
+  "group_962": {
     "-1": [
       {
         "product_id": "a0dee680-d0ff-48fb-8987-1fe08c94b0e7",
@@ -15584,7 +14958,7 @@
       }
     ]
   },
-  "group_1000": {
+  "group_963": {
     "-1": [
       {
         "product_id": "f5c8af5a-3021-49ce-bbd1-1e794f092e14",
@@ -15598,7 +14972,7 @@
       }
     ]
   },
-  "group_1001": {
+  "group_964": {
     "-1": [
       {
         "product_id": "4394deb0-7b63-4bd6-9691-8f851d5d8c4e",
@@ -15617,7 +14991,7 @@
       }
     ]
   },
-  "group_1002": {
+  "group_965": {
     "-1": [
       {
         "product_id": "a9c2e14e-0c09-4730-8318-c42bcc96969f",
@@ -15631,7 +15005,7 @@
       }
     ]
   },
-  "group_1003": {
+  "group_966": {
     "-1": [
       {
         "product_id": "f3cf35de-45b6-4c98-868f-fde57e3c08e9",
@@ -15645,7 +15019,7 @@
       }
     ]
   },
-  "group_1004": {
+  "group_967": {
     "-1": [
       {
         "product_id": "23932808-d9c3-4ef6-a356-9f5adeb28ca1",
@@ -15659,7 +15033,7 @@
       }
     ]
   },
-  "group_1005": {
+  "group_968": {
     "-1": [
       {
         "product_id": "90fe588b-b55c-409e-a488-5f8a244e038c",
@@ -15673,7 +15047,7 @@
       }
     ]
   },
-  "group_1006": {
+  "group_969": {
     "-1": [
       {
         "product_id": "f0d257bd-6c3a-437d-8a47-b2865d97571f",
