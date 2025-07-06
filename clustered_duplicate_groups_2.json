@@ -1177,19 +1177,23 @@
         "product_id": "f0892ac4-cc00-4353-875e-3fff752c0c54",
         "name": "Grand court base 2.",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/181275/id3023.jpg"
-      },
+      }
+    ],
+    "0": [
       {
         "product_id": "b0d9ed95-b8e7-41e9-b87f-4b4c1996535b",
         "name": "Grand court base 2.",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/181275/id3023.jpg"
       },
       {
-        "product_id": "5e9776f9-3aca-4b37-927d-faffefed9ed7",
+        "product_id": "8f2758ec-b06a-4aea-a2d4-04dcf58a751e",
         "name": "Grand court base 2.",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/181275/id3023.jpg"
-      },
+      }
+    ],
+    "1": [
       {
-        "product_id": "8f2758ec-b06a-4aea-a2d4-04dcf58a751e",
+        "product_id": "5e9776f9-3aca-4b37-927d-faffefed9ed7",
         "name": "Grand court base 2.",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/181275/id3023.jpg"
       },
@@ -3026,23 +3030,26 @@
     ]
   },
   "group_149": {
-    "0": [
+    "-1": [
       {
         "product_id": "8ecfb9d0-ecb5-47c7-9d82-60d0819354f6",
         "name": "Puremotion 2.0",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/176904/ig3869.jpg"
       },
       {
-        "product_id": "e9dfd48c-da9b-48a8-ba3e-61cca8255ae3",
-        "name": "Puremotion 2.0",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/152834/hq1722.jpg"
-      }
-    ],
-    "-1": [
-      {
         "product_id": "b43a7512-446a-4c0d-8ab3-13711eb41c0d",
         "name": "Puremotion 2.0",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/152834/hq1722.jpg"
+      },
+      {
+        "product_id": "e9dfd48c-da9b-48a8-ba3e-61cca8255ae3",
+        "name": "Puremotion 2.0",
+        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/152834/hq1722.jpg"
+      },
+      {
+        "product_id": "b77fcec0-cd3a-4d98-b0a6-19a9fa10c53b",
+        "name": "Puremotion 2.0",
+        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/176904/ig3869.jpg"
       },
       {
         "product_id": "bc1f5e48-7c46-4506-86ea-3a9d9fad203c",
@@ -3058,13 +3065,6 @@
         "product_id": "05d0e97d-a828-40a2-b1e8-b77f16a27d96",
         "name": "Puremotion 2.0",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/153333/hq1725.jpg"
-      }
-    ],
-    "1": [
-      {
-        "product_id": "b77fcec0-cd3a-4d98-b0a6-19a9fa10c53b",
-        "name": "Puremotion 2.0",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/176904/ig3869.jpg"
       },
       {
         "product_id": "bd32152e-a3e3-4329-997c-1e02f2da67e7",
@@ -3816,9 +3816,24 @@
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/173299/bd7633.jpg"
       },
       {
+        "product_id": "6632ad8d-550b-427d-8b47-9bcf2c00c264",
+        "name": "Handball spezial",
+        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/173299/bd7633.jpg"
+      },
+      {
+        "product_id": "bf580c22-5df3-43f8-930f-d82d29763d74",
+        "name": "Handball spezial",
+        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/183123/ig6192.jpg"
+      },
+      {
         "product_id": "dfea475d-b265-45f4-8a7a-88c08bf52792",
         "name": "Handball spezial",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/180524/if9014.jpg"
+      },
+      {
+        "product_id": "7b689da5-8f76-40a8-8413-36bd7eb74385",
+        "name": "Handball spezial",
+        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/173299/bd7633.jpg"
       },
       {
         "product_id": "cdc6a1de-979e-4d91-a36d-fa10e626c41b",
@@ -3829,35 +3844,16 @@
         "product_id": "7c77717d-a8ca-423e-a9a9-acdee2f0b9bc",
         "name": "Handball spezial",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/183123/ig6192.jpg"
-      }
-    ],
-    "0": [
-      {
-        "product_id": "6632ad8d-550b-427d-8b47-9bcf2c00c264",
-        "name": "Handball spezial",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/173299/bd7633.jpg"
-      },
-      {
-        "product_id": "7b689da5-8f76-40a8-8413-36bd7eb74385",
-        "name": "Handball spezial",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/173299/bd7633.jpg"
-      },
-      {
-        "product_id": "ca553169-e466-4284-881c-66e202378ad4",
-        "name": "Handball spezial",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/173712/fv1226.jpg"
-      }
-    ],
-    "1": [
-      {
-        "product_id": "bf580c22-5df3-43f8-930f-d82d29763d74",
-        "name": "Handball spezial",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/183123/ig6192.jpg"
       },
       {
         "product_id": "6ae63178-baea-4905-bd1b-07ea4307668f",
         "name": "Handball spezial",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/172632/fx5675.jpg"
+      },
+      {
+        "product_id": "ca553169-e466-4284-881c-66e202378ad4",
+        "name": "Handball spezial",
+        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/173712/fv1226.jpg"
       },
       {
         "product_id": "571787e4-0f73-4422-9829-ff42d50a1aef",
@@ -4769,26 +4765,23 @@
     ]
   },
   "group_224": {
-    "-1": [
+    "0": [
       {
         "product_id": "d75ddf93-edec-47d2-93f3-b2e5cb682fc2",
         "name": "Gazelle bold women",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/190422/if4498.jpg"
       },
       {
-        "product_id": "dde541c5-e08c-4295-9161-30eb90ae5e2e",
-        "name": "Gazelle bold women",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/168814/hq6912.jpg"
-      },
-      {
-        "product_id": "33808cbc-11e4-44d2-9ed9-c4995a5d6bd6",
-        "name": "Gazelle bold women",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/180515/ie0420.jpg"
-      },
-      {
         "product_id": "6b298de1-32de-4165-b846-b3f9973c6fdc",
         "name": "Gazelle bold women",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/180515/ie0420.jpg"
+      }
+    ],
+    "1": [
+      {
+        "product_id": "dde541c5-e08c-4295-9161-30eb90ae5e2e",
+        "name": "Gazelle bold women",
+        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/168814/hq6912.jpg"
       },
       {
         "product_id": "614014d7-1f98-44d7-874f-fcb4ff9f422d",
@@ -4796,14 +4789,41 @@
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/199931/ig4391.jpg"
       },
       {
-        "product_id": "6e66a661-9db3-422a-b3e4-9691f48ddd1a",
-        "name": "Gazelle bold women",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/184847/ie0422.jpg"
-      },
-      {
         "product_id": "f51b7f2d-c20d-444a-b39e-ca7215671284",
         "name": "Gazelle bold women",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/183126/ih7495.jpg"
+      },
+      {
+        "product_id": "3ddeecfb-59b2-437e-a780-c6c5dfbab0df",
+        "name": "Gazelle bold women",
+        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/171886/id7056.jpg"
+      },
+      {
+        "product_id": "80ac30b1-4713-402d-aae9-6455fd11f5fd",
+        "name": "Gazelle bold women",
+        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/198548/ig4389.jpg"
+      },
+      {
+        "product_id": "2c09c6b6-1822-4876-bd3e-eda0e4c2f66e",
+        "name": "Gazelle bold women",
+        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/199931/ig4391.jpg"
+      },
+      {
+        "product_id": "40a0e550-976c-4eeb-8eb4-8e40ce2af86a",
+        "name": "Gazelle bold women",
+        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/199931/ig4391.jpg"
+      }
+    ],
+    "-1": [
+      {
+        "product_id": "33808cbc-11e4-44d2-9ed9-c4995a5d6bd6",
+        "name": "Gazelle bold women",
+        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/180515/ie0420.jpg"
+      },
+      {
+        "product_id": "6e66a661-9db3-422a-b3e4-9691f48ddd1a",
+        "name": "Gazelle bold women",
+        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/184847/ie0422.jpg"
       },
       {
         "product_id": "5de7b990-e57d-4297-a6bd-4cd0ff575f06",
@@ -4816,19 +4836,9 @@
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/190429/ig4387.jpg"
       },
       {
-        "product_id": "3ddeecfb-59b2-437e-a780-c6c5dfbab0df",
-        "name": "Gazelle bold women",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/171886/id7056.jpg"
-      },
-      {
         "product_id": "31124c63-0e30-4fe9-adf2-c695f3008995",
         "name": "Gazelle bold women",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/190358/ig4367.jpg"
-      },
-      {
-        "product_id": "80ac30b1-4713-402d-aae9-6455fd11f5fd",
-        "name": "Gazelle bold women",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/198548/ig4389.jpg"
       },
       {
         "product_id": "b986f9fa-82dd-48af-ad01-f32823f07c9b",
@@ -4836,19 +4846,9 @@
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/207316/jq5127.jpg"
       },
       {
-        "product_id": "2c09c6b6-1822-4876-bd3e-eda0e4c2f66e",
-        "name": "Gazelle bold women",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/199931/ig4391.jpg"
-      },
-      {
         "product_id": "b84e3994-d58c-4233-b9f5-b8500fd7f19a",
         "name": "Gazelle bold women",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/172314/h06125.jpg"
-      },
-      {
-        "product_id": "40a0e550-976c-4eeb-8eb4-8e40ce2af86a",
-        "name": "Gazelle bold women",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/199931/ig4391.jpg"
       },
       {
         "product_id": "8e1eef4d-240e-4ce8-bc26-a6570fe8ece6",
@@ -6476,11 +6476,6 @@
         "image": "https://privesports.com.cy/product_catalog/groups/148343/a04548c-green.jpg"
       },
       {
-        "product_id": "82888bdb-8070-4cb9-bbf2-e2a82ba5346d",
-        "name": "Chuck taylor all star",
-        "image": "https://powersoft365customers.blob.core.windows.net/he132515a-d-e-natiotis-limited/Models/M9160C-001.jpg?updated=20211123133832"
-      },
-      {
         "product_id": "e11ef7e6-86a9-4007-acab-0252b53a6387",
         "name": "Chuck taylor all star",
         "image": "https://privesports.com.cy/product_catalog/groups/148343/a04548c-green.jpg"
@@ -6494,6 +6489,13 @@
         "product_id": "bcf995f3-a574-42bf-b164-da83054dc9d4",
         "name": "Chuck taylor all star",
         "image": "https://powersoft365customers.blob.core.windows.net/he132515a-d-e-natiotis-limited/Models/M9007C-PINK.jpg?updated=20240207113146"
+      }
+    ],
+    "1": [
+      {
+        "product_id": "82888bdb-8070-4cb9-bbf2-e2a82ba5346d",
+        "name": "Chuck taylor all star",
+        "image": "https://powersoft365customers.blob.core.windows.net/he132515a-d-e-natiotis-limited/Models/M9160C-001.jpg?updated=20211123133832"
       },
       {
         "product_id": "69ce3c81-7ca4-4a5b-b2d0-7527bee78e56",
@@ -6501,14 +6503,16 @@
         "image": "https://powersoft365customers.blob.core.windows.net/he132515a-d-e-natiotis-limited/Models/M9160C-001.jpg?updated=20211123133832"
       },
       {
-        "product_id": "50cccba5-7fa6-497a-b365-229e088cd3c8",
-        "name": "Chuck taylor all star",
-        "image": "https://privesports.com.cy/product_catalog/groups/148343/a04548c-green.jpg"
-      },
-      {
         "product_id": "d478f07c-1e30-465f-9397-9315200306d1",
         "name": "Chuck taylor all star",
         "image": "https://powersoft365customers.blob.core.windows.net/he132515a-d-e-natiotis-limited/Models/M9166C-001.jpg?updated=20211123120907"
+      }
+    ],
+    "0": [
+      {
+        "product_id": "50cccba5-7fa6-497a-b365-229e088cd3c8",
+        "name": "Chuck taylor all star",
+        "image": "https://privesports.com.cy/product_catalog/groups/148343/a04548c-green.jpg"
       },
       {
         "product_id": "9ac87f99-aded-4816-a021-baa961578dc5",
@@ -10266,26 +10270,6 @@
         "image": "https://cdn.shopify.com/s/files/1/0109/8016/3643/files/c64b89b85506bd8d43dd7dcfbd0296b1.jpg?v=1727233242"
       },
       {
-        "product_id": "9ca88bfa-7b39-4a87-9101-250b6ba2bda3",
-        "name": "New balance classics sneakers",
-        "image": "https://cdn.shopify.com/s/files/1/0109/8016/3643/files/008dc0ba00d785bda522c9a85a732339.jpg?v=1746167308"
-      },
-      {
-        "product_id": "afce1d4c-8649-4e52-8fe1-5797fe9e4f95",
-        "name": "New balance classics sneakers",
-        "image": "https://cdn.shopify.com/s/files/1/0109/8016/3643/files/c06453b662f9fdb508d7e05da18ba5ee.jpg?v=1714095566"
-      },
-      {
-        "product_id": "a358c282-d0b7-4eda-bb33-0afbe7e0e608",
-        "name": "New balance classics sneakers",
-        "image": "https://cdn.shopify.com/s/files/1/0109/8016/3643/files/a9163c5adcaaddc776f3cff31590399a.jpg?v=1731467160"
-      },
-      {
-        "product_id": "f3bf9199-f895-4242-a725-7999a054e16c",
-        "name": "New balance classics sneakers",
-        "image": "https://cdn.shopify.com/s/files/1/0109/8016/3643/files/b2eb78289e1bd3e185be51a303b8f81a.jpg?v=1731467256"
-      },
-      {
         "product_id": "bcf27f8e-5a04-408e-8078-5055cd446bbc",
         "name": "New balance classics sneakers",
         "image": "https://cdn.shopify.com/s/files/1/0109/8016/3643/files/68e7aed48f9587e34fdbbae5224d3e86.jpg?v=1714724727"
@@ -10299,6 +10283,30 @@
         "product_id": "49678ea1-0045-40d3-9ead-de8eb377aa8f",
         "name": "New balance classics sneakers",
         "image": "https://cdn.shopify.com/s/files/1/0109/8016/3643/products/4adfc0ef457e90101b409df023e86180.jpg?v=1696646861"
+      }
+    ],
+    "0": [
+      {
+        "product_id": "9ca88bfa-7b39-4a87-9101-250b6ba2bda3",
+        "name": "New balance classics sneakers",
+        "image": "https://cdn.shopify.com/s/files/1/0109/8016/3643/files/008dc0ba00d785bda522c9a85a732339.jpg?v=1746167308"
+      },
+      {
+        "product_id": "afce1d4c-8649-4e52-8fe1-5797fe9e4f95",
+        "name": "New balance classics sneakers",
+        "image": "https://cdn.shopify.com/s/files/1/0109/8016/3643/files/c06453b662f9fdb508d7e05da18ba5ee.jpg?v=1714095566"
+      }
+    ],
+    "1": [
+      {
+        "product_id": "a358c282-d0b7-4eda-bb33-0afbe7e0e608",
+        "name": "New balance classics sneakers",
+        "image": "https://cdn.shopify.com/s/files/1/0109/8016/3643/files/a9163c5adcaaddc776f3cff31590399a.jpg?v=1731467160"
+      },
+      {
+        "product_id": "f3bf9199-f895-4242-a725-7999a054e16c",
+        "name": "New balance classics sneakers",
+        "image": "https://cdn.shopify.com/s/files/1/0109/8016/3643/files/b2eb78289e1bd3e185be51a303b8f81a.jpg?v=1731467256"
       }
     ]
   },
@@ -10429,7 +10437,7 @@
     ]
   },
   "group_539": {
-    "-1": [
+    "0": [
       {
         "product_id": "a00c053f-175d-46d7-8c6a-4cd612a902c4",
         "name": "327 lifestyle sneakers",
@@ -10441,6 +10449,13 @@
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/153521/ms327-cgw.jpg"
       },
       {
+        "product_id": "909c846e-779d-4596-bd21-0b84369f52ef",
+        "name": "327 lifestyle sneakers",
+        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/153521/ms327-cgw.jpg"
+      }
+    ],
+    "1": [
+      {
         "product_id": "48f3799c-8936-40ab-a9c0-fe6d704dc617",
         "name": "327 lifestyle sneakers",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/193033/ws327-kf.jpg"
@@ -10451,16 +10466,6 @@
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/193513/ws327-kh.jpg"
       },
       {
-        "product_id": "909c846e-779d-4596-bd21-0b84369f52ef",
-        "name": "327 lifestyle sneakers",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/153521/ms327-cgw.jpg"
-      },
-      {
-        "product_id": "2a56befc-82fd-4816-8a39-866946ce5d98",
-        "name": "327 lifestyle sneakers",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/197073/ws327-pm.jpg"
-      },
-      {
         "product_id": "a3f117a2-df5e-4678-9d4d-e09a996575b9",
         "name": "327 lifestyle sneakers",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/193513/ws327-kh.jpg"
@@ -10469,6 +10474,13 @@
         "product_id": "97281cea-8358-4c34-a7fb-a6a5c22b771d",
         "name": "327 lifestyle sneakers",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/201889/ws327-mt.jpg"
+      }
+    ],
+    "-1": [
+      {
+        "product_id": "2a56befc-82fd-4816-8a39-866946ce5d98",
+        "name": "327 lifestyle sneakers",
+        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/197073/ws327-pm.jpg"
       }
     ]
   },
@@ -10714,7 +10726,7 @@
     ]
   },
   "group_549": {
-    "-1": [
+    "0": [
       {
         "product_id": "e06019e5-0220-4d4d-9833-5f142185d00c",
         "name": "550 lifestyle sneakers",
@@ -10724,11 +10736,6 @@
         "product_id": "9811936a-188e-401c-9305-a43f543af882",
         "name": "550 lifestyle sneakers",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/196221/bbw550-hj.jpg"
-      },
-      {
-        "product_id": "ebb02434-08ea-4789-9a5d-9193a2368126",
-        "name": "550 lifestyle sneakers",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/196223/bbw550-hl.jpg"
       },
       {
         "product_id": "7a6db8e7-80f2-4fa2-90c4-142f84663ba0",
@@ -10746,19 +10753,9 @@
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/199836/bb550-vra.jpg"
       },
       {
-        "product_id": "f493f756-734b-4e0f-ac17-875bce2e98b5",
-        "name": "550 lifestyle sneakers",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/182891/bbw550-bt.jpg"
-      },
-      {
         "product_id": "0874544b-ae77-45c6-9cfd-21351b89ecc7",
         "name": "550 lifestyle sneakers",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/136528/bb550-pb1.jpg"
-      },
-      {
-        "product_id": "dc942a1c-78a6-4edf-b8b9-27d5a8d23398",
-        "name": "550 lifestyle sneakers",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/196223/bbw550-hl.jpg"
       },
       {
         "product_id": "1cda63df-a35c-48bd-bfe9-a60f6efb13b6",
@@ -10766,24 +10763,43 @@
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/182891/bbw550-bt.jpg"
       },
       {
-        "product_id": "b369efd8-5800-413d-9b75-cc42037ab652",
-        "name": "550 lifestyle sneakers",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/194773/bbw550-ak.jpg"
-      },
-      {
         "product_id": "2eea6d30-ddec-4f01-a61f-155d249fb31e",
         "name": "550 lifestyle sneakers",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/182891/bbw550-bt.jpg"
       },
       {
-        "product_id": "5330502c-294d-435e-80d7-1a5f7fa8282f",
+        "product_id": "a278366b-6313-44e8-819f-0871e7a49c0f",
+        "name": "550 lifestyle sneakers",
+        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/136528/bb550-pb1.jpg"
+      }
+    ],
+    "1": [
+      {
+        "product_id": "ebb02434-08ea-4789-9a5d-9193a2368126",
         "name": "550 lifestyle sneakers",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/196223/bbw550-hl.jpg"
       },
       {
-        "product_id": "a278366b-6313-44e8-819f-0871e7a49c0f",
+        "product_id": "dc942a1c-78a6-4edf-b8b9-27d5a8d23398",
         "name": "550 lifestyle sneakers",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/136528/bb550-pb1.jpg"
+        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/196223/bbw550-hl.jpg"
+      },
+      {
+        "product_id": "5330502c-294d-435e-80d7-1a5f7fa8282f",
+        "name": "550 lifestyle sneakers",
+        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/196223/bbw550-hl.jpg"
+      }
+    ],
+    "-1": [
+      {
+        "product_id": "f493f756-734b-4e0f-ac17-875bce2e98b5",
+        "name": "550 lifestyle sneakers",
+        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/182891/bbw550-bt.jpg"
+      },
+      {
+        "product_id": "b369efd8-5800-413d-9b75-cc42037ab652",
+        "name": "550 lifestyle sneakers",
+        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/194773/bbw550-ak.jpg"
       }
     ]
   },
@@ -11665,14 +11681,9 @@
     ]
   },
   "group_593": {
-    "-1": [
+    "0": [
       {
         "product_id": "f86302ea-1d63-40bb-bb1f-d6212cc0abc0",
-        "name": "Air max dawn mens shoes",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/132871/dj3624-003.jpg"
-      },
-      {
-        "product_id": "ad35d94a-a7f8-42d4-b096-a82995d09ef1",
         "name": "Air max dawn mens shoes",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/132871/dj3624-003.jpg"
       },
@@ -11680,6 +11691,13 @@
         "product_id": "e3640c0e-8d39-4a33-a44a-3718e2bae14f",
         "name": "Air max dawn mens shoes",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/148693/dj3624-001.jpg"
+      }
+    ],
+    "1": [
+      {
+        "product_id": "ad35d94a-a7f8-42d4-b096-a82995d09ef1",
+        "name": "Air max dawn mens shoes",
+        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/132871/dj3624-003.jpg"
       },
       {
         "product_id": "59be0320-1393-49a3-b7f2-f165070a1e9d",
@@ -11803,19 +11821,12 @@
     ]
   },
   "group_600": {
-    "0": [
+    "-1": [
       {
         "product_id": "b49b8b16-ae46-431f-b28f-76089b97a951",
         "name": "Air max sc mens shoes",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/145227/cw4555-108.jpg"
       },
-      {
-        "product_id": "a9d88c0f-962a-46f2-aec6-7f6e2b1bb187",
-        "name": "Air max sc mens shoes",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/201039/cw4555-013.jpg"
-      }
-    ],
-    "1": [
       {
         "product_id": "80e58ae3-133a-4486-8e51-bfb5fd78ae7b",
         "name": "Air max sc mens shoes",
@@ -11827,9 +11838,24 @@
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/145226/cw4555-002.jpg"
       },
       {
+        "product_id": "a9d88c0f-962a-46f2-aec6-7f6e2b1bb187",
+        "name": "Air max sc mens shoes",
+        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/201039/cw4555-013.jpg"
+      },
+      {
         "product_id": "31856b84-6c7b-4f33-b678-269334aabce8",
         "name": "Air max sc mens shoes",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/176753/cw4555-107.jpg"
+      },
+      {
+        "product_id": "f948604a-ad8a-4d10-b7b3-a2141407b337",
+        "name": "Air max sc mens shoes",
+        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/145227/cw4555-108.jpg"
+      },
+      {
+        "product_id": "06ff9c58-39d4-41e0-b3af-d3a15ff4bcc7",
+        "name": "Air max sc mens shoes",
+        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/169537/fq8737-100.jpg"
       },
       {
         "product_id": "ef980eb5-74b3-4ee6-80a7-ba50558c7270",
@@ -11840,18 +11866,6 @@
         "product_id": "7bea992c-9840-4261-9ed5-4c99ce6c6c12",
         "name": "Air max sc mens shoes",
         "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/169502/cw4555-003.jpg"
-      }
-    ],
-    "-1": [
-      {
-        "product_id": "f948604a-ad8a-4d10-b7b3-a2141407b337",
-        "name": "Air max sc mens shoes",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/145227/cw4555-108.jpg"
-      },
-      {
-        "product_id": "06ff9c58-39d4-41e0-b3af-d3a15ff4bcc7",
-        "name": "Air max sc mens shoes",
-        "image": "https://administrator.athlokinisi.com.cy/product_catalog/groups/169537/fq8737-100.jpg"
       }
     ]
   },
@@ -12772,23 +12786,21 @@
     ]
   },
   "group_650": {
-    "0": [
+    "-1": [
       {
         "product_id": "d06e94eb-f563-46f1-8d6f-4adfd41b4646",
         "name": "Nike Air flight 89",
         "image": "https://www.sneakershero.com/product_catalog/groups/160415/fd9928-101.jpg"
       },
       {
-        "product_id": "919cee9a-6e3e-4e48-817e-3a813f2d66f9",
-        "name": "Nike Air flight 89",
-        "image": "https://www.sneakershero.com/product_catalog/groups/193964/fq8256-001.jpg"
-      }
-    ],
-    "1": [
-      {
         "product_id": "3b9e27d6-99e5-46ea-ae6b-76293a8c8e0c",
         "name": "Nike Air flight 89",
         "image": "https://www.sneakershero.com/product_catalog/groups/187244/hf9382-100.jpg"
+      },
+      {
+        "product_id": "919cee9a-6e3e-4e48-817e-3a813f2d66f9",
+        "name": "Nike Air flight 89",
+        "image": "https://www.sneakershero.com/product_catalog/groups/193964/fq8256-001.jpg"
       },
       {
         "product_id": "64c642a5-b321-415b-9b73-14f520c83710",
@@ -15660,31 +15672,22 @@
     ]
   },
   "group_809": {
-    "0": [
+    "-1": [
       {
         "product_id": "84a47c21-a688-43dc-9e69-af051e27425e",
         "name": "On running cloud 5",
         "image": "https://www.sneakershero.com/product_catalog/groups/192491/59.98902.jpg"
       },
       {
-        "product_id": "73d6b397-f5a7-430e-a251-006932b081df",
-        "name": "On running cloud 5",
-        "image": "https://www.sneakershero.com/product_catalog/groups/182281/59.98016.jpg"
-      }
-    ],
-    "-1": [
-      {
         "product_id": "2c123321-8a08-4910-b9b7-178ab270391f",
         "name": "On running cloud 5",
         "image": "https://www.sneakershero.com/product_catalog/groups/191267/59.97765.jpg"
       },
       {
-        "product_id": "d587bdc5-1a08-4ed0-a1a2-132224ee5c23",
+        "product_id": "73d6b397-f5a7-430e-a251-006932b081df",
         "name": "On running cloud 5",
-        "image": "https://www.sneakershero.com/product_catalog/groups/191267/59.97765.jpg"
-      }
-    ],
-    "1": [
+        "image": "https://www.sneakershero.com/product_catalog/groups/182281/59.98016.jpg"
+      },
       {
         "product_id": "d620cb7e-d871-40cf-8eed-4e5e45d37fe6",
         "name": "On running cloud 5",
@@ -15694,6 +15697,11 @@
         "product_id": "3361390c-cc6f-4385-b68f-98bcb27522c3",
         "name": "On running cloud 5",
         "image": "https://www.sneakershero.com/product_catalog/groups/176601/59.98904.jpg"
+      },
+      {
+        "product_id": "d587bdc5-1a08-4ed0-a1a2-132224ee5c23",
+        "name": "On running cloud 5",
+        "image": "https://www.sneakershero.com/product_catalog/groups/191267/59.97765.jpg"
       }
     ]
   },
@@ -17001,11 +17009,6 @@
       },
       {
         "product_id": "e6c6b630-af6a-4dd4-b059-3ac33a7bc8b1",
-        "name": "Puma women's x-ray 3 sd",
-        "image": "https://s3.gy.digital/famousports/uploads/asset/data/374703/399668-06_1.jpg"
-      },
-      {
-        "product_id": "ca6d0ec8-0509-4f17-b8bc-de21c90c5b8d",
         "name": "Puma women's x-ray 3 sd",
         "image": "https://s3.gy.digital/famousports/uploads/asset/data/374703/399668-06_1.jpg"
       }
@@ -19392,7 +19395,7 @@
     ]
   },
   "group_1036": {
-    "-1": [
+    "0": [
       {
         "product_id": "68dc76c1-15f0-4140-b4d3-b29d3727a009",
         "name": "Skechers 117513 women shoes",
@@ -19402,7 +19405,9 @@
         "product_id": "14af3bef-2a0e-45a3-aac1-0d75fccd04d2",
         "name": "Skechers 117513 women shoes",
         "image": "https://jinius-prod.mirakl.net/mmp/media/product-media/35543/117513OFF.jpg"
-      },
+      }
+    ],
+    "1": [
       {
         "product_id": "0fd49c73-4007-418b-b373-5bc0dfbd1164",
         "name": "Skechers 117513 women shoes",
@@ -19616,33 +19621,33 @@
         "image": "https://jinius-prod.mirakl.net/mmp/media/product-media/6254/NSK9.JPG"
       },
       {
-        "product_id": "db104244-afb2-4f9a-8cb2-4cf05342fa8b",
+        "product_id": "05933500-8afa-488f-b282-7c6b868b8147",
         "name": "Skechers women shoes",
-        "image": "https://jinius-prod.mirakl.net/mmp/media/product-media/6475/117385.jpg"
-      }
-    ],
-    "-1": [
-      {
-        "product_id": "2de3dd01-a642-4b31-a21d-2bd0c35241dc",
-        "name": "Skechers women shoes",
-        "image": "https://jinius-prod.mirakl.net/mmp/media/product-media/3042/GOWALK1.jpg"
+        "image": "https://jinius-prod.mirakl.net/mmp/media/product-media/3426/law2.jpg"
       },
       {
         "product_id": "aa25c03b-07d2-445d-8a1d-b6aa0ae0ab64",
         "name": "Skechers women shoes",
         "image": "https://jinius-prod.mirakl.net/mmp/media/product-media/5425/1250.webp"
-      },
+      }
+    ],
+    "-1": [
       {
-        "product_id": "b20b3383-aa49-46da-83e4-9428a6433b4f",
+        "product_id": "db104244-afb2-4f9a-8cb2-4cf05342fa8b",
         "name": "Skechers women shoes",
         "image": "https://jinius-prod.mirakl.net/mmp/media/product-media/6475/117385.jpg"
+      },
+      {
+        "product_id": "869ad05f-68e0-4f1d-8ad5-7d2da077d26b",
+        "name": "Skechers women shoes",
+        "image": "https://jinius-prod.mirakl.net/mmp/media/product-media/3340/law6.jpg"
       }
     ],
     "1": [
       {
-        "product_id": "05933500-8afa-488f-b282-7c6b868b8147",
+        "product_id": "2de3dd01-a642-4b31-a21d-2bd0c35241dc",
         "name": "Skechers women shoes",
-        "image": "https://jinius-prod.mirakl.net/mmp/media/product-media/3426/law2.jpg"
+        "image": "https://jinius-prod.mirakl.net/mmp/media/product-media/3042/GOWALK1.jpg"
       },
       {
         "product_id": "94d55958-b3a3-439d-b529-799261d4101a",
@@ -19650,9 +19655,9 @@
         "image": "https://jinius-prod.mirakl.net/mmp/media/product-media/3340/law6.jpg"
       },
       {
-        "product_id": "869ad05f-68e0-4f1d-8ad5-7d2da077d26b",
+        "product_id": "b20b3383-aa49-46da-83e4-9428a6433b4f",
         "name": "Skechers women shoes",
-        "image": "https://jinius-prod.mirakl.net/mmp/media/product-media/3340/law6.jpg"
+        "image": "https://jinius-prod.mirakl.net/mmp/media/product-media/6475/117385.jpg"
       }
     ]
   },
@@ -20044,20 +20049,6 @@
   "group_1075": {
     "-1": [
       {
-        "product_id": "811699a3-2e69-4474-8f79-b50658d9a41b",
-        "name": "Low cut lace-up sneaker",
-        "image": "https://privesports.com.cy/product_catalog/groups/142848/t3a9-33000-1492a177-khaki.jpg"
-      },
-      {
-        "product_id": "eb6ce7c5-f3d3-47be-842b-5911269c847f",
-        "name": "Low cut lace-up sneaker",
-        "image": "https://privesports.com.cy/product_catalog/groups/167796/t3x9-33360-1355x336-white.jpg"
-      }
-    ]
-  },
-  "group_1076": {
-    "-1": [
-      {
         "product_id": "57bb6d0e-115f-40bc-80d3-844e18ed3e47",
         "name": "Sneakers",
         "image": "https://privesports.com.cy/product_catalog/groups/184090/em0em01574-ybl-white.jpg"
@@ -20069,7 +20060,7 @@
       }
     ]
   },
-  "group_1077": {
+  "group_1076": {
     "-1": [
       {
         "product_id": "571299ae-b40d-4daa-aefa-86101ae1c4a8",
@@ -20083,7 +20074,7 @@
       }
     ]
   },
-  "group_1078": {
+  "group_1077": {
     "-1": [
       {
         "product_id": "f430380c-6500-4f97-81dd-e688d2d9f4c9",
@@ -20102,7 +20093,7 @@
       }
     ]
   },
-  "group_1079": {
+  "group_1078": {
     "-1": [
       {
         "product_id": "8a4a2eb0-62a9-47c4-88fb-0f12a5d1187f",
@@ -20116,7 +20107,7 @@
       }
     ]
   },
-  "group_1080": {
+  "group_1079": {
     "-1": [
       {
         "product_id": "e8d07f66-c357-4ed0-82f2-b390d49c7956",
@@ -20130,7 +20121,7 @@
       }
     ]
   },
-  "group_1081": {
+  "group_1080": {
     "-1": [
       {
         "product_id": "e5bb081b-6946-4450-b2ef-fb22ab79d26e",
@@ -20144,7 +20135,7 @@
       }
     ]
   },
-  "group_1082": {
+  "group_1081": {
     "-1": [
       {
         "product_id": "6e12a484-db55-470b-85c3-f96676d96d3d",
@@ -20158,7 +20149,7 @@
       }
     ]
   },
-  "group_1083": {
+  "group_1082": {
     "-1": [
       {
         "product_id": "9c9cbe54-375e-4c1f-9762-ccd90f6edae7",
@@ -20172,7 +20163,7 @@
       }
     ]
   },
-  "group_1084": {
+  "group_1083": {
     "-1": [
       {
         "product_id": "79c14a99-11ba-4ef2-8741-370d3615b4c0",
@@ -20186,7 +20177,7 @@
       }
     ]
   },
-  "group_1085": {
+  "group_1084": {
     "-1": [
       {
         "product_id": "1890b0b2-edd2-41b7-b099-f88a37b2b219",
@@ -20205,7 +20196,7 @@
       }
     ]
   },
-  "group_1086": {
+  "group_1085": {
     "-1": [
       {
         "product_id": "89eed5cb-d7db-4cc9-b234-33f9878f1784",
@@ -20213,24 +20204,20 @@
         "image": "https://eshop.hypercy.com/wp-content/uploads/2024/10/CODY001f-3.jpg"
       },
       {
-        "product_id": "978a60ab-d35d-442c-a282-3d064cef4447",
-        "name": "U.s. Polo assn. Cody shoes",
-        "image": "https://eshop.hypercy.com/wp-content/uploads/2024/10/CODY001f-1.jpg"
-      }
-    ],
-    "0": [
-      {
         "product_id": "f647b1f9-e4fe-4673-ba8d-40091274cd58",
         "name": "U.s. Polo assn. Cody shoes",
         "image": "https://eshop.hypercy.com/wp-content/uploads/2024/10/CODY001f-2.jpg"
       },
       {
+        "product_id": "978a60ab-d35d-442c-a282-3d064cef4447",
+        "name": "U.s. Polo assn. Cody shoes",
+        "image": "https://eshop.hypercy.com/wp-content/uploads/2024/10/CODY001f-1.jpg"
+      },
+      {
         "product_id": "4cffab86-9fe4-4ed0-a83c-311cceb4199b",
         "name": "U.s. Polo assn. Cody shoes",
         "image": "https://eshop.hypercy.com/wp-content/uploads/2024/06/cody003greenf.jpg"
-      }
-    ],
-    "1": [
+      },
       {
         "product_id": "fc5c12e3-60df-483c-b23a-b125b8b718c4",
         "name": "U.s. Polo assn. Cody shoes",
@@ -20253,7 +20240,7 @@
       }
     ]
   },
-  "group_1087": {
+  "group_1086": {
     "-1": [
       {
         "product_id": "94788d51-290c-4a8c-80c5-a39b06ffb462",
@@ -20272,7 +20259,7 @@
       }
     ]
   },
-  "group_1088": {
+  "group_1087": {
     "-1": [
       {
         "product_id": "baebb7dd-fd6f-4198-8d61-3257a95593e6",
@@ -20286,7 +20273,7 @@
       }
     ]
   },
-  "group_1089": {
+  "group_1088": {
     "-1": [
       {
         "product_id": "98efcc80-3e94-42e9-ae5a-98c2ba3cc274",
@@ -20300,7 +20287,7 @@
       }
     ]
   },
-  "group_1090": {
+  "group_1089": {
     "-1": [
       {
         "product_id": "b3d4ca99-2bbb-4232-bc1c-f87807fd02b6",
@@ -20314,7 +20301,7 @@
       }
     ]
   },
-  "group_1091": {
+  "group_1090": {
     "-1": [
       {
         "product_id": "40801d76-5115-4f53-82d6-88fe6af4d39b",
@@ -20328,7 +20315,7 @@
       }
     ]
   },
-  "group_1092": {
+  "group_1091": {
     "-1": [
       {
         "product_id": "9a51fca2-b7fa-4747-bfc7-d1fc71a85737",
@@ -20342,7 +20329,7 @@
       }
     ]
   },
-  "group_1093": {
+  "group_1092": {
     "-1": [
       {
         "product_id": "9102144b-2432-4af8-9045-a13e3c9a6a78",
@@ -20361,7 +20348,7 @@
       }
     ]
   },
-  "group_1094": {
+  "group_1093": {
     "-1": [
       {
         "product_id": "464af0b7-9e75-4880-9794-6931949b17bf",
@@ -20375,7 +20362,7 @@
       }
     ]
   },
-  "group_1095": {
+  "group_1094": {
     "-1": [
       {
         "product_id": "4782b288-24de-4ffa-b001-11dfe32b5cec",
@@ -20389,7 +20376,7 @@
       }
     ]
   },
-  "group_1096": {
+  "group_1095": {
     "-1": [
       {
         "product_id": "7807f969-8354-4f90-bc23-096c832a38ca",
@@ -20403,7 +20390,7 @@
       }
     ]
   },
-  "group_1097": {
+  "group_1096": {
     "-1": [
       {
         "product_id": "035b2a1d-eb8b-46f1-81a7-8ee8f27340ba",
@@ -20422,7 +20409,7 @@
       }
     ]
   },
-  "group_1098": {
+  "group_1097": {
     "-1": [
       {
         "product_id": "c370d3bc-480e-42e9-a2d5-6f3365d37ccc",
@@ -20446,7 +20433,7 @@
       }
     ]
   },
-  "group_1099": {
+  "group_1098": {
     "-1": [
       {
         "product_id": "87a79399-dc9f-4b64-ad7d-3a005ed7ce03",
@@ -20460,7 +20447,7 @@
       }
     ]
   },
-  "group_1100": {
+  "group_1099": {
     "-1": [
       {
         "product_id": "d830ff86-4f6f-4bf1-a7a0-483edeff2fd8",
@@ -20484,7 +20471,7 @@
       }
     ]
   },
-  "group_1101": {
+  "group_1100": {
     "-1": [
       {
         "product_id": "bc39b58a-62ab-4068-a420-d10e867997c3",
@@ -20498,7 +20485,7 @@
       }
     ]
   },
-  "group_1102": {
+  "group_1101": {
     "-1": [
       {
         "product_id": "524e680f-56db-4197-876a-09057b4ff757",
@@ -20517,7 +20504,7 @@
       }
     ]
   },
-  "group_1103": {
+  "group_1102": {
     "-1": [
       {
         "product_id": "5aa32604-fd61-4d4a-8dab-83cc76a61f85",
@@ -20531,7 +20518,7 @@
       }
     ]
   },
-  "group_1104": {
+  "group_1103": {
     "-1": [
       {
         "product_id": "9a8eff95-9dba-4cd2-aa06-40c789d10be3",
@@ -20545,7 +20532,7 @@
       }
     ]
   },
-  "group_1105": {
+  "group_1104": {
     "-1": [
       {
         "product_id": "8d3d6bbc-d907-45d9-8a9d-bda0e8b50600",
@@ -20559,7 +20546,7 @@
       }
     ]
   },
-  "group_1106": {
+  "group_1105": {
     "-1": [
       {
         "product_id": "8f36970b-226e-462d-b0d9-de197427d763",
@@ -20573,7 +20560,7 @@
       }
     ]
   },
-  "group_1107": {
+  "group_1106": {
     "-1": [
       {
         "product_id": "05b07c3c-dd2b-4b41-b19a-6d339c098a3c",
@@ -20587,7 +20574,7 @@
       }
     ]
   },
-  "group_1108": {
+  "group_1107": {
     "-1": [
       {
         "product_id": "2e66a299-4b38-4a14-a70a-30912c196be5",
@@ -20606,7 +20593,7 @@
       }
     ]
   },
-  "group_1109": {
+  "group_1108": {
     "-1": [
       {
         "product_id": "f60ab4eb-969b-46f5-866d-d273f8da58ed",
@@ -20620,7 +20607,7 @@
       }
     ]
   },
-  "group_1110": {
+  "group_1109": {
     "-1": [
       {
         "product_id": "522f418e-5f60-438c-854a-60f38a380e5a",
@@ -20634,7 +20621,7 @@
       }
     ]
   },
-  "group_1111": {
+  "group_1110": {
     "-1": [
       {
         "product_id": "251dd249-f267-4173-9caf-451ac37c1d24",
@@ -20648,7 +20635,7 @@
       }
     ]
   },
-  "group_1112": {
+  "group_1111": {
     "-1": [
       {
         "product_id": "ba0bc7e9-8f05-4964-bf9c-545ccb00141f",
@@ -20662,7 +20649,7 @@
       }
     ]
   },
-  "group_1113": {
+  "group_1112": {
     "-1": [
       {
         "product_id": "e5ec565a-3b5e-4f43-97dc-a514db567f13",
@@ -20676,7 +20663,7 @@
       }
     ]
   },
-  "group_1114": {
+  "group_1113": {
     "-1": [
       {
         "product_id": "9a3ad370-b0d3-417b-b4dd-ece5b2b25abd",
@@ -20690,7 +20677,7 @@
       }
     ]
   },
-  "group_1115": {
+  "group_1114": {
     "-1": [
       {
         "product_id": "a71d481f-f8d9-4a05-b377-0b56983547af",
@@ -20704,7 +20691,7 @@
       }
     ]
   },
-  "group_1116": {
+  "group_1115": {
     "-1": [
       {
         "product_id": "336c35de-0c47-49dd-9d8f-8a2149cb2c35",
@@ -20718,7 +20705,7 @@
       }
     ]
   },
-  "group_1117": {
+  "group_1116": {
     "-1": [
       {
         "product_id": "7102780d-32e0-44f5-916a-01fa4dd73c1c",
@@ -20732,7 +20719,7 @@
       }
     ]
   },
-  "group_1118": {
+  "group_1117": {
     "-1": [
       {
         "product_id": "b49fb7c6-987c-43b9-91d7-4c06a10e046d",
@@ -20746,7 +20733,7 @@
       }
     ]
   },
-  "group_1119": {
+  "group_1118": {
     "-1": [
       {
         "product_id": "9735b773-237e-46b5-9685-ae9df8081f1f",
@@ -20760,7 +20747,7 @@
       }
     ]
   },
-  "group_1120": {
+  "group_1119": {
     "-1": [
       {
         "product_id": "371a9938-1053-47cb-900d-fbfbaee7fc63",
@@ -20774,7 +20761,7 @@
       }
     ]
   },
-  "group_1121": {
+  "group_1120": {
     "-1": [
       {
         "product_id": "8150da4b-4404-42a6-9d36-8b7c68dd9528",
@@ -20798,7 +20785,7 @@
       }
     ]
   },
-  "group_1122": {
+  "group_1121": {
     "-1": [
       {
         "product_id": "a2bd4319-bbc1-4f08-9302-f40bb1840e95",
@@ -20812,7 +20799,7 @@
       }
     ]
   },
-  "group_1123": {
+  "group_1122": {
     "-1": [
       {
         "product_id": "21f1a15f-bf1d-4bff-b7cf-849568c4c6ad",
@@ -20831,7 +20818,7 @@
       }
     ]
   },
-  "group_1124": {
+  "group_1123": {
     "-1": [
       {
         "product_id": "23932808-d9c3-4ef6-a356-9f5adeb28ca1",
@@ -20845,7 +20832,7 @@
       }
     ]
   },
-  "group_1125": {
+  "group_1124": {
     "-1": [
       {
         "product_id": "53a2f932-65a4-49b4-9b89-7410f0565074",
@@ -20869,7 +20856,7 @@
       }
     ]
   },
-  "group_1126": {
+  "group_1125": {
     "-1": [
       {
         "product_id": "1ddfec2c-c1d6-4598-ac7c-f4aa4275ebf2",
@@ -20883,7 +20870,7 @@
       }
     ]
   },
-  "group_1127": {
+  "group_1126": {
     "-1": [
       {
         "product_id": "b0678c83-e674-4c03-aee2-0182d5ea9519",
@@ -20897,7 +20884,7 @@
       }
     ]
   },
-  "group_1128": {
+  "group_1127": {
     "-1": [
       {
         "product_id": "2eed0197-fd11-447e-801f-0c06f449506f",
@@ -20911,7 +20898,7 @@
       }
     ]
   },
-  "group_1129": {
+  "group_1128": {
     "-1": [
       {
         "product_id": "e25ba969-1a47-4bbd-9145-5ec688ac30ca",
@@ -20925,7 +20912,7 @@
       }
     ]
   },
-  "group_1130": {
+  "group_1129": {
     "-1": [
       {
         "product_id": "0e9ad2f6-1239-4409-b1d1-8389b9b829d5",
@@ -20939,27 +20926,36 @@
       }
     ]
   },
-  "group_1131": {
-    "-1": [
+  "group_1130": {
+    "0": [
       {
         "product_id": "6623ab94-758b-448e-bdc1-965276c29738",
         "name": "Under armour w surge 3",
         "image": "https://powersoft365customers.blob.core.windows.net/he132515a-d-e-natiotis-limited/Models/3024894-002.jpg?updated=20230905120550"
       },
       {
+        "product_id": "5eb42df5-f3b9-4a16-b426-4944c1a81085",
+        "name": "Under armour w surge 3",
+        "image": "https://powersoft365customers.blob.core.windows.net/he132515a-d-e-natiotis-limited/Models/3024894-112.jpg?updated=20221222124725"
+      }
+    ],
+    "1": [
+      {
         "product_id": "2c0be83d-0399-46ae-b021-a15eea57c2e0",
         "name": "Under armour w surge 3",
         "image": "https://powersoft365customers.blob.core.windows.net/he132515a-d-e-natiotis-limited/Models/3024894-001.jpg?updated=20220721132555"
       },
       {
-        "product_id": "6bc2d9e7-6728-4dbb-8d20-ecc660a4b5b8",
-        "name": "Under armour w surge 3",
-        "image": "https://powersoft365customers.blob.core.windows.net/he132515a-d-e-natiotis-limited/Models/3024894-007.jpg?updated=20221027120256"
-      },
-      {
         "product_id": "ad0c29d5-4901-4859-9f97-9d5da6ddd5f2",
         "name": "Under armour w surge 3",
         "image": "https://powersoft365customers.blob.core.windows.net/he132515a-d-e-natiotis-limited/Models/3024894-001.jpg?updated=20220721132555"
+      }
+    ],
+    "-1": [
+      {
+        "product_id": "6bc2d9e7-6728-4dbb-8d20-ecc660a4b5b8",
+        "name": "Under armour w surge 3",
+        "image": "https://powersoft365customers.blob.core.windows.net/he132515a-d-e-natiotis-limited/Models/3024894-007.jpg?updated=20221027120256"
       },
       {
         "product_id": "863557dc-1c2d-485a-959b-e164ce4fd846",
@@ -20970,15 +20966,10 @@
         "product_id": "50759c3f-d712-41b2-abad-8b0a90d18307",
         "name": "Under armour w surge 3",
         "image": "https://powersoft365customers.blob.core.windows.net/he132515a-d-e-natiotis-limited/Models/3024894-002.jpg?updated=20230905120550"
-      },
-      {
-        "product_id": "5eb42df5-f3b9-4a16-b426-4944c1a81085",
-        "name": "Under armour w surge 3",
-        "image": "https://powersoft365customers.blob.core.windows.net/he132515a-d-e-natiotis-limited/Models/3024894-112.jpg?updated=20221222124725"
       }
     ]
   },
-  "group_1132": {
+  "group_1131": {
     "-1": [
       {
         "product_id": "55484027-e674-4740-ba15-dcf0cdec05b9",
@@ -20997,7 +20988,7 @@
       }
     ]
   },
-  "group_1133": {
+  "group_1132": {
     "-1": [
       {
         "product_id": "815d871c-5e58-4f3d-8ab6-ae0a23e9aff4",
@@ -21011,7 +21002,7 @@
       }
     ]
   },
-  "group_1134": {
+  "group_1133": {
     "-1": [
       {
         "product_id": "07246814-aeab-46c6-875b-d6dcbf829ddd",
@@ -21025,7 +21016,7 @@
       }
     ]
   },
-  "group_1135": {
+  "group_1134": {
     "-1": [
       {
         "product_id": "d985cd72-8e6b-4c4f-b65c-54f63413b3cb",
@@ -21039,7 +21030,7 @@
       }
     ]
   },
-  "group_1136": {
+  "group_1135": {
     "-1": [
       {
         "product_id": "d2e9e3f8-0585-4275-bd6d-9d3f807cdf65",
@@ -21053,7 +21044,7 @@
       }
     ]
   },
-  "group_1137": {
+  "group_1136": {
     "-1": [
       {
         "product_id": "81a29eee-0072-40d3-96eb-97fdcdb4be20",
@@ -21072,7 +21063,7 @@
       }
     ]
   },
-  "group_1138": {
+  "group_1137": {
     "-1": [
       {
         "product_id": "d2ec28e1-13a5-449a-934f-db0d0c38d281",
@@ -21086,7 +21077,7 @@
       }
     ]
   },
-  "group_1139": {
+  "group_1138": {
     "-1": [
       {
         "product_id": "5659eb44-6c51-4a4f-a525-cc3d7363ead8",
@@ -21105,7 +21096,7 @@
       }
     ]
   },
-  "group_1140": {
+  "group_1139": {
     "-1": [
       {
         "product_id": "dc8d75d8-64fb-424c-8144-4f62bf5d9166",
@@ -21129,7 +21120,7 @@
       }
     ]
   },
-  "group_1141": {
+  "group_1140": {
     "-1": [
       {
         "product_id": "2fd37d51-3612-444a-a318-442e95371a31",
@@ -21163,7 +21154,7 @@
       }
     ]
   },
-  "group_1142": {
+  "group_1141": {
     "-1": [
       {
         "product_id": "97eb9f1b-e1b9-4515-97c1-1a4cbe278f19",
@@ -21182,7 +21173,7 @@
       }
     ]
   },
-  "group_1143": {
+  "group_1142": {
     "-1": [
       {
         "product_id": "6f302b78-9a86-484e-894f-bb39220931a3",
@@ -21206,7 +21197,7 @@
       }
     ]
   },
-  "group_1144": {
+  "group_1143": {
     "-1": [
       {
         "product_id": "c78c33b6-756c-48ca-9ffb-c4ffb0cf9821",
@@ -21220,7 +21211,7 @@
       }
     ]
   },
-  "group_1145": {
+  "group_1144": {
     "-1": [
       {
         "product_id": "3a5b485a-294a-44d6-a516-f42a9762098a",
@@ -21234,7 +21225,7 @@
       }
     ]
   },
-  "group_1146": {
+  "group_1145": {
     "-1": [
       {
         "product_id": "0aaddf5d-8686-4fe8-8ed5-4421f991b225",
@@ -21248,7 +21239,7 @@
       }
     ]
   },
-  "group_1147": {
+  "group_1146": {
     "-1": [
       {
         "product_id": "cb420a49-fadd-4155-89ad-f08bed4bca55",
@@ -21267,7 +21258,7 @@
       }
     ]
   },
-  "group_1148": {
+  "group_1147": {
     "-1": [
       {
         "product_id": "0edf516e-ac5c-4a9d-96ef-3daf9c84de4a",
@@ -21291,7 +21282,7 @@
       }
     ]
   },
-  "group_1149": {
+  "group_1148": {
     "-1": [
       {
         "product_id": "26d17458-d07c-4e5d-81fb-2365437c5f29",
@@ -21305,7 +21296,7 @@
       }
     ]
   },
-  "group_1150": {
+  "group_1149": {
     "-1": [
       {
         "product_id": "bdebd63a-1cb5-4351-b5f0-79edffc033dc",
@@ -21319,7 +21310,7 @@
       }
     ]
   },
-  "group_1151": {
+  "group_1150": {
     "-1": [
       {
         "product_id": "0c0c6d32-3916-422a-96f6-136f00715615",
@@ -21333,7 +21324,7 @@
       }
     ]
   },
-  "group_1152": {
+  "group_1151": {
     "-1": [
       {
         "product_id": "fdd0eed9-9e05-4ca9-a832-b9cca492151d",
@@ -21357,7 +21348,7 @@
       }
     ]
   },
-  "group_1153": {
+  "group_1152": {
     "-1": [
       {
         "product_id": "d0c1294c-78ab-46dd-ba6a-45579584894e",
@@ -21371,7 +21362,7 @@
       }
     ]
   },
-  "group_1154": {
+  "group_1153": {
     "-1": [
       {
         "product_id": "05777b43-7e66-4b02-9d34-558802b7d6b5",
@@ -21385,7 +21376,7 @@
       }
     ]
   },
-  "group_1155": {
+  "group_1154": {
     "-1": [
       {
         "product_id": "9d8ed259-2344-443e-a378-3f86012c477c",
@@ -21399,7 +21390,7 @@
       }
     ]
   },
-  "group_1156": {
+  "group_1155": {
     "-1": [
       {
         "product_id": "82dc84ea-d6c8-48dc-baf3-a2be373c2bb3",
@@ -21413,7 +21404,7 @@
       }
     ]
   },
-  "group_1157": {
+  "group_1156": {
     "-1": [
       {
         "product_id": "1892d0fe-44e2-4e7c-92e6-bcb241e36e3c",
@@ -21427,7 +21418,7 @@
       }
     ]
   },
-  "group_1158": {
+  "group_1157": {
     "-1": [
       {
         "product_id": "0ee2348c-f92e-4dcd-adc3-72f5f53a0ee4",
@@ -21441,7 +21432,7 @@
       }
     ]
   },
-  "group_1159": {
+  "group_1158": {
     "-1": [
       {
         "product_id": "e6dccab3-374d-41b1-8a8b-1cd9d634c8e1",
@@ -21460,7 +21451,7 @@
       }
     ]
   },
-  "group_1160": {
+  "group_1159": {
     "-1": [
       {
         "product_id": "d84bd141-852f-43d1-b5a2-3d60fd5788e6",
@@ -21479,7 +21470,7 @@
       }
     ]
   },
-  "group_1161": {
+  "group_1160": {
     "-1": [
       {
         "product_id": "85d9bb74-addd-46b9-b21c-02b9a458e501",
@@ -21498,7 +21489,7 @@
       }
     ]
   },
-  "group_1162": {
+  "group_1161": {
     "-1": [
       {
         "product_id": "a1fe8c5a-e325-4046-bbe1-6091402d6f0a",
@@ -21527,7 +21518,7 @@
       }
     ]
   },
-  "group_1163": {
+  "group_1162": {
     "-1": [
       {
         "product_id": "14f871f3-1455-4faa-bee9-28bc5ce02e2e",
@@ -21546,7 +21537,7 @@
       }
     ]
   },
-  "group_1164": {
+  "group_1163": {
     "-1": [
       {
         "product_id": "e6ecc206-a03c-4b2e-8b5d-a3895ee8c65a",
@@ -21565,7 +21556,7 @@
       }
     ]
   },
-  "group_1165": {
+  "group_1164": {
     "-1": [
       {
         "product_id": "a3ec3c80-facb-4d7b-91cc-da49711a0ff3",
@@ -21579,7 +21570,7 @@
       }
     ]
   },
-  "group_1166": {
+  "group_1165": {
     "-1": [
       {
         "product_id": "b949b0fa-b16e-4d81-be5f-12a657161f7f",
@@ -21593,7 +21584,7 @@
       }
     ]
   },
-  "group_1167": {
+  "group_1166": {
     "-1": [
       {
         "product_id": "3219c4b8-c3f3-4c85-8d1c-7c7ae62abbaf",
@@ -21607,7 +21598,7 @@
       }
     ]
   },
-  "group_1168": {
+  "group_1167": {
     "-1": [
       {
         "product_id": "571e754b-03c6-46d0-b009-390ac8820d21",
@@ -21621,7 +21612,7 @@
       }
     ]
   },
-  "group_1169": {
+  "group_1168": {
     "-1": [
       {
         "product_id": "fe2c7d00-291d-4cdd-8afd-d854be30980d",
@@ -21635,7 +21626,7 @@
       }
     ]
   },
-  "group_1170": {
+  "group_1169": {
     "-1": [
       {
         "product_id": "6a10c6b5-a40e-48bb-a83c-6811bb63ee00",
@@ -21649,7 +21640,7 @@
       }
     ]
   },
-  "group_1171": {
+  "group_1170": {
     "-1": [
       {
         "product_id": "83d79b68-18f8-4cee-b26c-8805d8d81f19",
@@ -21668,7 +21659,7 @@
       }
     ]
   },
-  "group_1172": {
+  "group_1171": {
     "-1": [
       {
         "product_id": "50049a5a-c3f8-44f6-a2a3-39e4db1f4f86",
@@ -21682,7 +21673,7 @@
       }
     ]
   },
-  "group_1173": {
+  "group_1172": {
     "-1": [
       {
         "product_id": "eeeef18e-f1b4-4de6-9196-d58c440969fd",
@@ -21711,7 +21702,7 @@
       }
     ]
   },
-  "group_1174": {
+  "group_1173": {
     "-1": [
       {
         "product_id": "1d7a008c-e925-4df5-ac42-70b92b72f339",
@@ -21725,7 +21716,7 @@
       }
     ]
   },
-  "group_1175": {
+  "group_1174": {
     "-1": [
       {
         "product_id": "bad74ebc-8a0e-4784-a5a7-0eec83c43118",
@@ -21744,7 +21735,7 @@
       }
     ]
   },
-  "group_1176": {
+  "group_1175": {
     "-1": [
       {
         "product_id": "c5dccc05-cf19-4d3c-b581-fbc76b7db723",
